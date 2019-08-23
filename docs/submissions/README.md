@@ -1,6 +1,9 @@
 # Submission Data
 <br>
 <bar-chart :library="{defaultFontFamily: 'Roboto'}" :colors="['#FFD657']" xtitle="Total Abstract Submissions" :data="[['2019', 871], ['2018', 652]]"></bar-chart>
+
+<apexchart width="500" type="bar" :data="[30, 40, 45, 50, 49, 60, 70, 91]"></apexchart>
+
 <br>
 
 ## Acceptance and Rejection Rates

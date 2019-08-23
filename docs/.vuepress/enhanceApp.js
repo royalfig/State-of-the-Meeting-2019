@@ -1,6 +1,9 @@
 import Vue from 'vue'
 import Chartkick from 'vue-chartkick'
 import Chart from 'chart.js'
+import Dotenv from 'dotenv'
+import ApexCharts from 'apexcharts'
+import VueApexCharts from 'vue-apexcharts'
 
 export default ({
     Vue, // the version of Vue being used in the VuePress app
@@ -10,4 +13,7 @@ export default ({
 }) => {
     Vue.use(Chartkick.use(Chart))
     Vue.use(Chartkick)
+    Vue.use(Dotenv)
+    Vue.use(ApexCharts)
+    Vue.use(VueApexCharts)
 }

@@ -2,7 +2,7 @@
 
 **🌍 Attendee Geography**
 
-<geo-chart :data="[['United States',218],['United Kingdom',95],['Germany',78],['Netherlands',63],['France',20],['Canada',14],['Italy',13],['Spain',12],['Switzerland',12],['Portugal',11],['Belgium',7],['Israel',6],['Australia',5],['Austria',5],['Brazil',4],['Denmark',4],['Sweden',4],['Chile',3],['China',3],['Hong Kong S',3],['India',3],['Norway',3],['Finland',2],['Greece',2],['Hungary',2],['Japan',2],['Korea South',2],['Mexico',2],['Russia',2],['Taiwan',2],['Croatia',1],['Czech Republic',1],['Ireland',1],['New Zealand',1],['Poland',1],['Romania',1]]"></geo-chart>
+<geo-chart adapter="google" :data="[['United States',218],['United Kingdom',95],['Germany',78],['Netherlands',63],['France',20],['Canada',14],['Italy',13],['Spain',12],['Switzerland',12],['Portugal',11],['Belgium',7],['Israel',6],['Australia',5],['Austria',5],['Brazil',4],['Denmark',4],['Sweden',4],['Chile',3],['China',3],['Hong Kong S',3],['India',3],['Norway',3],['Finland',2],['Greece',2],['Hungary',2],['Japan',2],['Korea South',2],['Mexico',2],['Russia',2],['Taiwan',2],['Croatia',1],['Czech Republic',1],['Ireland',1],['New Zealand',1],['Poland',1],['Romania',1]]"></geo-chart>
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis lectus nulla at volutpat diam ut venenatis tellus in. Posuere urna nec tincidunt praesent semper feugiat. Fames ac turpis egestas sed tempus urna. At urna condimentum mattis pellentesque id nibh tortor id. Aliquam id diam maecenas ultricies mi eget mauris. A cras semper auctor neque vitae tempus quam. A condimentum vitae sapien pellentesque. Felis eget nunc lobortis mattis aliquam faucibus purus. Nec sagittis aliquam malesuada bibendum.
