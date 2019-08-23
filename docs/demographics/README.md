@@ -1,5 +1,10 @@
 # Demographics
 
+**🌍 Attendee Geography**
+
+<geo-chart :data="[['United States',218],['United Kingdom',95],['Germany',78],['Netherlands',63],['France',20],['Canada',14],['Italy',13],['Spain',12],['Switzerland',12],['Portugal',11],['Belgium',7],['Israel',6],['Australia',5],['Austria',5],['Brazil',4],['Denmark',4],['Sweden',4],['Chile',3],['China',3],['Hong Kong S',3],['India',3],['Norway',3],['Finland',2],['Greece',2],['Hungary',2],['Japan',2],['Korea South',2],['Mexico',2],['Russia',2],['Taiwan',2],['Croatia',1],['Czech Republic',1],['Ireland',1],['New Zealand',1],['Poland',1],['Romania',1]]"></geo-chart>
+
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis lectus nulla at volutpat diam ut venenatis tellus in. Posuere urna nec tincidunt praesent semper feugiat. Fames ac turpis egestas sed tempus urna. At urna condimentum mattis pellentesque id nibh tortor id. Aliquam id diam maecenas ultricies mi eget mauris. A cras semper auctor neque vitae tempus quam. A condimentum vitae sapien pellentesque. Felis eget nunc lobortis mattis aliquam faucibus purus. Nec sagittis aliquam malesuada bibendum.
 
 Sed elementum tempus egestas sed sed risus. A diam sollicitudin tempor id eu nisl nunc mi. Eget arcu dictum varius duis. Et sollicitudin ac orci phasellus. Tristique senectus et netus et malesuada. Sodales ut eu sem integer vitae justo eget magna fermentum. Tristique sollicitudin nibh sit amet commodo nulla facilisi nullam. Proin sagittis nisl rhoncus mattis rhoncus urna. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Eleifend quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus. Nec feugiat in fermentum posuere urna nec tincidunt praesent. Eu lobortis elementum nibh tellus molestie nunc non. Turpis in eu mi bibendum neque egestas congue quisque egestas.
@@ -9,3 +14,13 @@ Sagittis eu volutpat odio facilisis. Non tellus orci ac auctor augue mauris augu
 Pretium fusce id velit ut tortor pretium viverra. Sagittis eu volutpat odio facilisis mauris sit amet massa. Sit amet consectetur adipiscing elit ut aliquam purus sit amet. Eget aliquet nibh praesent tristique magna sit amet purus. Facilisis magna etiam tempor orci eu lobortis elementum nibh. Donec adipiscing tristique risus nec feugiat in fermentum posuere. Orci a scelerisque purus semper eget duis at tellus at. Etiam sit amet nisl purus in mollis nunc sed. Blandit aliquam etiam erat velit scelerisque in. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa. Erat imperdiet sed euismod nisi porta lorem. Magna etiam tempor orci eu. Diam quam nulla porttitor massa id neque aliquam vestibulum. Tincidunt arcu non sodales neque. Condimentum vitae sapien pellentesque habitant morbi tristique senectus et netus. Nunc mi ipsum faucibus vitae. Sem viverra aliquet eget sit amet tellus cras.
 
 Ultrices dui sapien eget mi proin sed libero enim sed. Elit pellentesque habitant morbi tristique senectus et netus. Vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras tincidunt. Sagittis id consectetur purus ut faucibus. Nec feugiat nisl pretium fusce id. Id leo in vitae turpis massa sed. Nunc consequat interdum varius sit amet mattis vulputate enim. Quis lectus nulla at volutpat diam ut venenatis tellus in. Feugiat in fermentum posuere urna nec tincidunt praesent semper feugiat. Quam id leo in vitae turpis massa sed. Posuere ac ut consequat semper viverra nam. Imperdiet massa tincidunt nunc pulvinar sapien et ligula ullamcorper. Leo vel orci porta non pulvinar neque laoreet suspendisse interdum. Molestie ac feugiat sed lectus vestibulum mattis. Mollis aliquam ut porttitor leo a diam sollicitudin. Lectus mauris ultrices eros in cursus turpis. Tincidunt nunc pulvinar sapien et ligula.
+
+<script>
+export default {
+  mounted () {
+    let script = document.createElement('script')
+    script.setAttribute('src', 'https://www.gstatic.com/charts/loader.js')
+    document.head.appendChild(script)
+  }
+}
+</script>
