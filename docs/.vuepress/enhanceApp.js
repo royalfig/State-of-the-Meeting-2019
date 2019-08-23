@@ -8,5 +8,6 @@ export default ({
     router, // the router instance for the app
     siteData // site metadata
 }) => {
+
     Vue.use(Chartkick.use(Chart))
 }

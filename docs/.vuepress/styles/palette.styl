@@ -1,9 +1,50 @@
 utrecht = #ffd657
+green = #82ba5c
+orange = #d38a45
+red = #b84b38
+
+gray = #4b5148
+white = #ECFFE3
+black = #343832
+
+body
+    color: black
+a
+    color: orange
 
 .home .hero .action-button
     background-color: utrecht
-    border-bottom: lightness(utrecht, 40%)
+    border-bottom: orange
     color: black
     &:hover
-        background-color: lightness(utrecht, 40%)
-        border-bottom: lightness(utrecht, 30%)
+        background-color: green
+        border-bottom: lightness(orange, 30%)
+
+.navbar .site-name
+    color: gray
+
+a.sidebar-link
+    color: black
+    &:hover
+        color: orange
+
+a.sidebar-link.active
+    color: orange
+    border-left-color: orange
+
+.navbar .links
+    background-color: #fff
+
+.home .feature h2,
+.home .hero .description,
+.home .footer
+    color: gray
+
+.feature.feature
+    color: gray
+    text-align: center
+
+.home .feature
+    h2,
+    p
+        color: gray

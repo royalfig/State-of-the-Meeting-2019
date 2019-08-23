@@ -1,6 +1,6 @@
   module.exports = {
-      title: 'HSS 2019',
-      description: 'A report on the History of Science Society\'s 2019 Meeting in Utrecht, the Netherlands',
+      title: 'State of the Meeting 2019',
+      description: 'A Report from the History of Science Society',
       themeConfig: {
           nav: [{
                   text: 'Join',

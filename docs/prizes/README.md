@@ -1,38 +1,74 @@
-# HSS 2019 Prize Winners
+# 🏆 Prize Winners
+<p>The History of Science Society's 2019 prize and award winners.</p>
 
 ## HSS/NASA Fellowship in Aerospace History
-Claire Isabel Webb (MIT)
+::: tip
+Fellowships in Aerospace History are offered annually by the National Aeronautics Space Administration (NASA) to support significant scholarly research projects in aerospace history. [Learn more](https://hssonline.org/employment/fellowship-in-the-history-of-space-science/)
+:::
 
-![Claire Webb, HSS/NASA Fellow in Aerospace History](./webb.png)
+<p class="prize-winner">Claire Isabel Webb</p>
+
+<p class="prize-winner-affiliation">Massachusets Institute of Technology</p>
+
+<img class="prize-winner-headshot" alt="Claire Webb, HSS/NASA Fellow in Aerospace History" src="./webb.png">
 
 Claire Isabel Webb is a fifth-year Ph.D. candidate in the History, Anthropology, and Science, Technology, and Society (HASTS) program at MIT. Her dissertation, “Technologies of Perception: The Search for Life and Intelligence Beyond Earth” uses both historical and ethnographic methods to analyze how radio and optical astronomers call upon familiar modes of sensing to make meaning about as-yet-undiscovered objects: the alien and extraterrestrial life. “Technologies of Perception” asks: How did scientists construct experimental systems to imagine, relate to, and investigate unknown objects—ET and exotic microbes—through Earthly models of life and intelligence? Using historical material dating from 1950s-2000s, she contends that scientists imagined potential Others—extraterrestrial microbes and beings—through Earth- and body-bound metaphors of seeing (exobiologists) and listening (SETI scientists). Scientists created technologies of perception using optical and radio techniques by which they bridged the space between definitions of Earthly life and human intelligence and as-yet-unknown, but potentially commensurable, forms of Other life and Other intelligence. At stake were new formulations of perceptibility and sensibility; clues to the origin of (intelligent) life on Earth; and, a transformed connection to the cosmos through technology in the post-War II era.
 
-Omar Nasim, HSS Representative for the Fellowship Committee
+<p class="committee">Omar Nasim, HSS Representative for the Fellowship Committee</p>
 
-## Nathan Reingold Prize for best essay by a graduate student
-Brad Bolman (Harvard University)
+<div class="divider"></div>
+
+## Nathan Reingold Prize
+
+::: tip
+Established in 1955 by Ida and Henry Schuman of New York City to recognize an original graduate student essay on the history of science and its cultural influences. [Learn more](https://hssonline.org/about/honors/nathan-reingold-prize/)
+:::
+
+<p class="prize-winner">Brad Bolman</p>
+
+<p class="prize-winner-affiliation">Harvard University</p>
+
+<img class="prize-winner-headshot" alt="Brad Bolman, Reingold Prize Winner" src="./Bolman - Headshot - 2019.jpg">
 
 In “Pig Mentations: Race and Face in Radiobiology and Beyond,” Brad Bolman traces the emergence of the pig as an experimental animal in post-war North America, and particularly the white pig as a product and producer of that era’s ideas of race. In radiobiological studies of the effects of flash burns after nuclear detonations the “white pig” was putatively chosen because pig skin was deemed closest to human skin, and because whiteness revealed burn effects most clearly. Yet the white pig embodied cultural assumptions, prejudices and privileges as white pigs were identified with the skin of some universal “Man,” assumed to be self-evidently white. In lively and insightful prose, Bolman tracks these developments in the process of creating test pigs at the Experimental Animal Farm in Hanford, Washington, in the 1950s and 60s. The essay is a fascinating exploration of “species projection,” rehearsing human difference in research organisms, made visible by bringing together analyses from race studies, the history of science, and animal studies.
 
-Simon Werrett (Chair), Dániel Margócsy, Alisha Rankin
+<p class="committee">Simon Werrett (Chair), Dániel Margócsy, Alisha Rankin</p>
 
+<img alt="Bolman accepts Reingold Prize with Lightman" class="fullbleed" src="./bolman.jpg">
+
+<div class="divider"></div>
 
 ## Philip J. Pauly Prize
-for the best first book on the history of science in the Americas
-Megan Raby (The University of Texas at Austin)
+::: tip
+Awarded for the best first book on the history of science in the Americas and written in English [Learn more](https://hssonline.org/about/honors/philip-j-pauly-prize/)
+:::
 
-Megan Raby’s book American Tropics: The Caribbean Roots of Biodiversity Science stands as a thought-provoking, archivally-robust work of immense value to historians working at the intersection of science, professionalization, epistemology, empire, and the environment. Raby focuses on an influential cluster of U.S.-sponsored ecological research stations that took root in the circum-Caribbean neocolonies of Jamaica, Panama, Cuba, and other locales rendered accessible by imperial transportation and patronage networks during the early twentieth century. American Tropics traces the role of U.S. scientists in shaping tropical biology, first as a venue for basic biological research, and later as a much more applied arena for biodiversity studies, tropical conservation, and sustainable global development. Juxtaposed against this set of shifting paradigms and scientific challenges—including that of extending specific place-based investigations into general knowledge—is the political legacy of colonialism. Even today, tropical biology remains a discipline dominated by outsiders. As Raby persuasively concludes, “Tropical stations must become sites for creating not only knowledge of biodiversity but also new, equitable local and international scientific relations. The future of research in the tropics demands a full recognition of its history.”
+<p class="prize-winner">Megan Raby</p>
 
+<p class="prize-winner-affiliation">The University of Texas at Austin</p>
 
-We applaud Megan Raby’s historical analysis, and are very pleased to recognize American Tropics with the second annual Philip J. Pauly Prize for the best first book on the history of American science.
+<img class="prize-winner-headshot" alt="Brad Bolman, Reingold Prize Winner" src="./Raby - Headshot - 2019.jpg">
 
-Jacob Hamblin (Chair),Christine Keiner, Conevery Bolton Valenčius
+Megan Raby’s book <em>[American Tropics: The Caribbean Roots of Biodiversity Science ](https://amzn.to/2KT6rDT)</em> stands as a thought-provoking, archivally-robust work of immense value to historians working at the intersection of science, professionalization, epistemology, empire, and the environment. Raby focuses on an influential cluster of U.S.-sponsored ecological research stations that took root in the circum-Caribbean neocolonies of Jamaica, Panama, Cuba, and other locales rendered accessible by imperial transportation and patronage networks during the early twentieth century. American Tropics traces the role of U.S. scientists in shaping tropical biology, first as a venue for basic biological research, and later as a much more applied arena for biodiversity studies, tropical conservation, and sustainable global development.
 
-Leah Aronowsky (University of Illinois at Urbana-Champaign)
+<a href="https://amzn.to/2KT6rDT" aria-label="American Tropics by Megan Raby"><img class="book" alt="American Tropics by Megan Raby" src="https://images-na.ssl-images-amazon.com/images/I/61vnTsGydxL._SX329_BO1,204,203,200_.jpg"></a>
 
-Ronald Rainger Prize
+Juxtaposed against this set of shifting paradigms and scientific challenges—including that of extending specific place-based investigations into general knowledge—is the political legacy of colonialism. Even today, tropical biology remains a discipline dominated by outsiders. As Raby persuasively concludes, “Tropical stations must become sites for creating not only knowledge of biodiversity but also new, equitable local and international scientific relations. The future of research in the tropics demands a full recognition of its history.”
+
+We applaud Megan Raby’s historical analysis, and are very pleased to recognize <em>American Tropics</em> with the second annual Philip J. Pauly Prize for the best first book on the history of American science.
+
+<div class="committee">
+	Jacob Hamblin (Chair),Christine Keiner, Conevery Bolton Valenčius
+</div>
+
+<img alt="Raby accepts Pauly Prize with Lightman" class="fullbleed" src="./raby.jpg">
+
+<div class="divider"></div>
+
+## Ronald Rainger Prize
 for the best early career work on the history of the earth and environmental sciences
 
+Leah Aronowsky (University of Illinois at Urbana-Champaign)
 The 2019 Ronald Rainger Prize for early-career scholarship in the history of the earth and environmental sciences is awarded to Leah Aronowsky for her essay, “Of Astronauts and Algae: NASA and the Dream of Multispecies Spaceflight,” recently published in Environmental Humanities (97:2/November 2017). Dr. Aronowsky completed her Ph.D. in the History of Science at Harvard University in 2018. Her beautifully-written paper illuminates an under-explored subject of the shifting thinking about interspecies interactions in space. Through an examination of two cases of unrealized spaceflight technologies — algae-based life support systems and Howard and Eugene Odum’s work of complexity and stability at the Pacific Proving Grounds — Aronowsky shows how NASA’s standards of control limited the possibility of a space cabin that embraced and showcased multispecies interdependency. What if, Aronowsky asks, the space cabin was not understood to be “the ultimate expression of humans’ supremacy over their environment but instead as a space that foregrounds their vital reliance on it”? The implication is, if we consider the cultural and political reach of the Space Race, a vastly different concept of humans’ place in the world. Instead, spaceflight remained emblematic of technoscientific supremacy and strictly minimized human risk. Aronowsky’s remarkably productive analysis of NASA’s road(s) not taken is imaginative and stimulating, and makes this essay a worthy winner of the Rainger Prize.
 
 Alexandra Hui (Chair), Mott Greene, Raf De Bont
@@ -121,3 +157,58 @@ The second is Wise’s energetic promotion of “genetics and society” at UCLA
 Finally, it bears emphasis that our most respected scholars are not defined just by the words they put on the page, but by the communities they foster within the discipline. Wise nourished flourishing programs in the history of science not once but three times, first at UCLA, next at Princeton University, and then again at UCLA. Dozens of Wise’s students walk the halls of our conferences, teach the history of science to new generations, and continue to enrich the field with their own research. Each of them carries what might be called a “Nortonian” stamp in their way of thinking, one that pushes for the highest intellectual and methodological standards. As one of those students put it in a fitting recent tweet (where else?), in reference to Wise’s pedagogy: “His resource is very very strong.” Some lessons stay learned.
 
 Lorraine Daston, Michael D. Gordin, David Kaiser, Theodore M. Porter
+
+<style lang="stylus">
+.custom-block.tip
+    background-color: white
+    border-color: green
+    a
+        color: green
+
+.divider
+    text-align: center;
+    height: 1em;
+    margin: 35px 0 60px
+    padding: 0
+    width: 100%
+
+    background-color: gray
+    border-radius: 4px
+    font-size: 1em;
+    line-height: 1;
+    opacity: .25
+    vertical-align: middle;
+
+.prize-winner
+    margin-bottom: 0
+    font-size: 1.5em
+    font-weight: 700
+    text-align: center
+
+.prize-winner-affiliation
+    margin-top: 0
+    margin-bottom: 1em
+    font-style: italic
+    text-align: center
+
+.prize-winner-headshot
+    display: block
+    margin: 2em auto
+    height: 300px
+
+.book
+    display: block
+    margin: 2em auto
+    height: 250px
+
+.fullbleed
+    display: block
+    margin: 2em auto
+    width: 100%
+
+.committee
+    text-align: right
+    font-style: italic
+    &:before
+        content: "— "
+</style>
