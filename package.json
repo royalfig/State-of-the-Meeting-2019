@@ -7,14 +7,17 @@
     "doc": "docs"
   },
   "dependencies": {
-    "apexcharts": "^3.8.4",
+    "apexcharts": "^3.8.5",
     "chart.js": "^2.8.0",
     "vue-apexcharts": "^1.4.0",
     "vue-chartist": "^2.2.1",
+    "vue-chartjs": "^3.4.2",
     "vue-chartkick": "^0.5.2"
   },
   "devDependencies": {
     "dotenv": "^8.1.0",
+    "eslint": "^6.2.2",
+    "eslint-plugin-vue": "^5.2.3",
     "vuepress": "^1.0.3"
   },
   "scripts": {

@@ -1,14 +1,16 @@
 # Submission Data
+
+::: tip
+**Highlights:** Submissions increased xxx. Organized sessions xxx. So many countries.
+:::
 <br>
 <bar-chart :library="{defaultFontFamily: 'Roboto'}" :colors="['#FFD657']" xtitle="Total Abstract Submissions" :data="[['2019', 871], ['2018', 652]]"></bar-chart>
-
-<apexchart width="500" type="bar" :data="[30, 40, 45, 50, 49, 60, 70, 91]"></apexchart>
 
 <br>
 
 ## Acceptance and Rejection Rates
 
-<p style="font-size: 1.2em; font-weight: 900; text-align: center;">2019</p>
+<p class="graph-header">2019</p>
 
 | **Type** | **Acceptances** | **Acceptance Rate** | **Rejections** | **Rejection Rate** | **Total Submissions** |
 | --- | ---:| ---:| ---:| ---:| ---:|
@@ -19,9 +21,9 @@
 
 <hr>
 
-<div style="opacity: .85">
+<div class="opacity-85">
 
-<p style="font-size: 1.2em; font-weight: 700; text-align: center;">2018</p>
+<p class="graph-header">2018</p>
 
 | **Type** | **Acceptances** | **Acceptance Rate** | **Rejections** | **Rejection Rate** | **Total Submissions** |
 | --- | ---:| ---:| ---:| ---:| ---:|
@@ -32,48 +34,106 @@
 
 </div>
 
-## Submission Breakdown
+## Submission Categories
+
+"Submission Categories" refers to the topics, chronologies, and geographies self-selected by submitting authors. Topics, in particular, remain a contentious ... topic, as we try to balance the need to keep options manageable with the need to ensure authors' work is fairly categorized and easy to find by attendees.
+
+This year, the categories were modeled on the *Isis* Cumulative Bibliography. More...
+
+Have thoughts on how we could improve our submission categories? Let us know.
 
 ### 📁 Topic
 
-<p style="font-size: 1.2em; font-weight: 900; text-align: center;">2019</p>
+<p class="graph-header">2019</p>
 
 <bar-chart :library="{defaultFontFamily: 'Roboto'}" :colors="['#82ba5c']" :data="[['Aspects of Scientific Practice/Organization', 155], ['Thematic Approaches to the Study of Science', 136], ['Medicine and Health', 135], ['Biology', 77], ['Physical Sciences', 69], ['Earth and Environmental Sciences', 49], ['Tools for Historians of Science', 49], ['Theoretical Approaches to the Study of Science', 39], ['Technology', 32], ['Social Sciences', 28], ['Mathematics', 21], ['Chemistry', 12]]"></bar-chart>
 
-<hr>
+#### Overview of Topics
+<ul>
+<li><strong>Tools for Historians of Science:</strong>&nbsp;careers, general histories of science, historiography, interdisciplinary or multitopic approaches, pedagogy, popular history of science, reference works and repositories, social engagement</li>
+<li><strong>Theoretical Approaches to the Study of Science:</strong>&nbsp;historians, history of science as a discipline, Science and Technology Studies, science studies, Sociology of Scientific Knowledge (SSK)</li>
+<li><strong>Thematic Approaches to the Study of Science:</strong>&nbsp;arts &amp; literature, economic, ethics, gender, law, politics, race and ethnicity, religion, war</li>
+<li><strong>Aspects of Scientific Practice/Organization:</strong>&nbsp;instruments and measurements, military funding of science, patronage, research and development ethics, science policy, scientific institutions and societies, scientific publication</li>
+<li><strong>Biology:</strong>&nbsp;biochemistry, botany, ecology, evolutionary biology, genetics, great chain of being, model organisms, molecular biology, natural history, speciation, zoology</li>
+<li><strong>Chemistry:</strong>&nbsp;alchemy, atomic theory, atomism, chemical revolution, electrochemistry, periodic system</li>
+<li><strong>Earth and Environmental Sciences:</strong>&nbsp;age of the earth, geography, geology, paleontology, volcanology</li>
+<li><strong>Mathematics:</strong>&nbsp;ethnomathematics, general, paleolithic, neolithic, indigenous cultures of the Americas, other indigenous cultures (non-European), indigenous European cultures (pre-Greek, etc.), Egyptian, Babylonian, Greek, Roman, China, Japan, Southeast Asia, Islam (medieval), India, medieval, 15th and 16th centuries, renaissance, 17th century, 18th century, 19th century, 20th century, twenty-first century, contemporary</li>
+<li><strong>Medicine and Health:</strong>&nbsp;anatomy, germ theory, nutrition, pharmacy, psychiatry, psychology, public health, wound care</li>
+<li><strong>Physical Sciences:</strong>&nbsp;astronomy, electricity, general relativity, materials science, mechanics, natural philosophy, optics, physics, quantum field theory, special relativity, thermodynamics</li>
+<li><strong>Social Sciences:</strong>&nbsp;archaeology, cultural anthropology, economics, education, law, linguistics, political science, sociology</li>
+<li><strong>Technology:</strong>&nbsp;agricultural science, air and space technologies, ancient Rome, biotechnology, computer science, digital technologies, industrial revolution, middle ages, second industrial revolution</li>
+</ul>
 
-<p style="font-size: 1.2em; font-weight: 700; text-align: center;">2018</p>
+<hr>
+<div class="opacity-85">
+
+<p class="graph-header">2018</p>
 
 <bar-chart :library="{defaultFontFamily: 'Roboto'}" :colors="['#82ba5c']" :data="[['Life Sciences', 52], ['Human and Social Sciences', 50], ['Medicine and Health', 43], ['Historiography', 38], ['Physical Sciences', 34], ['Natural Philosophy', 27], ['Environmental Sciences', 25], ['Technology', 18], ['Non-Western Science', 17], ['Practical Knowledge', 15], ['Mathematics', 4]]"></bar-chart>
+
+</div>
 
 <hr>
 
 ### ⌚️ Chronology
 
-<p style="font-size: 1.2em; font-weight: 900; text-align: center;">2019</p>
+<p class="graph-header">2019</p>
+
 
 <bar-chart :library="{defaultFontFamily: 'Roboto'}" :colors="['#82ba5c']" :data="[['20th century, late', 191], ['20th century, early', 164], ['19th century', 142], ['17th century', 73], ['18th century', 66], ['Cultural and cross-cultural contexts...', 49], ['Longue Durée', 32], ['Medieval', 29], ['21st century', 26], ['Renaissance', 23], ['Ancient Greek and Roman', 3], ['Chinese Dynasties/Centuries', 2]]"></bar-chart>
 
+
 <hr>
 
-<div style="opacity: .85">
-<p style="font-size: 1.2em; font-weight: 700; text-align: center;">2018</p>
+<div class="opacity-85">
+<p class="graph-header">2018</p>
 
 <bar-chart :library="{defaultFontFamily: 'Roboto'}" :colors="['#82ba5c']" :data="[['Modern', 396], ['Contemporary', 108], ['Early Modern', 95], ['Longue Durée', 39], ['Colonial', 14], ['Ancient', 13], ['Medieval and Renaissance', 10]]"></bar-chart>
 
-<hr>
 </div>
+<hr>
 
 ### 🌏 Geography
 
-<p style="font-size: 1.2em; font-weight: 900; text-align: center;">2019</p>
+<p class="graph-header">2019</p>
 
 <bar-chart :library="{defaultFontFamily: 'Roboto'}" :colors="['#82ba5c']" :data="[['Europe', 371], ['Global or Multilocational', 238], ['North America', 78], ['Africa', 23], ['East Asia', 21], ['Latin America', 19], ['South Asia', 18], ['Near and Middle East', 18], ['Southeast Asia', 7], ['Central Asia', 4], ['Australasia/Oceania', 4]]"></bar-chart>
 
 <hr>
+<div class="opacity-85">
 
-<p style="font-size: 1.2em; font-weight: 700; text-align: center;">2018</p>
+<p class="graph-header">2018</p>
 
 <bar-chart :library="{defaultFontFamily: 'Roboto'}" :colors="['#82ba5c']" :data="[['Transnational', 297], ['Europe', 174], ['North America', 126], ['East Asia', 26], ['Latin America', 24], ['Africa', 7], ['Near and Middle East', 6], ['South Asia', 6], ['Southeast Asia', 6], ['Australasia/Oceania', 2]]"></bar-chart>
 
+</div>
+
 <hr>
+
+## Submission Demographics
+
+### Gender
+
+<submissionGender/>
+
+### Employment
+
+<p class="graph-header">2019</p>
+
+<bar-chart :library="{defaultFontFamily: 'Roboto', fontSize: '16px'}" :colors="['#82ba5c']" :data="[['No response', 233],['Graduate student', 150],['Tenured faculty', 142],['Postdoc or Fellow', 123],['Contract faculty', 66],['Tenure-track faculty', 47],['Independent scholar', 27],['Gallery, library, archive, or museum', 13],['Non-academic employment', 13]]"></bar-chart>
+<hr>
+<div class="opacity-85">
+<p class="graph-header">2018</p>
+<bar-chart :library="{defaultFontFamily: 'Roboto', fontSize: '16px'}" :colors="['#82ba5c']" :data="[['Graduate student', 181],['Tenured faculty', 181],['No response', 159],['Postdoc or Fellow', 84],['Tenure-track faculty', 80],['Contract faculty', 45],['Independent scholar', 18],['Retired', 18],['Non-academic employment', 12],['Gallery, library, archive, or museum', 5],['Undergraduate student', 3]]"></bar-chart>
+<hr>
+</div>
+
+
+<style lang="stylus">
+.opacity-85
+    opacity: .85
+
+.graph-header
+    text-align: center
+    font-weight: 700
+</style>
