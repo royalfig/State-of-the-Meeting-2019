@@ -1,12 +1,10 @@
 # Submission Data
 
 ::: tip
-**Highlights:** Submissions increased xxx. Organized sessions xxx. So many countries.
+**Highlights:** Total abstract submissions increased by 33.5%. Organized sessions continue to have the highest acceptance rate compared to other submission types.
 :::
-<br>
-<bar-chart :library="{defaultFontFamily: 'Roboto'}" :colors="['#FFD657']" xtitle="Total Abstract Submissions" :data="[['2019', 871], ['2018', 652]]"></bar-chart>
 
-<br>
+<totalSubmissions/>
 
 ## Acceptance and Rejection Rates
 
@@ -97,37 +95,20 @@ Have thoughts on how we could improve our submission categories? Let us know.
 
 <p class="graph-header">2019</p>
 
-<bar-chart :library="{defaultFontFamily: 'Roboto'}" :colors="['#82ba5c']" :data="[['Europe', 371], ['Global or Multilocational', 238], ['North America', 78], ['Africa', 23], ['East Asia', 21], ['Latin America', 19], ['South Asia', 18], ['Near and Middle East', 18], ['Southeast Asia', 7], ['Central Asia', 4], ['Australasia/Oceania', 4]]"></bar-chart>
+<submissionGeography2019/>
 
-<hr>
-<div class="opacity-85">
-
-<p class="graph-header">2018</p>
-
-<bar-chart :library="{defaultFontFamily: 'Roboto'}" :colors="['#82ba5c']" :data="[['Transnational', 297], ['Europe', 174], ['North America', 126], ['East Asia', 26], ['Latin America', 24], ['Africa', 7], ['Near and Middle East', 6], ['South Asia', 6], ['Southeast Asia', 6], ['Australasia/Oceania', 2]]"></bar-chart>
-
-</div>
-
-<hr>
+<submissionGeography2018/>
 
 ## Submission Demographics
 
 ### Gender
 
-<submissionGender/>
+<submissionGender2019/>
+<submissionGender2018/>
 
 ### Employment
 
-<p class="graph-header">2019</p>
-
-<bar-chart :library="{defaultFontFamily: 'Roboto', fontSize: '16px'}" :colors="['#82ba5c']" :data="[['No response', 233],['Graduate student', 150],['Tenured faculty', 142],['Postdoc or Fellow', 123],['Contract faculty', 66],['Tenure-track faculty', 47],['Independent scholar', 27],['Gallery, library, archive, or museum', 13],['Non-academic employment', 13]]"></bar-chart>
-<hr>
-<div class="opacity-85">
-<p class="graph-header">2018</p>
-<bar-chart :library="{defaultFontFamily: 'Roboto', fontSize: '16px'}" :colors="['#82ba5c']" :data="[['Graduate student', 181],['Tenured faculty', 181],['No response', 159],['Postdoc or Fellow', 84],['Tenure-track faculty', 80],['Contract faculty', 45],['Independent scholar', 18],['Retired', 18],['Non-academic employment', 12],['Gallery, library, archive, or museum', 5],['Undergraduate student', 3]]"></bar-chart>
-<hr>
-</div>
-
+<submissionEmployment/>
 
 <style lang="stylus">
 .opacity-85

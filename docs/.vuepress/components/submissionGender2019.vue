@@ -15,7 +15,7 @@ export default {
     return {
       chartOptions: {
         title: {
-                text: 'Abstract Submissions by Gender (2019 vs 2018)',
+                text: 'Abstract Submissions by Gender (2019)',
                 floating: true,
                 // offsetY: 320,
                 align: 'center',
@@ -26,9 +26,9 @@ export default {
             },
         plotOptions: {
             bar: {
-              horizontal: false,
+              horizontal: true,
               dataLabels: {
-                position: 'bottom',
+                position: 'top',
               },
             }
           },
@@ -36,7 +36,11 @@ export default {
             palette: 'palette3' // upto palette10
           },
           dataLabels: {
-            enabled: false,
+            enabled: true,
+            offsetX: 30,
+            style: {
+              colors: ['#333']
+            }
           },
            stroke: {
             show: true,
@@ -46,15 +50,12 @@ export default {
         chart: {
           id: 'basic-bar'
         },
-        labels: ['Male','Female','No response','Prefer not to answer','Gender non-conforming','Female, Gender non-conforming, Two Spirit','Female, Gender non-conforming','Gender non-conforming, Non-Binary','A gender not listed here, Prefer not to answer','Other']
+        labels: ['Male','Female','No response','Prefer not to answer','Gender non-conforming','Female, Gender non-conforming, Two Spirit','Female, Gender non-conforming','Gender non-conforming, Non-Binary','A gender not listed here, Prefer not to answer']
       },
       series: [{
-          name: "2019",
-          data: [302, 275, 216, 25, 4, 1, 1, 1, 1, 0]
-        }, {
-          name: "2018",
-          data: [360, 345, 74, 0, 0, 0, 0, 0, 0, 7]
-        }]
+          name: '2019',
+          data: [302, 275, 216, 25, 4, 1, 1, 1, 1]
+      }]
     }
   },
 }
