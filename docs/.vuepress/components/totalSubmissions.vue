@@ -1,78 +1,51 @@
-<template>
-  <div class="chart">
-    <apexcharts height=300 type=bar :options="chartOptions" :series="series"></apexcharts>
-  </div>
-</template>
-
 <script>
-import VueApexCharts from 'vue-apexcharts'
+import { generateChart } from 'vue-chartjs'
+
+const totalSubs = generateChart('total-abstract-submissions', 'bar')
 
 export default {
   components: {
-    apexcharts: VueApexCharts,
+    'bar-chart': barChart
   },
-  data: function() {
-    return {
-      chartOptions: {
-        title: {
-                text: 'Total Abstract Submissions (2019 vs 2018)',
-                floating: true,
-                // offsetY: 320,
-                align: 'center',
-                style: {
-                    color: '#333',
-                    fontSize: '16'
+  extends: totalSubs,
+  data: () => ({
 
-                }
-            },
-        plotOptions: {
-            bar: {
-              horizontal: true,
-              dataLabels: {
-                position: 'top',
-              },
-            }
-          },
-          theme: {
-            palette: 'palette3' // upto palette10
-          },
-          dataLabels: {
-            enabled: true,
-            offsetX: 30,
-            style: {
-              colors: ['#333']
-            }
-          },
-           stroke: {
-            show: true,
-            width: .5,
-            colors: ['#333']
-          },
-        chart: {
-          id: 'basic-bar'
-        },
-        labels: ['2019', '2018']
-      },
-      series: [{
-          name: '2019 Total Submissions',
-          data: [871]
-        },{
-          name: '2018 Total Submissions',
-          data: [652]
+    chartdata: {
+      labels: ['2018', '2019'],
+      datasets: [
+        {
+          data: [652, 871],
+          backgroundColor: '#b84b38'
         }
-      ],
-
-      }
+      ]
+    },
+    options: {
+      legend: {
+        display: false
+      },
+      title: {
+        display: 'true',
+        text: 'Total Abstract Submissions (2018 vs 2019)'
+      },
+      responsive: true,
+      maintainAspectRatio: false,
+      scales: {
+            yAxes: [{
+                ticks: {
+                    beginAtZero: true
+                }
+            }]
+        }
     }
-  }
+  }),
 
+  mounted () {
+    this.renderChart(this.chartdata, this.options)
+    Chart.defaults.global.defaultFontFamily = '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"';
+    Chart.defaults.global.defaultFontSize = 15;
+    Chart.defaults.global.defaultFontColor = '#333';
+    Chart.defaults.global.legend.display = false;
+  }
+}
 
 </script>
-
-<style lang="stylus">
-.chart
-  margin: 2em 0;
-  padding: 1em
-  border: 1px solid rgba(0,0,0,.25)
-  box-shadow: 1px 1px 2px rgba(0,0,0,.25), 3px 3px 6px 3px rgba(0,0,0,.15)
-</style>
