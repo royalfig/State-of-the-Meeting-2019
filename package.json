@@ -2,7 +2,6 @@
   "name": "sotm-2019",
   "version": "1.0.0",
   "description": "Digital Report: State of the History of Science Society's 2019",
-  "main": "index.js",
   "directories": {
     "doc": "docs"
   },

@@ -1,6 +1,6 @@
 <template>
   <div class="chart">
-    <apexcharts height=500 type=bar stacked=true :options="chartOptions" :series="series"></apexcharts>
+    <apexcharts height=500 type=bar :options="chartOptions" :series="series"></apexcharts>
   </div>
 </template>
 
@@ -15,13 +15,13 @@ export default {
     return {
       chartOptions: {
         title: {
-                text: 'Abstract Submissions by Geography (2019)',
+                text: 'Abstract Submissions by Chronology (2019)',
                 floating: true,
                 // offsetY: 320,
                 align: 'center',
                 style: {
-                    color: '#333'
-
+                    color: '#333',
+                    fontSize: '16'
                 }
             },
         plotOptions: {
@@ -50,20 +50,20 @@ export default {
         chart: {
           id: 'basic-bar'
         },
-        labels: ['Europe', 'Global or Multilocational', 'North America', 'Africa', 'East Asia', 'Latin America', 'South Asia', 'Near and Middle East', 'Southeast Asia', 'Central Asia', 'Australasia/Oceania']
+        labels: ['20th century, late', '20th century, early', '19th century', '17th century', '18th century', 'Cultural and cross-cultural contexts...', 'Longue Durée', 'Medieval', '21st century', 'Renaissance', 'Ancient Greek and Roman', 'Chinese Dynasties/Centuries']
       },
       series: [{
-          name: "2019",
-          data: [371, 238, 78, 23, 21, 19, 18, 18, 7, 4, 4]
+          name: '2019',
+          data: [191, 164, 142, 73, 66, 49, 32, 29, 26, 23, 3, 2]
         }]
+      }
     }
-  },
-}
+  }
 </script>
 
 <style lang="stylus">
 .chart
-  margin: 2em 0;
+  margin: 2em 0
   padding: 1em
   border: 1px solid rgba(0,0,0,.25)
   box-shadow: 1px 1px 2px rgba(0,0,0,.25), 3px 3px 6px 3px rgba(0,0,0,.15)

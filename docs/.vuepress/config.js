@@ -1,4 +1,5 @@
   module.exports = {
+
       title: 'State of the Meeting 2019',
       description: 'A Report from the History of Science Society',
       themeConfig: {

@@ -42,11 +42,9 @@ Have thoughts on how we could improve our submission categories? Let us know.
 
 ### 📁 Topic
 
-<p class="graph-header">2019</p>
+<submissionTopics2019/>
 
-<bar-chart :library="{defaultFontFamily: 'Roboto'}" :colors="['#82ba5c']" :data="[['Aspects of Scientific Practice/Organization', 155], ['Thematic Approaches to the Study of Science', 136], ['Medicine and Health', 135], ['Biology', 77], ['Physical Sciences', 69], ['Earth and Environmental Sciences', 49], ['Tools for Historians of Science', 49], ['Theoretical Approaches to the Study of Science', 39], ['Technology', 32], ['Social Sciences', 28], ['Mathematics', 21], ['Chemistry', 12]]"></bar-chart>
-
-#### Overview of Topics
+#### Overview of Topics (2019)
 <ul>
 <li><strong>Tools for Historians of Science:</strong>&nbsp;careers, general histories of science, historiography, interdisciplinary or multitopic approaches, pedagogy, popular history of science, reference works and repositories, social engagement</li>
 <li><strong>Theoretical Approaches to the Study of Science:</strong>&nbsp;historians, history of science as a discipline, Science and Technology Studies, science studies, Sociology of Scientific Knowledge (SSK)</li>
@@ -62,26 +60,11 @@ Have thoughts on how we could improve our submission categories? Let us know.
 <li><strong>Technology:</strong>&nbsp;agricultural science, air and space technologies, ancient Rome, biotechnology, computer science, digital technologies, industrial revolution, middle ages, second industrial revolution</li>
 </ul>
 
-<hr>
-<div class="opacity-85">
-
-<p class="graph-header">2018</p>
-
-<bar-chart :library="{defaultFontFamily: 'Roboto'}" :colors="['#82ba5c']" :data="[['Life Sciences', 52], ['Human and Social Sciences', 50], ['Medicine and Health', 43], ['Historiography', 38], ['Physical Sciences', 34], ['Natural Philosophy', 27], ['Environmental Sciences', 25], ['Technology', 18], ['Non-Western Science', 17], ['Practical Knowledge', 15], ['Mathematics', 4]]"></bar-chart>
-
-</div>
-
-<hr>
+<submissionTopics2018/>
 
 ### ⌚️ Chronology
 
-<p class="graph-header">2019</p>
-
-
-<bar-chart :library="{defaultFontFamily: 'Roboto'}" :colors="['#82ba5c']" :data="[['20th century, late', 191], ['20th century, early', 164], ['19th century', 142], ['17th century', 73], ['18th century', 66], ['Cultural and cross-cultural contexts...', 49], ['Longue Durée', 32], ['Medieval', 29], ['21st century', 26], ['Renaissance', 23], ['Ancient Greek and Roman', 3], ['Chinese Dynasties/Centuries', 2]]"></bar-chart>
-
-
-<hr>
+<submissionChronology2019/>
 
 <div class="opacity-85">
 <p class="graph-header">2018</p>
