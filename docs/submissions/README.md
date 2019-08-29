@@ -45,7 +45,7 @@ Have thoughts on how we could improve our submission categories? Let us know.
 <submissionTopics2019/>
 
 #### Overview of Topics (2019)
-<ul>
+<ul class='topic-overview'>
 <li><strong>Tools for Historians of Science:</strong>&nbsp;careers, general histories of science, historiography, interdisciplinary or multitopic approaches, pedagogy, popular history of science, reference works and repositories, social engagement</li>
 <li><strong>Theoretical Approaches to the Study of Science:</strong>&nbsp;historians, history of science as a discipline, Science and Technology Studies, science studies, Sociology of Scientific Knowledge (SSK)</li>
 <li><strong>Thematic Approaches to the Study of Science:</strong>&nbsp;arts &amp; literature, economic, ethics, gender, law, politics, race and ethnicity, religion, war</li>
@@ -86,14 +86,24 @@ Have thoughts on how we could improve our submission categories? Let us know.
 
 <submissionEmployment/>
 
+### Affiliation
+Individuals from the institutions below submitted the most abstracts overall
+
+| **2019** | **2018** |
+| --- | ---|
+University of Cambridge  | Harvard University |
+| Max Planck Institute for the History of Science, Berlin | Princeton University |
+| Princeton University | University of Chicago |
+| Independent Scholar | University of Cambridge |
+| Harvard University | Max Planck Institute for the History of Science |
+| Utrecht University | University of Wisconsin-Madison |
+
 <style lang="stylus">
-.graph
-    margin: 3em 0
-    padding: 1.5em
-    border: 1px solid rgba(0, 0, 0, .25)
-    box-shadow: 1px 1px 2px rgba(0, 0, 0, .25), 5px 5px 15px rgba(0, 0, 0, .12)
 
 .graph-header
     text-align: center
     font-weight: 700
+
+.topic-overview li
+    margin: .5em 0
 </style>

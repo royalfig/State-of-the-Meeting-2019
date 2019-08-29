@@ -47,7 +47,6 @@ export default {
     Chart.defaults.global.defaultFontSize = 15;
     Chart.defaults.global.defaultFontColor = '#333';
     Chart.defaults.global.legend.display = false;
-    this.cssClasses = 'graph'
   }
 }
 

@@ -1,47 +1,36 @@
+
 <script>
 import { generateChart } from 'vue-chartjs'
 
-const totalSubs = generateChart('submission-chronology-2018', 'horizontalBar')
+const customChart = generateChart('overall-satisfcation-2019', 'pie')
 
 export default {
-
-  extends: totalSubs,
-
+  extends: customChart,
   data: () => ({
-
-
-
     chartdata: {
-      labels: ['Modern', 'Contemporary', 'Early Modern', 'Longue Durée', 'Colonial', 'Ancient', 'Medieval and Renaissance'],
+      labels: ['Poor', 'Fair', 'Good', 'Very Good'],
       datasets: [
         {
-          data: [396, 108, 95, 39, 14, 13, 10],
-          backgroundColor: '#b84b38'
+          data: [3,15,100,213],
+          backgroundColor: ['#b84b38','#d38a45','#ffd657','#82ba5c']
         }
       ]
     },
     options: {
       legend: {
-        display: false
+        display: true
       },
       title: {
         display: 'true',
-        text: 'Abstract Submissions by Chronology (2018)'
+        text: 'Overall Satisfaction (2019)'
       },
       responsive: true,
       maintainAspectRatio: false,
-      scales: {
-            yAxes: [{
-                ticks: {
-                    beginAtZero: true
-                }
-            }]
-        }
+
     }
   }),
-
   mounted () {
-    this.renderChart(this.chartdata, this.options)
+    this.renderChart(this.chartdata, this.options, this.cssClasses = 'graph')
     Chart.defaults.global.defaultFontFamily = '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"';
     Chart.defaults.global.defaultFontSize = 15;
     Chart.defaults.global.defaultFontColor = '#333';

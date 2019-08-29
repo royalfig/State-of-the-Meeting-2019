@@ -1,45 +1,35 @@
+
 <script>
 import { generateChart } from 'vue-chartjs'
 
-const totalSubs = generateChart('submission-chronology-2018', 'horizontalBar')
+const customChart = generateChart('reasons-to-attend', 'pie')
 
 export default {
-
-  extends: totalSubs,
-
+  extends: customChart,
   data: () => ({
-
-
-
     chartdata: {
-      labels: ['Modern', 'Contemporary', 'Early Modern', 'Longue Durée', 'Colonial', 'Ancient', 'Medieval and Renaissance'],
+      labels: ['Other','Attend the book exhibit', 'Share research in the history of science', 'Hear history of science scholarship', 'Network with colleagues'],
       datasets: [
         {
-          data: [396, 108, 95, 39, 14, 13, 10],
-          backgroundColor: '#b84b38'
+          data: [23,84,243,276,285],
+          backgroundColor: ['#ECFFE3','#b84b38','#d38a45','#ffd657','#82ba5c']
         }
       ]
     },
     options: {
       legend: {
-        display: false
+        display: true
       },
       title: {
         display: 'true',
-        text: 'Abstract Submissions by Chronology (2018)'
+        text: 'Overall Satisfaction (2018)'
       },
       responsive: true,
       maintainAspectRatio: false,
-      scales: {
-            yAxes: [{
-                ticks: {
-                    beginAtZero: true
-                }
-            }]
-        }
+
     }
   }),
-
+  props: ['css-classes'],
   mounted () {
     this.renderChart(this.chartdata, this.options)
     Chart.defaults.global.defaultFontFamily = '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"';
