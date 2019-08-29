@@ -4,7 +4,7 @@
 **Highlights:** Total abstract submissions increased by 33.5%. Organized sessions continue to have the highest acceptance rate compared to other submission types.
 :::
 
-<totalSubmissions/>
+<totalSubmissions class="graph"/>
 
 ## Acceptance and Rejection Rates
 
@@ -42,7 +42,7 @@ Have thoughts on how we could improve our submission categories? Let us know.
 
 ### 📁 Topic
 
-<submissionTopics2019/>
+<submissionTopics2019 class="graph"/>
 
 #### Overview of Topics (2019)
 <ul class='topic-overview'>
@@ -60,31 +60,31 @@ Have thoughts on how we could improve our submission categories? Let us know.
 <li><strong>Technology:</strong>&nbsp;agricultural science, air and space technologies, ancient Rome, biotechnology, computer science, digital technologies, industrial revolution, middle ages, second industrial revolution</li>
 </ul>
 
-<submissionTopics2018/>
+<submissionTopics2018 class="graph"/>
 
 ### ⌚️ Chronology
 
-<submissionChronology2019/>
+<submissionChronology2019 class="graph"/>
 
-<submissionChronology2018/>
+<submissionChronology2018 class="graph"/>
 
 ### 🌏 Geography
 
-<submissionGeography2019/>
+<submissionGeography2019 class="graph"/>
 
-<submissionGeography2018/>
+<submissionGeography2018 class="graph"/>
 
 ## Submission Demographics
 
 ### Gender
 
-<submissionGender2019/>
+<submissionGender2019 class="graph"/>
 
-<submissionGender2018/>
+<submissionGender2018 class="graph"/>
 
 ### Employment
 
-<submissionEmployment/>
+<submissionEmployment class="graph"/>
 
 ### Affiliation
 Individuals from the institutions below submitted the most abstracts overall

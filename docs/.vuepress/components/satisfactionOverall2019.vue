@@ -30,7 +30,7 @@ export default {
     }
   }),
   mounted () {
-    this.renderChart(this.chartdata, this.options, this.cssClasses = 'graph')
+    this.renderChart(this.chartdata, this.options)
     Chart.defaults.global.defaultFontFamily = '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"';
     Chart.defaults.global.defaultFontSize = 15;
     Chart.defaults.global.defaultFontColor = '#333';

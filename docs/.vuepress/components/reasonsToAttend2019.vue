@@ -12,7 +12,7 @@ export default {
       datasets: [
         {
           data: [23,84,243,276,285],
-          backgroundColor: ['#ECFFE3','#b84b38','#d38a45','#ffd657','#82ba5c']
+          backgroundColor: ['#38A5B8','#b84b38','#d38a45','#ffd657','#82ba5c']
         }
       ]
     },
@@ -22,7 +22,7 @@ export default {
       },
       title: {
         display: 'true',
-        text: 'Overall Satisfaction (2018)'
+        text: 'Reasons for Attendance (2019)'
       },
       responsive: true,
       maintainAspectRatio: false,
