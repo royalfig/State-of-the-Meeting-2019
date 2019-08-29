@@ -1,17 +1,17 @@
 <script>
 import { generateChart } from 'vue-chartjs'
 
-const totalSubs = generateChart('total-abstract-submissions', 'horizontalBar')
+const totalSubs = generateChart('submission-chronology-2018', 'horizontalBar')
 
 export default {
   extends: totalSubs,
   data: () => ({
 
     chartdata: {
-      labels: ['Life Sciences', 'Human and Social Sciences', 'Medicine and Health', 'Historiography', 'Physical Sciences', 'Natural Philosophy', 'Environmental Sciences', 'Technology', 'Non-Western Science', 'Practical Knowledge', 'Mathematics'],
+      labels: ['Modern', 'Contemporary', 'Early Modern', 'Longue Durée', 'Colonial', 'Ancient', 'Medieval and Renaissance'],
       datasets: [
         {
-          data: [52 ,50, 43, 38, 34, 27, 25, 18, 17, 15, 4],
+          data: [396, 108, 95, 39, 14, 13, 10],
           backgroundColor: '#b84b38'
         }
       ]
@@ -22,7 +22,7 @@ export default {
       },
       title: {
         display: 'true',
-        text: 'Abstract Submissions by Topic (2018)'
+        text: 'Abstract Submissions by Chronology (2018)'
       },
       responsive: true,
       maintainAspectRatio: false,
@@ -47,4 +47,3 @@ export default {
 }
 
 </script>
-

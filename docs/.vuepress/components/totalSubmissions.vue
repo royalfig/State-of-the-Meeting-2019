@@ -1,21 +1,18 @@
+
 <script>
 import { generateChart } from 'vue-chartjs'
 
-const totalSubs = generateChart('total-abstract-submissions', 'bar')
+const totalSubs = generateChart('total-abstract-submissions', 'horizontalBar')
 
 export default {
-  components: {
-    'bar-chart': barChart
-  },
   extends: totalSubs,
   data: () => ({
-
     chartdata: {
       labels: ['2018', '2019'],
       datasets: [
         {
           data: [652, 871],
-          backgroundColor: '#b84b38'
+          backgroundColor: '#d38a45'
         }
       ]
     },
@@ -30,20 +27,23 @@ export default {
       responsive: true,
       maintainAspectRatio: false,
       scales: {
-            yAxes: [{
-                ticks: {
-                    beginAtZero: true
-                }
-            }]
-        }
+        yAxes: [{
+            maxBarThickness: 80
+        }],
+
+        xAxes: [{
+            ticks: {
+                beginAtZero: true
+            }
+        }]
+      }
     }
   }),
-
   mounted () {
-    this.renderChart(this.chartdata, this.options)
+    this.renderChart(this.chartdata, this.options, this.cssClasses = 'graph')
     Chart.defaults.global.defaultFontFamily = '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"';
     Chart.defaults.global.defaultFontSize = 15;
-    Chart.defaults.global.defaultFontColor = '#333';
+    Chart.defaults.global.defaultFontColor = '#ffffff';
     Chart.defaults.global.legend.display = false;
   }
 }

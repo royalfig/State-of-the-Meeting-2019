@@ -1,17 +1,15 @@
 <script>
+import VueCharts from 'vue-chartjs'
 import { generateChart } from 'vue-chartjs'
 
-const totalSubs = generateChart('total-abstract-submissions', 'bar')
+const totalSubs = generateChart('total-abstract-submissions', 'horizontalBar')
 
 export default {
-  components: {
-    'bar-chart': barChart
-  },
   extends: totalSubs,
   data: () => ({
 
     chartdata: {
-      labels: ['Aspects of Scientific Practice/Organization', 'Thematic Approaches to the Study of Science', 'Medicine and Health', 'Biology', 'Physical Sciences', 'Earth and Environmental Sciences', 'Tools for Historians of Science', 'Theoretical Approaches to the Study of Science', 'Technology', 'Social Sciences', 'Mathematics', 'Chemistry'],
+      labels: ['Aspects of Sci. Practice...', 'Thematic Approaches...', 'Medicine and Health', 'Biology', 'Physical Sciences', 'Earth/Environmental Sciences', 'Tools for Historians', 'Theoretical Approaches...', 'Technology', 'Social Sciences', 'Mathematics', 'Chemistry'],
       datasets: [
         {
           data: [155, 136, 135, 77, 69, 49, 49, 39, 32, 28, 21, 12],
@@ -45,6 +43,7 @@ export default {
     Chart.defaults.global.defaultFontSize = 15;
     Chart.defaults.global.defaultFontColor = '#333';
     Chart.defaults.global.legend.display = false;
+    this.cssClasses = 'graph'
   }
 }
 

@@ -66,17 +66,9 @@ Have thoughts on how we could improve our submission categories? Let us know.
 
 <submissionChronology2019/>
 
-<div class="opacity-85">
-<p class="graph-header">2018</p>
-
-<bar-chart :library="{defaultFontFamily: 'Roboto'}" :colors="['#82ba5c']" :data="[['Modern', 396], ['Contemporary', 108], ['Early Modern', 95], ['Longue Durée', 39], ['Colonial', 14], ['Ancient', 13], ['Medieval and Renaissance', 10]]"></bar-chart>
-
-</div>
-<hr>
+<submissionChronology2018/>
 
 ### 🌏 Geography
-
-<p class="graph-header">2019</p>
 
 <submissionGeography2019/>
 
@@ -87,6 +79,7 @@ Have thoughts on how we could improve our submission categories? Let us know.
 ### Gender
 
 <submissionGender2019/>
+
 <submissionGender2018/>
 
 ### Employment
@@ -94,8 +87,11 @@ Have thoughts on how we could improve our submission categories? Let us know.
 <submissionEmployment/>
 
 <style lang="stylus">
-.opacity-85
-    opacity: .85
+.graph
+    margin: 3em 0
+    padding: 1.5em
+    border: 1px solid rgba(0, 0, 0, .25)
+    box-shadow: 1px 1px 2px rgba(0, 0, 0, .25), 5px 5px 15px rgba(0, 0, 0, .12)
 
 .graph-header
     text-align: center
