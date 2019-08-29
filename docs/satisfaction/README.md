@@ -1,14 +1,14 @@
 # Meeting Satisfaction
 ::: tip
-**Highlights:** 🔥 Despite record breaking tempeartures, attendees exceedingly enjoyed our 2019 annual meeting in Utrecht!
+**Highlights:** 🔥 Despite record breaking tempeartures, attendees overwhelmingly enjoyed our 2019 annual meeting in Utrecht, with over 64% of those surveyed giving the meeting the highest rating of 'Very Good'!
 :::
 
 ## Overall Satisfaction
 <satisfactionOverall2019 class="graph"/>
 
-<reasonsToAttend2019 class="graph"/>
+### Comments on Meeting Satisfaction
 
-### The Good 👏👏👏
+#### The Good 👏👏👏
 
 <div class="choice-quotes">
 <pullQuote title="The program was fantastic, and Utrecht was a wonderful venue. I really liked not being in a conference hotel."/>
@@ -21,9 +21,24 @@
 <pullQuote title="It was my first time at HSS and I enjoyed exchanging ideas with a different crowd! No one on my panel knew one another beforehand, and I think we will stay in touch."/>
 <pullQuote title="The organization of the conference -- online and off -- was fantastic. I really appreciated the work to connect everybody, and the huge effort for accessibility. This made everything collegial and wonderful!"/>
 <pullQuote title="Panels were great, organisation fantastic; most of all: NOT a conference hotel but embedded in a beautiful city which allowed for pleasant experiences beyond the conference. I would urgently plead to keep this model and refrain from the big box conference hotels where everybody is stuck (and which are so expensive!)"/>
-
 </div>
 
+#### The Bad 😧
+
+<div class="choice-quotes">
+<pullQuote title="Academic quality low overall, but there were many exceptions"/>
+<pullQuote title="Mostly the inhumane heat without AC! Also, the poor administrative arrangement is another drawback"/>
+<pullQuote title="Clearly the organizers could do nothing regarding the extreme weather but contingency plans could have been made. A non air conditioned venue is a problem (for comfort and concentration etc.) even at 85/90, which is not unheard of in Utrecht in July. In 100 it's dangerous. Future conferences must make every effort possible to include everybody, including those with health challenges. Where AC was unavailable, panels held in the afternoon probably should have been cancelled."/>
+</div>
+
+### Why attend HSS?
+In addition to sharing scholarship, attendees come to HSS to catch up with old friends, meet new ones, and find future collaborators.
+
+<reasonsToAttend2019 class="graph"/>
+
+### Meeting Resources
+
+### From the Suggestion Box
 
 
 <style lang="stylus">
