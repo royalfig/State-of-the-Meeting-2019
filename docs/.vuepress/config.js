@@ -17,7 +17,6 @@
               }
           ],
           sidebar: [
-              '/',
               '/welcome/',
               '/submissions/',
               '/demographics/',
