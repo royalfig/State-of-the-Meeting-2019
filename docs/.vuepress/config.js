@@ -1,7 +1,7 @@
   module.exports = {
 
-      title: 'State of the Meeting 2019',
-      description: 'A Report from the History of Science Society',
+      title: 'History of Science Society',
+      description: 'State of the Meeting 2019',
       themeConfig: {
           nav: [{
                   text: 'Join',
@@ -11,6 +11,10 @@
                   text: 'Donate',
                   link: 'https://hssonline.org/get-involved/giving-to-the-hss/'
               },
+              {
+                  text: 'HSS',
+                  link: 'https://hssonline.org/'
+              }
           ],
           sidebar: [
               '/',

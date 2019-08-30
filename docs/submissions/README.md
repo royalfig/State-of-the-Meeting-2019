@@ -1,4 +1,4 @@
-# Submission Data
+# 🗂️ Submission Data
 
 ::: tip
 **Highlights:** Total abstract submissions increased by 33.5%. Organized sessions continue to have the highest acceptance rate compared to other submission types.

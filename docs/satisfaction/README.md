@@ -1,4 +1,4 @@
-# Meeting Satisfaction
+# 😀 Meeting Satisfaction
 ::: tip
 **Highlights:** 🔥 Despite record breaking tempeartures, attendees overwhelmingly enjoyed our 2019 annual meeting in Utrecht, with over 64% of those surveyed giving the meeting the highest rating of 'Very Good'!
 :::
@@ -31,14 +31,14 @@
 <pullQuote title="Clearly the organizers could do nothing regarding the extreme weather but contingency plans could have been made. A non air conditioned venue is a problem (for comfort and concentration etc.) even at 85/90, which is not unheard of in Utrecht in July. In 100 it's dangerous. Future conferences must make every effort possible to include everybody, including those with health challenges. Where AC was unavailable, panels held in the afternoon probably should have been cancelled."/>
 </div>
 
-### Why attend HSS?
+## Why attend HSS?
 In addition to sharing scholarship, attendees come to HSS to catch up with old friends, meet new ones, and find future collaborators.
 
 <reasonsToAttend2019 class="graph"/>
 
-### Event Attendance
+## Event Attendance
 
-#### Overview of Events
+### Overview of Events
 - Plenary Session
     - Organized and Introduction by Lissa Roberts
     - *Getting Engaged: Ways of Being an Engaged Historian of Science* &ndash; Benjamin Franta, Edna Bonhomme, Joppe van Driel, Sheila Jasanoff
@@ -73,7 +73,7 @@ In addition to sharing scholarship, attendees come to HSS to catch up with old f
 </figure>
 
 <figure class="figure">
-<img alt="Railway museum, venue of the Paris lecture" src="./plenary.jpg">
+<img alt="Railway museum, venue of the Paris lecture" src="./paris.jpg">
 <figcaption>Elizabeth Paris Public Engagement Lecture</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Looking for more photos from Utrecht 2019? [See albums from the meeting on our F
 
 <eventsAttended2019 class="graph" />
 
-#### 🥘 Food
+### 🥂 Receptions
 
 <receptionAttendance class="graph" />
 
@@ -93,38 +93,38 @@ Looking for more photos from Utrecht 2019? [See albums from the meeting on our F
 
 <foodQuantity class="graph" />
 
-#### Special Interest Group and Caucus Events
+### Special Interest Group and Caucus Events
 
 <specialEvents class="graph" />
 
 **Get To Know Our Interest Groups and Caucuses**
 
-| Interest Groups |
-| --- |
-|Early Science |
+| Interest Group | Purpose | Events |
+| --- | --- | --- |
+|Early Science Forum | Promote scholarly interest in scientific and technology work from antiquity through the seventeenth century | Sponsed Panel, Business Meeting |
 |Earth and Environment Forum |
 |Forum for the History of Health, Medicine and the Life Sciences |
-|Forum for History of Human Science (FHHS) |
+|Forum for History of Human Science | Promote research, education, and scholarship in the history of human science | Sponsored Panel, Distinguished Lecture, Business Meeting |
 |Forum for the History of Science in America |
 |Forum for the History of Science in Asia |
 |Forum for the History of the Mathematical Sciences (Karen Parshall) |
 |Physical Science Forum |
 
-| Caucuses |
-| --- |
+<hr>
+
+| Caucus | Purpose | Events |
+| --- | --- | --- |
 | Collections, Archives, Libraries, and Museums <Badge text="proposed" type="warn"/>
-|Graduate Student and Early Career caucus |
+|Graduate Student and Early Career caucus | Provide resources for graduate students and early careerists | Mixer, Meet &amp; Greet, Mentorship Events, Sponsored Panel, Business Meeting, and more |
 |HSS at Work |
-|HSS Women’s Caucus |
+|HSS Women’s Caucus | Focus on the role and status of women in the profession | Sponsored Panel, Women's Caucus Breakfast |
 |Joint Caucus for Socially Engaged Philosophers and Historians of Science |
 
-::: Badge
-Proposed
-:::
+## Meeting Resources
 
-### Meeting Resources
+<useOfResources class="graph" />
 
-### From the Suggestion Box
+## From the Suggestion Box
 
 
 <style lang="stylus">

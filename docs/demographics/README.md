@@ -1,4 +1,4 @@
-# Demographics
+# 📊 Demographics
 
 **🌍 Attendee Geography**
 
