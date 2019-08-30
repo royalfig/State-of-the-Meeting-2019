@@ -8,10 +8,10 @@ export default {
   extends: customChart,
   data: () => ({
     chartdata: {
-      labels: ['Other','Attend the book exhibit', 'Share research in the history of science', 'Hear history of science scholarship', 'Network with colleagues'],
+      labels: ['Attend the book exhibit', 'Hear history of science scholarship','Network with colleagues','Share research in the history of science','Other'],
       datasets: [
         {
-          data: [23,84,243,276,285],
+          data: [84,276,285,243,23],
           backgroundColor: ['#38A5B8','#b84b38','#d38a45','#ffd657','#82ba5c']
         }
       ]

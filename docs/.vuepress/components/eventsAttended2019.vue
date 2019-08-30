@@ -22,7 +22,7 @@ export default {
       },
       title: {
         display: 'true',
-        text: 'Attendance by Members and Nonmembers (2019)'
+        text: 'Events Attended'
       },
       responsive: true,
       maintainAspectRatio: false,

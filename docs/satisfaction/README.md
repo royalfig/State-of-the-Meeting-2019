@@ -41,23 +41,24 @@ In addition to sharing scholarship, attendees come to HSS to catch up with old f
 #### Overview of Events
 - Plenary Session
     - Organized and Introduction by Lissa Roberts
-    - *Getting Engaged: Ways of Being an Engaged Historian of Science*, Benjamin Franta, Edna Bonhomme, Joppe van Driel, Sheila Jasanoff
+    - *Getting Engaged: Ways of Being an Engaged Historian of Science* &ndash; Benjamin Franta, Edna Bonhomme, Joppe van Driel, Sheila Jasanoff
 - GECC Mentorship Meet and Greet
     - [Learn more about the Graduate and Early Career Caucus](https://hssgecc.wordpress.com/)
 - Prize Ceremony
     - [See our 2019 prize winners!](/prizes)
 - Distinguished Lecture
     - Introduction by Erika Milam
-    - *Thomas Kuhn, Ear Witness. Fieldwork and the Making of a New History of Science*, Anke te Heesen
+    - *Thomas Kuhn, Ear Witness. Fieldwork and the Making of a New History of Science* &ndash; Anke te Heesen
 - THAT Camp
     - What is The Humanities and Technology Camp? [Learn more about THAT Camp](http://thatcamp.org/)
 - Women's Caucus Breakfast
     - [Learn more about the HSS Women's Caucus](http://hsswc.weebly.com/)
 - Elizabeth Paris Public Engagement Lecture
-    - 🎹 *Composing Human Time*, Susanna Bloem. [Watch it on YouTube](https://youtu.be/D9J9yKNm1Kg)
-    - Introduction: Bert Theunissen
-    - Remembrance of Elizabeth Paris: Deborah Coen
-    - *In Europe*, Jeroen van Dongen
+    - 🎹 *Composing Human Time* &ndash; Susanna Bloem. [Watch it on YouTube](https://youtu.be/D9J9yKNm1Kg)
+    - Introduction by Bert Theunissen
+    - Remembrance of Elizabeth Paris by Deborah Coen
+    - *In Europe* &ndash; Jeroen van Dongen
+    - [Learn more about Elizabeth Paris](https://hssonline.org/about-elizabeth-paris/)
 
 <hr>
 
@@ -76,6 +77,10 @@ In addition to sharing scholarship, attendees come to HSS to catch up with old f
 <figcaption>Elizabeth Paris Public Engagement Lecture</figcaption>
 </figure>
 
+::: warning
+Looking for more photos from Utrecht 2019? [See albums from the meeting on our Facebook page](https://facebook.com/historyofsciencesociety)
+:::
+
 <hr>
 
 <eventsAttended2019 class="graph" />
@@ -87,6 +92,35 @@ In addition to sharing scholarship, attendees come to HSS to catch up with old f
 <foodQuality class="graph" />
 
 <foodQuantity class="graph" />
+
+#### Special Interest Group and Caucus Events
+
+<specialEvents class="graph" />
+
+**Get To Know Our Interest Groups and Caucuses**
+
+| Interest Groups |
+| --- |
+|Early Science |
+|Earth and Environment Forum |
+|Forum for the History of Health, Medicine and the Life Sciences |
+|Forum for History of Human Science (FHHS) |
+|Forum for the History of Science in America |
+|Forum for the History of Science in Asia |
+|Forum for the History of the Mathematical Sciences (Karen Parshall) |
+|Physical Science Forum |
+
+| Caucuses |
+| --- |
+| Collections, Archives, Libraries, and Museums <Badge text="proposed" type="warn"/>
+|Graduate Student and Early Career caucus |
+|HSS at Work |
+|HSS Women’s Caucus |
+|Joint Caucus for Socially Engaged Philosophers and Historians of Science |
+
+::: Badge
+Proposed
+:::
 
 ### Meeting Resources
 
@@ -106,5 +140,8 @@ In addition to sharing scholarship, attendees come to HSS to catch up with old f
     flex-wrap: wrap
     justify-content: space-around
     margin-top: 1em
+
+.warn
+    color: black
 
 </style>

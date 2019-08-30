@@ -8,10 +8,10 @@ export default {
   extends: customChart,
   data: () => ({
     chartdata: {
-      labels: ['Good', 'Very Good', 'Fair', 'Poor'],
+      labels: ['Poor','Fair','Good','Very Good'],
       datasets: [
         {
-          data: [99,65,41,7],
+          data: [7,41,99,65],
           backgroundColor: ['#A4B838','#38A5B8','#b84b38','#d38a45']
         }
       ]
@@ -22,7 +22,7 @@ export default {
       },
       title: {
         display: 'true',
-        text: 'Food Quality (2019)'
+        text: 'Food Quality'
       },
       responsive: true,
       maintainAspectRatio: false,

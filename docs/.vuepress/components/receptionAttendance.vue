@@ -8,7 +8,7 @@ export default {
   extends: customChart,
   data: () => ({
     chartdata: {
-      labels: ['Yes', 'No'],
+      labels: ['Attended a Reception', 'Did Not Attend a Reception'],
       datasets: [
         {
           data: [215,118],
@@ -22,7 +22,7 @@ export default {
       },
       title: {
         display: 'true',
-        text: 'Attended a Reception (2019)'
+        text: 'Reception Attendance'
       },
       responsive: true,
       maintainAspectRatio: false,

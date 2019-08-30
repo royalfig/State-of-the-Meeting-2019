@@ -2,17 +2,17 @@
 <script>
 import { generateChart } from 'vue-chartjs'
 
-const customChart = generateChart('food-quality-2019', 'pie')
+const customChart = generateChart('special-events-2019', 'pie')
 
 export default {
   extends: customChart,
   data: () => ({
     chartdata: {
-      labels: ['Enough', 'Not Enough'],
+      labels: ['Yes','No'],
       datasets: [
         {
-          data: [215,118],
-          backgroundColor: ['#A4B838','#38A5B8']
+          data: [128,207],
+          backgroundColor: ['#d38a45','#ffd657']
         }
       ]
     },
@@ -22,7 +22,7 @@ export default {
       },
       title: {
         display: 'true',
-        text: 'Food Quantity'
+        text: 'Attended a Special Interest Group or Caucus Event'
       },
       responsive: true,
       maintainAspectRatio: false,

@@ -99,7 +99,6 @@ University of Cambridge  | Harvard University |
 | Utrecht University | University of Wisconsin-Madison |
 
 <style lang="stylus">
-
 .graph-header
     text-align: center
     font-weight: 700
