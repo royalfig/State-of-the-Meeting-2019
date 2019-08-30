@@ -1,0 +1,42 @@
+
+<script>
+import { generateChart } from 'vue-chartjs'
+
+const customChart = generateChart('events-2019', 'pie')
+
+export default {
+  extends: customChart,
+  data: () => ({
+    chartdata: {
+      labels: ['Plenary Session','Distinguished Lecture','HSS Prize Ceremony','Paris Lecture','None','GECC Mentorship Meet and Greet','Women\'s Caucus Breakfast','THAT Camp'],
+      datasets: [
+        {
+          data: [190,182,152,86,53,44,37,10],
+          backgroundColor: ['#B838A5','#A4B838','#38A5B8','#b84b38','#d38a45','#ffd657','#82ba5c','#935CBA']
+        }
+      ]
+    },
+    options: {
+      legend: {
+        display: true
+      },
+      title: {
+        display: 'true',
+        text: 'Attendance by Members and Nonmembers (2019)'
+      },
+      responsive: true,
+      maintainAspectRatio: false,
+
+    }
+  }),
+  props: ['css-classes'],
+  mounted () {
+    this.renderChart(this.chartdata, this.options)
+    Chart.defaults.global.defaultFontFamily = '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"';
+    Chart.defaults.global.defaultFontSize = 15;
+    Chart.defaults.global.defaultFontColor = '#333';
+    Chart.defaults.global.legend.display = false;
+  }
+}
+
+</script>

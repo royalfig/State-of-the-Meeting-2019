@@ -36,6 +36,58 @@ In addition to sharing scholarship, attendees come to HSS to catch up with old f
 
 <reasonsToAttend2019 class="graph"/>
 
+### Event Attendance
+
+#### Overview of Events
+- Plenary Session
+    - Organized and Introduction by Lissa Roberts
+    - *Getting Engaged: Ways of Being an Engaged Historian of Science*, Benjamin Franta, Edna Bonhomme, Joppe van Driel, Sheila Jasanoff
+- GECC Mentorship Meet and Greet
+    - [Learn more about the Graduate and Early Career Caucus](https://hssgecc.wordpress.com/)
+- Prize Ceremony
+    - [See our 2019 prize winners!](/prizes)
+- Distinguished Lecture
+    - Introduction by Erika Milam
+    - *Thomas Kuhn, Ear Witness. Fieldwork and the Making of a New History of Science*, Anke te Heesen
+- THAT Camp
+    - What is The Humanities and Technology Camp? [Learn more about THAT Camp](http://thatcamp.org/)
+- Women's Caucus Breakfast
+    - [Learn more about the HSS Women's Caucus](http://hsswc.weebly.com/)
+- Elizabeth Paris Public Engagement Lecture
+    - 🎹 *Composing Human Time*, Susanna Bloem. [Watch it on YouTube](https://youtu.be/D9J9yKNm1Kg)
+    - Introduction: Bert Theunissen
+    - Remembrance of Elizabeth Paris: Deborah Coen
+    - *In Europe*, Jeroen van Dongen
+
+<hr>
+
+<figure class="figure">
+<img alt="Janskerk, venue of the plenary sessions" src="./plenary.jpg">
+<figcaption>HSS Plenary Session and Opening Reception</figcaption>
+</figure>
+
+<figure class="figure">
+<img alt="Domkerk, venue of the distinguished lecture" src="./prize.jpg">
+<figcaption>HSS Distinguished Lecture and Prize Reception</figcaption>
+</figure>
+
+<figure class="figure">
+<img alt="Railway museum, venue of the Paris lecture" src="./plenary.jpg">
+<figcaption>Elizabeth Paris Public Engagement Lecture</figcaption>
+</figure>
+
+<hr>
+
+<eventsAttended2019 class="graph" />
+
+#### 🥘 Food
+
+<receptionAttendance class="graph" />
+
+<foodQuality class="graph" />
+
+<foodQuantity class="graph" />
+
 ### Meeting Resources
 
 ### From the Suggestion Box
