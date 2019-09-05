@@ -8,7 +8,7 @@ export default {
   extends: customChart,
   data: () => ({
     chartdata: {
-      labels: ['HSS Member','Nonmember'],
+      labels: ['HSS Member (65%)','Nonmember (35%)'],
       datasets: [
         {
           data: [218,118],

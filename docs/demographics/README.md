@@ -10,7 +10,11 @@ History of Science Society members receive reduced registration fees, subscripti
 
 <membershipAttendance2019 class="graph" />
 
+<attendeeGender class="graph" />
 
+<attendeeRaceEthnicity class="graph" />
+
+<attendeeEmployment class="graph" />
 <script>
 
 </script>
