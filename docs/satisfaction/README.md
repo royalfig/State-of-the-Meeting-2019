@@ -97,32 +97,31 @@ Looking for more photos from Utrecht 2019? [See albums from the meeting on our F
 
 <specialEvents class="graph" />
 
-**Get To Know Our Interest Groups and Caucuses**
+#### Get To Know Our Interest Groups and Caucuses
 
-| Interest Group | Purpose | Events |
+| Interest Group | Purpose | 2019 Events |
 | --- | --- | --- |
 |Early Science Forum | Promote scholarly interest in scientific and technology work from antiquity through the seventeenth century | Sponsed Panel, Business Meeting |
-|Earth and Environment Forum |
-|Forum for the History of Health, Medicine and the Life Sciences |
+|Earth and Environment Forum | Promote histories of land, sea, and sky, in all manner of physical, human, and life sciences | Sponsored Panel, Business Meeting |
 |Forum for History of Human Science | Promote research, education, and scholarship in the history of human science | Sponsored Panel, Distinguished Lecture, Business Meeting |
-|Forum for the History of Science in America |
-|Forum for the History of Science in Asia |
-|Forum for the History of the Mathematical Sciences (Karen Parshall) |
-|Physical Science Forum |
+|Forum for the History of Health, Medicine and the Life Sciences | Promote history and historians of the medical and life sciences (including nursing, traditional health practices, dentistry, veterinary medicine, public health, pharmacy, etc.) | Business Meeting |
+|Forum for the History of Science in Asia | Promote scholarship in the history of science, medicine, and technology in Asia | Sponsored Panel, Business Meeting |
+|Forum for the History of the Chemical Sciences | Promote history of the chemical sciences | Sponsored Panel, Business Meeting |
+|Forum for the History of the Mathematical Sciences | Promote history and historians of the mathematical sciences | Sponsored Panel |
+|Physical Science Forum | Promote scholarship in the history of the physical sciences, including but not limited to physics; earth, space, and atmospheric science; astronomy, and materials science | Distinguished Lecture, Sponsored Panel |
 
 <hr>
 
 | Caucus | Purpose | Events |
 | --- | --- | --- |
-| Collections, Archives, Libraries, and Museums <Badge text="proposed" type="warn"/>
+| Collections, Archives, Libraries, and Museums <Badge text="proposed" type="warn"/> | Provide a space for scholars in the history of collection-based institutions or efforts to mobilize collections to explore the history of science, technology, and medicine | Organizational Meeting |
 |Graduate Student and Early Career caucus | Provide resources for graduate students and early careerists | Mixer, Meet &amp; Greet, Mentorship Events, Sponsored Panel, Business Meeting, and more |
-|HSS at Work |
 |HSS Women’s Caucus | Focus on the role and status of women in the profession | Sponsored Panel, Women's Caucus Breakfast |
-|Joint Caucus for Socially Engaged Philosophers and Historians of Science |
 
 ## Meeting Resources
 
 <useOfResources class="graph" />
+<resourceEvaluation class="graph" />
 
 ## From the Suggestion Box
 

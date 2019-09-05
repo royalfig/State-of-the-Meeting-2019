@@ -22,7 +22,7 @@ export default {
       },
       title: {
         display: 'true',
-        text: 'Overall Satisfaction (2019)'
+        text: 'Overall Satisfaction'
       },
       responsive: true,
       maintainAspectRatio: false,

@@ -8,11 +8,11 @@ export default {
   extends: customChart,
   data: () => ({
     chartdata: {
-      labels: ['Attend the book exhibit', 'Hear history of science scholarship','Network with colleagues','Share research in the history of science','Other'],
+      labels: ['Network with colleagues (36%)','Hear history of science scholarship (35%)','Share research in the history of science (31%)','Attend the book exhibit (11%)', 'Other (5%)'],
       datasets: [
         {
-          data: [84,276,285,243,23],
-          backgroundColor: ['#38A5B8','#b84b38','#d38a45','#ffd657','#82ba5c']
+          data: [285,276,243,84,36],
+          backgroundColor: ['#38a5b8','#b84b38','#d38a45','#ffd657','#82ba5c']
         }
       ]
     },
@@ -22,7 +22,7 @@ export default {
       },
       title: {
         display: 'true',
-        text: 'Reasons for Attendance (2019)'
+        text: 'Reasons for Attendance'
       },
       responsive: true,
       maintainAspectRatio: false,

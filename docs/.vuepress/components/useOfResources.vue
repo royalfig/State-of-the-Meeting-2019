@@ -8,11 +8,11 @@ export default {
   extends: customChart,
   data: () => ({
     chartdata: {
-      labels: ['A/V Projector', 'Abstracts (online)', 'Abstracts (PDF)', 'Family/nursing mother\'s room', 'Meeting App (Dryfta)', 'Meeting Website', 'Meeting WiFi', 'Print Program', 'Print Program (PDF)', 'Quiet room', 'Readerboard in Exhibit Hall'],
+      labels: ['Meeting Website (20%)', 'Meeting WiFi (13%)', 'Abstracts (online) (11%)', 'A/V Projector (11%)', 'Print Program (PDF) (10%)', 'Meeting App (10%)', 'Print Program (7%)', 'Abstracts (PDF) (7%)', 'Quiet room (6%)', 'Readerboard (6%)', 'Family room (0.3%)'],
       datasets: [
         {
-          data: [88,88,52,2,77,155,102,54,78,46,44],
-          backgroundColor: '#B838A5',
+          data: [155,102,88,88,78,77,54,52,46,44,2],
+          backgroundColor: ['#38a5b8','#b84b38','#d38a45','#ffd657','#82ba5c','#945cba','#3865b8','#b83865','#ff8257','#d3d145','#ba5cb1'],
         }
       ]
     },

@@ -8,11 +8,11 @@ export default {
   extends: customChart,
   data: () => ({
     chartdata: {
-      labels: ['Plenary Session','Distinguished Lecture','HSS Prize Ceremony','Paris Lecture','None','GECC Mentorship Meet and Greet','Women\'s Caucus Breakfast','THAT Camp'],
+      labels: ['Plenary Session (25%)','Distinguished Lecture (24%)','Prize Ceremony (20%)','Paris Lecture (11%)','None (7%)','GECC Mentorship Meet and Greet (6%)','Women\'s Caucus Breakfast (5%)','THAT Camp (1%)'],
       datasets: [
         {
           data: [190,182,152,86,53,44,37,10],
-          backgroundColor: ['#B838A5','#A4B838','#38A5B8','#b84b38','#d38a45','#ffd657','#82ba5c','#935CBA']
+          backgroundColor: ['#38a5b8','#b84b38','#d38a45','#ffd657','#82ba5c','#945cba','#3865b8','#b83865']
         }
       ]
     },
