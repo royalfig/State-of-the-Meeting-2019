@@ -122,6 +122,43 @@ Looking for more photos from Utrecht 2019? [See albums from the meeting on our F
 
 <useOfResources class="graph" />
 <resourceEvaluation class="graph" />
+<noAppUse class="graph" />
+
+## Book Exhibit
+
+### 2019 Exhibitors
+
+We hosted our 2019 book exhibit in style, with publishers located in the luxurious atrium of Drift 21, the meeting's center. Throughout, attendees stopped by for fruit water, coffee, tea, and cookies, as they looked at books, chatted with publishers, and met up with colleagues.
+
+<div class="exhibitor-container">
+
+<exhibitorInfo logo="/amsterdam.png" link="https://www.aup.nl/en/" exhibitor="Amsterdam University Press" blog="AUP Blog" blogLink="https://www.aup.nl/en/" twitter="amsterdamupress" twitterLink ="https://twitter.com/amsterdamupress" :titleLinks="[{title: 'https://www.amazon.com/Showcasing-Science-Nineteenth-Scholarship-Netherlands/dp/9462982244?SubscriptionId=AKIAJRJRCKLWZ3QWH7SQ&tag=historyofscie-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=9462982244',img: 'https://images-na.ssl-images-amazon.com/images/I/51uPDW9%2BtoL.jpg'}, {title: 'https://www.amazon.com/Enlightenments-Animals-Changing-Conceptions-Eighteenth/dp/9462987629?SubscriptionId=AKIAJRJRCKLWZ3QWH7SQ&tag=historyofscie-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=9462987629', img: 'https://images-na.ssl-images-amazon.com/images/I/41dBmxjlmML.jpg'},{title: 'https://www.amazon.com/Wise-Merchant-Caspar-Barlaeus/dp/9462988005?SubscriptionId=AKIAJRJRCKLWZ3QWH7SQ&tag=historyofscie-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=9462988005', img: 'https://images-na.ssl-images-amazon.com/images/I/51p22CGrWRL.jpg'}]" />
+
+
+<exhibitorInfo logo="https://dryfta-assets.s3-accelerate.amazonaws.com/assets/hss2019/organizations/1563401549MITPressLogo.png" link="https://mitpress.mit.edu/" exhibitor="The MIT Press"/>
+
+<exhibitorInfo logo="https://dryfta-assets.s3-accelerate.amazonaws.com/assets/hss2019/organizations/1563401823HuygensINGlogo.jpg" link="http://www.huygens.knaw.nl/" exhibitor="Huygens ING"/>
+
+<exhibitorInfo logo="https://s3.amazonaws.com/files.formstack.com/uploads/3340779/73850832/514306190/73850832_logo_bpu_bootje_en_brepols.jpg" link="http://www.huygens.knaw.nl/" exhibitor="Brepols Publishers" twitter="Brepols" twitterLink="https://twitter.com/Brepols" facebook="Brepols" facebookLink="https://www.facebook.com/Brepols" :titleLinks="[{title: 'https://amzn.to/2X0JQg7', img: 'https://images-na.ssl-images-amazon.com/images/I/41VSanp7LvL.jpg'},{title: 'https://amzn.to/2FpqfLU', img: 'https://images-na.ssl-images-amazon.com/images/I/41L1KzsGhnL.jpg'}]"/>
+
+<exhibitorInfo logo="https://dryfta-assets.s3-accelerate.amazonaws.com/assets/hss2019/organizations/155327759473850832_logo_brill_blauw_groot.jpg" link="https://brill.com/" exhibitor="Brill" twitter="brill_history" twitterLink="https://twitter.com/brill_history" facebook="BrillHistory" facebookLink="https://www.facebook.com/BrillHistory/" :titleLinks="[{title: 'https://brill.com/view/journals/esm/esm-overview.xml', img: 'https://brill.com/cover/covers/15733823.jpg?width=300'},{title: 'https://brill.com/view/journals/nun/nun-overview.xml?lang=en', img: 'https://brill.com/cover/covers/18253911.jpg?width=300'}, {title: 'https://brill.com/view/serial/ENH', img: 'https://brill.com/cover/covers/24523283.jpg?width=300'}]"/>
+
+<exhibitorInfo logo="/ucp.png" link="https://www.press.uchicago.edu" exhibitor="University of Chicago Press" twitter="UChicagoPress" twitterLink ="https://twitter.com/UChicagoPress" />
+
+<exhibitorInfo logo="https://dryfta-assets.s3-accelerate.amazonaws.com/assets/hss2019/organizations/155674351273850832_cup_colour_logo_high_resolution1.jpg" link="http://http:/www.cambridge.org/academic" exhibitor="Cambridge University Press" twitter="" twitterLink ="" />
+
+<exhibitorInfo logo="https://dryfta-assets.s3-accelerate.amazonaws.com/assets/hss2019/organizations/156218828773850832_cshl_logo_alternate_rgb1.png" link="http://library.cshl.edu/archives" exhibitor="Cold Spring Harbor Laboratory" twitter="cshllibrary" blog="archives" blogLink="http://library.cshl.edu/archives" twitterLink="https://twitter.com/cshllibrary" facebook="CSHL.Library" facebookLink="https://www.facebook.com/CSHL.Library/" :titleLinks="[{title: 'https://www.amazon.com/Faces-Genome-Ludmila-Pollock/dp/1621822931?SubscriptionId=AKIAJRJRCKLWZ3QWH7SQ&tag=historyofscie-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1621822931', img: 'https://images-na.ssl-images-amazon.com/images/I/51jpr4LYrlL.jpg'},{title: 'https://www.amazon.com/Road-Discovery-History-Spring-Laboratory/dp/1621821080?SubscriptionId=AKIAJRJRCKLWZ3QWH7SQ&tag=historyofscie-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1621821080', img: 'https://images-na.ssl-images-amazon.com/images/I/6134MKsvQnL.jpg'}]"/>
+
+
+
+
+
+
+</div>
+<bookExhibitAttendance class="graph" />
+<publisherMeeting class="graph" />
+<buyABook class="graph" />
+
 
 ## From the Suggestion Box
 
@@ -143,4 +180,6 @@ Looking for more photos from Utrecht 2019? [See albums from the meeting on our F
 .warn
     color: black
 
+.exhibitor-container
+    margin: 3em 0;
 </style>
