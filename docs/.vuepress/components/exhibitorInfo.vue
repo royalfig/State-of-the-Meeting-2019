@@ -1,5 +1,6 @@
 <template>
     <article class="exhibitor-card">
+        <p class="exhibitor-badge">2019 Exhibitor</p>
         <div class="exhibitor-info">
         <img :src="logo" alt="">
         <a :href="link" class="exhibitor">{{ exhibitor }}</a>
@@ -44,13 +45,25 @@ export default {
 <style lang="stylus">
 .exhibitor-card
     display: block
-    // flex-direction: column
-    width: 100%
+    position relative
+    max-width: 100%
 
     padding: 3em
     margin: 1em 0
     border: 1px solid rgba(0,0,0,.25)
     box-shadow: 3px 3px 5px rgba(0,0,0,.15)
+
+    .exhibitor-badge
+        position: absolute
+        top: -2px
+        right: 15px
+        padding .25em .35em
+        margin 0
+        background sotm-utrecht
+        border-bottom-right-radius 5px
+        border-bottom-left-radius 5px
+        box-shadow: 1px 1px 2px rgba(0,0,0,.25)
+        color sotm-black
 
     .exhibitor-info
         img

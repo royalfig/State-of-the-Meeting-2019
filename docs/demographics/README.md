@@ -1,7 +1,36 @@
 # 📊 Demographics
 
 **🌍 Attendee Geography**
-
+<ChoroplethMap
+    :geojson="geojson"
+    :data="pyDepartmentsData"
+    titleKey="department_name"
+    geojsonIdKey="dpto"
+    idKey="department_id"
+    :value="value"
+    :extraValues="extraValues"
+    :center="center"
+    :colorScale="colorScale"
+    mapStyle="height: 500px;"
+    :zoom="6"
+    :mapOptions="mapOptions">
+    <template scope="props">
+        <InfoControl
+            :item="props.currentItem"
+            :unit="props.unit"
+            title="Department"
+            placeholder="Hover over a department"
+            position="topright">
+        </InfoControl>
+        <ReferenceChart
+            title="Girls school enrolment"
+            :colorScale="colorScale"
+            :min="props.min"
+            :max="props.max"
+            position="bottomright">
+        </ReferenceChart>
+    </template>
+</ChoroplethMap>
 **History of Science Society Membership**
 
 ::: tip
@@ -9,6 +38,8 @@ History of Science Society members receive reduced registration fees, subscripti
 :::
 
 <membershipAttendance2019 class="graph" />
+
+<attendeeFirstTime class="graph" />
 
 <attendeeGender class="graph" />
 

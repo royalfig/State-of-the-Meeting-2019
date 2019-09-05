@@ -128,7 +128,7 @@ Looking for more photos from Utrecht 2019? [See albums from the meeting on our F
 
 ### 2019 Exhibitors
 
-We hosted our 2019 book exhibit in style, with publishers located in the luxurious atrium of Drift 21, the meeting's center. Throughout, attendees stopped by for fruit water, coffee, tea, and cookies, as they looked at books, chatted with publishers, and met up with colleagues.
+We hosted our 2019 book exhibit in style! Publishers displayed their latest titles in the luxurious atrium of Drift 21, the meeting's epicenter. Throughout the week, attendees stopped by for fruit water, coffee, tea, and cookies, as they looked at books, chatted with publishers, and met up with colleagues.
 
 <div class="exhibitor-container">
 

@@ -2,17 +2,18 @@
 <script>
 import { generateChart } from 'vue-chartjs'
 
-const customChart = generateChart('membership-2019', 'pie')
+const customChart = generateChart('attendee-first-time', 'pie')
 
 export default {
   extends: customChart,
   data: () => ({
     chartdata: {
-      labels: ['HSS Member (65%)','Nonmember (35%)'],
+      labels: ['Yes (44%)','No (56%)'],
       datasets: [
         {
-          data: [218,118],
-          backgroundColor: ['#666633','#333333']
+          data: [277,346],
+          backgroundColor: ['#82ba5c','#b84b38'],
+
         }
       ]
     },
@@ -22,20 +23,18 @@ export default {
       },
       title: {
         display: 'true',
-        text: 'Attendance by Members and Nonmembers'
+        text: 'Attendee\'s First HSS Meeting'
       },
-      responsive: true,
-      maintainAspectRatio: false,
-
-    }
+      maintainAspectRatio: false
+  }
   }),
-  props: ['css-classes'],
   mounted () {
     this.renderChart(this.chartdata, this.options)
     Chart.defaults.global.defaultFontFamily = '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"';
     Chart.defaults.global.defaultFontSize = 15;
     Chart.defaults.global.defaultFontColor = '#333';
     Chart.defaults.global.legend.display = false;
+
   }
 }
 

@@ -1,6 +1,6 @@
 import VueChartJS from 'vue-chartjs'
 import VueWorldMap from 'vue-world-map'
-
+import ChoroplethMap from 'vue-choropleth'
 
 
 export default ({
@@ -12,4 +12,5 @@ export default ({
 }) => {
     Vue.use(VueChartJS)
     Vue.use(VueWorldMap)
+    Vue.use(ChoroplethMap)
 }

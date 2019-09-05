@@ -8,7 +8,7 @@ export default {
   extends: customChart,
   data: () => ({
     chartdata: {
-      labels: ['Poor', 'Fair', 'Good', 'Very Good'],
+      labels: ['Poor (1%)', 'Fair (5%)', 'Good (30%)', 'Very Good (64%)'],
       datasets: [
         {
           data: [3,15,100,213],
