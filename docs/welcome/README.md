@@ -1,6 +1,11 @@
 # 👋 Welcome
-
-<weatherData class="graph" />
+<div id="weather-f">
+<weatherData  class="graph" />
+</div>
+<div id="weather-c" class="hidden">
+<weatherDataC class="graph" />
+</div>
+<button id="tempToggle"><span class="f">°F</span> / <span class="c">°C</span></button>
 
 The History of the Science Society's 2019 annual meeting was the hottest yet, in all senses of the word. Attendees ~~witnessed~~, ~~experienced~~, suffered through the highest temperatures ever recorded in Utrecht, the Netherlands.
 
@@ -23,3 +28,54 @@ Besides the remarkable program, everyone will remember this meeting for the exce
 *2019 Programme Co-Chairs*
 
 ## Report of the HSS Executive Director
+
+<script>
+
+export default {
+  mounted () {
+    const tempToggle = document.getElementById('tempToggle');
+const fGraph = document.getElementById('weather-f');
+const cGraph = document.getElementById('weather-c');
+const fSpan = document.querySelector('.f');
+const cSpan = document.querySelector('.c');
+
+tempToggle.addEventListener('click', function() {
+    if (cGraph.classList.contains('hidden')) {
+        console.log(cGraph)
+        fGraph.classList.add('hidden');
+        fSpan.style.opacity = '.5';
+        cGraph.classList.remove('hidden');
+        cSpan.style.opacity = '1';
+    } else {
+        fGraph.classList.remove('hidden');
+        fSpan.style.opacity = '1';
+        cGraph.classList.add('hidden');
+        cSpan.style.opacity = '.5';
+    }
+    } )
+  }
+}
+</script>
+
+<style scoped lang="stylus">
+.hidden
+    display: none;
+.graph
+    height: 500px
+    margin-bottom: 15px
+
+button
+    background: sotm-orange
+    border: none
+    padding: 0.5em 1em
+    font-size: 16px
+    font-weight: 600
+    cursor: pointer
+
+    margin-bottom: 1em
+    clear: both
+    display: block
+    margin-left: auto
+.c
+    opacity: 0.5
+</style> -->

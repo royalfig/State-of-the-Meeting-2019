@@ -2,7 +2,7 @@
 <script>
 import { generateChart } from 'vue-chartjs'
 
-const customChart = generateChart('weather-data-f', 'line')
+const customChart = generateChart('weather-data-c', 'line')
 
 export default {
   extends: customChart,
@@ -12,28 +12,28 @@ export default {
       datasets: [
         {
           label: 'High',
-          data: [88, 96, 99, 89, 84],
+          data: [31, 36, 37, 32, 29],
           backgroundColor: '#b84b38',
           borderColor: '#b84b38',
           fill: false
         },
         {
           label: 'Low',
-          data: [56, 62, 62, 75, 66],
+          data: [13,17,17,24,19],
           backgroundColor: '#38a5b8',
           borderColor: '#38a5b8',
           fill: false
         },
         {
           label: 'Historical High',
-          data: [73,73,73,73,73],
+          data: [23,23,23,23,23],
           backgroundColor: 'rgba(184, 75, 56,.5)',
           borderColor: 'rgba(184, 75, 56,.5)',
           fill: false
         },
         {
           label: 'Historical Low',
-          data: [57,57,57,56,56],
+          data: [14,14,14,14,14],
           backgroundColor: 'rgba(56, 165, 184,.5)',
           borderColor: 'rgba(56, 165, 184,.5)',
           fill: false
@@ -46,7 +46,7 @@ export default {
       },
       title: {
         display: 'true',
-        text: 'Temperature during HSS (°F)'
+        text: 'Temperature during HSS (°C)'
       },
       responsive: true,
       maintainAspectRatio: false,
@@ -57,8 +57,8 @@ export default {
             }],
             yAxes: [{
                 ticks: {
-                  min: 25,
-                  max: 115
+                  min: 0,
+                  max: 45
                 }
             }]
         }
@@ -75,11 +75,3 @@ export default {
 }
 
 </script>
-
-7/23
-88 56
-73  57
-
-7/24
-96 62
-36
