@@ -1,7 +1,5 @@
 import VueChartJS from 'vue-chartjs'
-import VueWorldMap from 'vue-world-map'
-import ChoroplethMap from 'vue-choropleth'
-
+import VueGoogleCharts from 'vue-google-charts'
 
 export default ({
     Vue, // the version of Vue being used in the VuePress app
@@ -11,6 +9,5 @@ export default ({
 
 }) => {
     Vue.use(VueChartJS)
-    Vue.use(VueWorldMap)
-    Vue.use(ChoroplethMap)
+    Vue.use(VueGoogleCharts)
 }

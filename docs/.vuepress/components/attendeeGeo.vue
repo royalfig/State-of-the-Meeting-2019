@@ -1,0 +1,28 @@
+ <<template>
+   <GChart
+    type="GeoChart"
+    :settings="{ packages: ['geochart'], mapsApiKey: 'AIzaSyCL9xEJnQZICdfu8AjUfxdRigd_PIkn8Uc' }"
+    :data="chartData"
+    :options="chartOptions"
+  />
+ </template>
+
+<script>
+export default {
+   data () {
+    return {
+      // Array will be automatically processed with visualization.arrayToDataTable function
+      chartData: [
+          ['Country', 'Attendees'],
+          ['United States', 231],['Netherlands', 93],['United Kingdom', 89],['Germany', 79],['France', 20],['Canada', 17],['Italy', 13],['Switzerland', 11],['Portugal', 11],['Spain', 9],['Belgium', 8],['Israel', 5],['Australia', 5],['Austria', 5],['Brazil', 4],['Sweden', 4],['Chile', 3],['China', 3],['India', 3],['Mexico', 3],['Denmark', 2],['Norway', 2],['Finland', 2],['Greece', 2],['Hungary', 2],['Japan', 2],['South Korea', 2],['Taiwan', 2],['Romania', 2],['Russia', 1],['Czech Republic', 1],['Ireland', 1],['New Zealand', 1],['Poland', 1],
+      ],
+      chartOptions: {
+          colorAxis: {colors: ['#ffd657', '#b84b38']},
+          backgroundColor: '#38a5b8',
+          datalessRegionColor: '#ECFFE3',
+          defaultColor: '#333'
+      }
+    }
+  }
+}
+</script>
