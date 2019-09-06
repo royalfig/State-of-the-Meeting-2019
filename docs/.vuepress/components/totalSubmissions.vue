@@ -12,7 +12,7 @@ export default {
       datasets: [
         {
           data: [652, 871],
-          backgroundColor: '#d38a45'
+          backgroundColor: ['#38a5b8','#b84b38']
         }
       ]
     },
@@ -43,7 +43,7 @@ export default {
     this.renderChart(this.chartdata, this.options)
     Chart.defaults.global.defaultFontFamily = '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"';
     Chart.defaults.global.defaultFontSize = 15;
-    Chart.defaults.global.defaultFontColor = '#ffffff';
+    Chart.defaults.global.defaultFontColor = '#333';
     Chart.defaults.global.legend.display = false;
   }
 }

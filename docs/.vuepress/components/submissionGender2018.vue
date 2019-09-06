@@ -12,7 +12,7 @@ export default {
       datasets: [
         {
           data: [360,345,74,7],
-          backgroundColor: '#b84b38'
+          backgroundColor: ['#38a5b8','#b84b38','#d38a45','#ffd657']
         }
       ]
     },
