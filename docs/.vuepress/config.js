@@ -22,6 +22,7 @@
               '/demographics/',
               '/grants/',
               '/satisfaction/',
+              '/book-exhibit/',
               '/prizes/',
               '/conclusion/',
               '/acknowledgments/'

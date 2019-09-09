@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
     <article class="exhibitor-card">
         <p class="exhibitor-badge">2019 Exhibitor</p>
         <div class="exhibitor-info">
@@ -19,27 +19,26 @@
             </a>
         </div>
     </article>
+</template> -->
+
+<template v-for="value in object">
+    <article class="exhibitor-card">
+        <p class="exhibitor-badge">2019 Exhibitor</p>
+        <div class="exhibitor-info">
+            <p>{{ value }}</p>
+        </div>
+    </article>
 </template>
+
 
 <script>
 export default {
-  props: {
-      logo: String,
-      link: String,
-      exhibitor: String,
-      blog: String,
-      blogLink: String,
-      twitter: String,
-      twitterLink: String,
-      facebook: String,
-      facebookLink: String,
-      yt: String,
-      ytLink: String,
-      titleLinks: Array,
-      titleImgs: Array
-  }
+  data () {
+    return {
+           object: ['test','test2']
+            }
+        }
 }
-
 </script>
 
 <style lang="stylus">
