@@ -28,7 +28,7 @@ History of Science Society members receive reduced registration fees, subscripti
 ## Attendance by Employment
 <attendeeEmployment class="graph" />
 
-## Attendee by Age
+## Attendance by Age
 <attendeeAge class="graph" />
 
 

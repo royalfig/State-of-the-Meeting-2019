@@ -12,16 +12,17 @@ export default {
   }
 }
 
+
 </script>
 
 <style lang="stylus">
 .pull-quote
     display: flex
-    width: 250px
 
+    flex-wrap: wrap
     padding: 1em 3em
     position: relative
-    margin: .5em
+    margin: .75em .5em
     border: 1px solid rgba(0,0,0,.25)
     box-shadow: 3px 3px 5px rgba(0,0,0,.15)
 
@@ -35,7 +36,4 @@ export default {
         font-family: Garamond, serif
         font-weight: 900
         line-height 1
-
-
-
 </style>

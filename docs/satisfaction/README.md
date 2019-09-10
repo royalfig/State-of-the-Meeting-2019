@@ -8,27 +8,46 @@
 
 ### Comments on Meeting Satisfaction
 
-#### The Good 👏👏👏
+#### The Good 👏👏👏 <Badge text="a select few" />
 
 <div class="choice-quotes">
+<div class="left">
 <pullQuote title="The program was fantastic, and Utrecht was a wonderful venue. I really liked not being in a conference hotel."/>
 <pullQuote title="how all participants banded together to beat the heat - very collegial, and an overall absence of heat-related short tempers; I attribute this to the excellent organization of the conference"/>
 <pullQuote title="Just a great academic and social experience, with excellent research, good social opportunities (those evening receptions with plenaries really help), and a pleasant academic environment (despite the heat)"/>
 <pullQuote title="The setting. Utrecht was beautiful. The university buildings were old and charming, and refreshing compared to the often corporate feel of the hotels the conference usually takes place in. I also thought it was really well-organised and the heatwave was dealt with well under the circumstances. ... There were other really nice touches, like the flavoured water being offered. I really enjoyed myself."/>
 <pullQuote title="The feeling of camaraderie among colleagues, the space where the sessions were held, the awards ceremony, the Lectures. The city. The attention of the yellow shirts. My own participation."/>
 <pullQuote title="The sessions and program throughout the days - the local administration in Utrecht was also fantastically nice and helpful."/>
+</div><div class="right">
 <pullQuote title="So many things! The relaxed atmosphere (maybe the heat had something to do with it?), learning more about European and other international work, the university setting, the great care taken by all to ensure that we would not have heatstroke!"/>
 <pullQuote title="It was my first time at HSS and I enjoyed exchanging ideas with a different crowd! No one on my panel knew one another beforehand, and I think we will stay in touch."/>
 <pullQuote title="The organization of the conference -- online and off -- was fantastic. I really appreciated the work to connect everybody, and the huge effort for accessibility. This made everything collegial and wonderful!"/>
 <pullQuote title="Panels were great, organisation fantastic; most of all: NOT a conference hotel but embedded in a beautiful city which allowed for pleasant experiences beyond the conference. I would urgently plead to keep this model and refrain from the big box conference hotels where everybody is stuck (and which are so expensive!)"/>
+<pullQuote title="University setting, phenomenal responsiveness of local organizers and
+HSS staff in responding to unexpected heat wave, portable/throwable mics
+in the rooms, being able to take notes on a desk rather than my lap,
+excellent sessions, friendly people... honestly the whole meeting was a
+delight personally and intellectually. Thank you!" />
+<pullQuote title="This was my first HSS meeting, and, to be perfectly honest, it was perhaps
+the best-organized conference I have ever had the pleasure to attend. My
+only hope is that you continue this model -- and that it can be extended to
+other conferences. I am really excited to attend my next HSS conference
+based on my experience here, and I will be certain to recommend this
+conference to my colleagues. Thank you for an exciting, invigorating, and
+beautifully-collegial conference!" />
+</div>
 </div>
 
-#### The Bad 😧
+
+#### The Bad 😧 <Badge text="all of it" />
 
 <div class="choice-quotes">
+<div class="left">
 <pullQuote title="Academic quality low overall, but there were many exceptions"/>
 <pullQuote title="Mostly the inhumane heat without AC! Also, the poor administrative arrangement is another drawback"/>
+</div><div class="right">
 <pullQuote title="Clearly the organizers could do nothing regarding the extreme weather but contingency plans could have been made. A non air conditioned venue is a problem (for comfort and concentration etc.) even at 85/90, which is not unheard of in Utrecht in July. In 100 it's dangerous. Future conferences must make every effort possible to include everybody, including those with health challenges. Where AC was unavailable, panels held in the afternoon probably should have been cancelled."/>
+</div>
 </div>
 
 ## Why attend HSS?
@@ -127,103 +146,71 @@ Looking for more photos from Utrecht 2019? [See albums from the meeting on our F
 
 ## From the Suggestion Box
 
+<div class="choice-quotes">
+<div class="left">
+<pullQuote title="HSS has a major diversity problem: both ethnic and nationalistic. The
+meeting is overwhelmingly attended by Europeans and North Americans.
+This is partly because of the lack of financial support afforded to scholars
+based in low income countries and partly due to the arduous and
+extortionate process of applying for visas. I would strongly recommend
+providing financial support for visa costs and subsidising travel from
+low-middle income countries irrespective of career status." />
+<pullQuote title="The Flashtalks session actually worked really well, despite my initial
+skepticism. Perhaps there could be more than one to bring even more
+junior scholars into the conference." />
+<pullQuote title="Sessions with overlapping topics seem to often be scheduled against
+eachother. I know scheduling must be difficult, and some conflicts are
+inevitable, but it seems like there must be a better way!" />
+</div><div class="right">
+<pullQuote title="It is better to cancel events than 'plough ahead' in dangerous conditions.
+HSS must ensure the safety of all attendees. Perhaps events in late
+afternoon should have been held remotely. HSS must now clarify its policy
+on the health and safety of conference attendees.
+Sadly, there will always be those who advertise their commitment through
+stoic calls to 'keep calm etc. etc.' -- that won't do. This isn't Iron Man. Such
+attitudes, if implicitly accepted as the policy of HSS, become a form of
+discrimination against those unable to attend in extreme conditions.
+It's now time for an official statement from HSS on precisely what its health
+and safety policy is." />
+<pullQuote title="Perhaps have it at 2 or 3 locations at once, on different continents, so that
+less people have to fly. I think with technology, it can still feel like one
+conference. E.g. if a keynote is in North America, than people in Europe
+and Asia (for example) can listen via Skype, but still in a big hall together. I
+have positive experiences with this at another conference.
+The call for papers could have been a bit earlier, especially since the
+deadline was shortly after the holidays. For me, trying to organize a panel
+and not having a big network yet as a PhD-student, it was a bit stressful,
+(though not impossible as we did manage to get together the panel just in
+time)." />
+<pullQuote title="A plan of the meeting rooms in the PdF/programme would have saved
+some confusions and late arrivals.
+A longer CFP window to enable session-wrangling (I regretted not
+arranging a session, as my session was very miscellaneous)." />
+<pullQuote title="Diversity continues to be a key challenge for HSS. It would be a huge
+benefit to think of ways of engaging more graduate students and emerging
+scholars from non-European backgrounds into the meeting. Special
+outreach, travel funding, and/or a dedicated prize may be ways of
+approaching this." />
+<pullQuote title="Offer /do even more to encourage non traditional formats and sessions on
+newer topics/questions that can be approached in a variety of ways
+particular to historians of science e.g. climate change, decolonization,
+migrant crisis, reckoning with gender dynamics etc" />
+<pullQuote title="Keep doing name badges without institutional affiliation -- it was a great
+way to cut down on the social weirdness regarding rank/affiliation, it gave
+everyone a nice conversation opener about where they're currently based,
+and made it easier for independent and early career researchers to work
+out how to list their affiliations. Great move, keep doing it." />
+<pullQuote title="Diversity within the discipline still seems to be a fundamental issue. It
+remains extremely noticeable that so few BME researchers are involved. It
+was good to see a discussion group on LGBTQ+ issues in HSTM, but this
+was not a full panel and happened at lunchtime, giving a prevailing feeling
+that queer dimensions of the field are still considered peripheral or
+unimportant. It would be good to see HSS tackle some of these issues
+more boldly at the nest meeting." />
+</div>
+</div>
+
 
 <style lang="stylus">
-.graph
-    margin: 3em 0
-    padding: 1.5em
-    border: 1px solid rgba(0, 0, 0, .25)
-    box-shadow: 1px 1px 2px rgba(0, 0, 0, .25), 5px 5px 15px rgba(0, 0, 0, .12)
-
-.choice-quotes
-    align-content: center;
-    display: flex
-    flex-wrap: wrap
-    justify-content: space-around
-    margin-top: 1em
-
-.warn
-    color: black
-
-.exhibitor-container
-    margin: 3em 0;
-
-
-
-.exhibitor-card
-    display: block
-    position relative
-    max-width: 100%
-
-    padding: 3em
-    margin: 1em 0
-    border: 1px solid rgba(0,0,0,.25)
-    box-shadow: 3px 3px 5px rgba(0,0,0,.15)
-
-    .exhibitor-badge
-        position: absolute
-        top: -2px
-        right: 15px
-        padding .25em .35em
-        margin 0
-        background sotm-utrecht
-        border-bottom-right-radius 5px
-        border-bottom-left-radius 5px
-        box-shadow: 1px 1px 2px rgba(0,0,0,.25)
-        color sotm-black
-
-    .exhibitor-info
-        img
-            display: block
-            max-height: 75px
-            margin: .5em 0
-
-    .exhibitor
-        font-size: 2em
-        margin-top: .5em
-        display: block
-    .social-container
-        display: flex
-        flex-wrap: wrap
-
-    .social
-        margin-bottom: 1em
-
-        p
-            border-bottom: 1px solid currentColor
-            font-weight: 600
-
-        a
-            display: flex
-            align-items: center
-            line-height: 1
-            margin: .25em 0
-            padding: .5em
-
-            /* background sotm-orange */
-            border-radius: 8px
-            color sotm-black
-
-            img
-                height: 18px
-                width: 18px
-                margin-right: .5em
-
-    .featured
-        display: flex
-        flex-wrap: wrap
-        justify-content: space-around
-
-        p
-            width: 100%
-            border-bottom: 1px solid currentColor
-            font-weight: 600
-        img
-            display: block
-            height: 250px
-            &:hover
-                filter: saturate(150%)
-
-
 
 </style>
