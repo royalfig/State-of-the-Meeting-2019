@@ -2,6 +2,13 @@
 
 ## 🌍 Attendee Geography
 
+::: warning
+Graphs and charts below represent incomplete datasets.
+:::
+
+
+This map shows the distribution of our 2019 attendees. Red shows countries with the highest number of delegates, yellow the least, and white none.
+
 <div class="graph">
 <attendeeGeo />
 </div>
