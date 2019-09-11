@@ -35,6 +35,9 @@ other conferences. I am really excited to attend my next HSS conference
 based on my experience here, and I will be certain to recommend this
 conference to my colleagues. Thank you for an exciting, invigorating, and
 beautifully-collegial conference!" />
+<pullQuote title="It was fabulously organised. I think the best conference I have ever
+been to. The volunteers were happy, helpful and always impeccably
+organised. The app was very clear and easy to use." />
 </div>
 </div>
 
@@ -207,6 +210,55 @@ was not a full panel and happened at lunchtime, giving a prevailing feeling
 that queer dimensions of the field are still considered peripheral or
 unimportant. It would be good to see HSS tackle some of these issues
 more boldly at the nest meeting." />
+<pullQuote title="[...] It's all
+very well saying we want to engage more with history of science
+scholarship from the global south, but if we don't then go to those talks and
+actually do the engaging, it's really not great. There's not one easy solution
+to this, but I wanted to raise it explicitly." />
+<pullQuote title="There is a real inequity between organised sessions and those put together
+by the organisers from submitted papers. With a few exceptions, the latter
+were poorly attended. It is very demoralising to give a paper to four people.
+It is also a waste of scholarly resources, and creates a two-tier system.
+Please could HSS think about how to value non-organised sessions. For
+example, we talked in the chemistry group about publicising chemistry
+papers even in non-organised sessions; it might also be worth HSS
+nominating rapporteurs to go to non-organised sessions so that the Society
+is making sure that people's work is heard by senior colleagues." />
+<pullQuote title="There is a real inequity between organised sessions and those put together
+by the organisers from submitted papers. With a few exceptions, the latter
+were poorly attended. It is very demoralising to give a paper to four people.
+It is also a waste of scholarly resources, and creates a two-tier system.
+Please could HSS think about how to value non-organised sessions. For
+example, we talked in the chemistry group about publicising chemistry
+papers even in non-organised sessions; it might also be worth HSS
+nominating rapporteurs to go to non-organised sessions so that the Society
+is making sure that people's work is heard by senior colleagues." />
+<pullQuote title="The registration pack in its current form is hardly worth the trouble--it would
+be helpful for everyone to be given a printed map showing all the room
+locations, and another map showing any 'external' sites. Also offer small
+academic societies/interest groups a chance to include brochures/materials
+at minimal or no cost." />
+<pullQuote title="- provide a simple (paid) lunch, to facilitate meeting colleagues in an
+informal setting
+- provide a bit more time for breaks, for the same reason
+- don't hold the (wonderful) graduate student book giveaway only 5 minutes
+after the official end of the last session, when several sessions were still
+ongoing
+- the meeting app is extremely useful, but still has a few programming
+flukes that make it more cumbersome to use than necessary" />
+<pullQuote title="I found the website with the program schedule rather frustrating
+this year-while it was great for searching for particular sessions, I had a
+really difficult time trying to get any kind of overview of the conference
+(again, maybe this was actually possible & I just couldn't figure out how, or
+maybe it actually was indeed difficult...). So, making this aspect of the
+conference more user-friendly, as it's been in the past, would be very
+helpful." />
+<pullQuote title="-Limit sessions to 1.5 hours (2 hours was too long)
+-Provide more than a 30-minute gap between the end of the last session
+and start of the evening events
+-Accept more pedagogical session proposals
+-Encourage senior members to be friendlier to junior attendees (HSS still
+has a bad reputation in this regard)" />
 </div>
 </div>
 

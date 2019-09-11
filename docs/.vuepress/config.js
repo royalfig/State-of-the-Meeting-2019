@@ -1,5 +1,4 @@
   module.exports = {
-
       title: 'History of Science Society',
       description: 'State of the Meeting 2019',
       head: [
@@ -12,7 +11,8 @@
         ['meta', {name: 'theme-color', content: '#666633'}]
       ],
       themeConfig: {
-          nav: [{
+        logo: '/logo.jpg',
+        nav: [{
                   text: 'Join',
                   link: 'https://hssonline.org/membership/subscriptions/'
               },

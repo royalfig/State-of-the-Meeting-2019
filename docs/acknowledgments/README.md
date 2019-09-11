@@ -44,5 +44,10 @@ whole. I know this is not a suggestion, but I would like to express it anyway,
 since it was one of the best HSS meetings I have attended!" />
 <pullQuote title="The student assistants were uniformly awesome -- super helpful and
 friendly and doing a great job. Thanks!" />
+<pullQuote title="A big thank you for the extremely smooth organisation!
+The 'Crew' was always easily recognisable with their yellow shirts, they
+were everywhere (which was amazing), and also did a really good job in
+pointing people into the right direction for the lectures. A suburb
+organisation, thanks!" />
 </div>
 </div>
