@@ -8,11 +8,11 @@ export default {
   extends: customChart,
   data: () => ({
     chartdata: {
-      labels: ['Poor (3%)','Fair (19%)','Good (47%)','Very Good (31%)'],
+      labels: ['Very Poor (0%)','Poor (3%)','Fair (19%)','Good (47%)','Very Good (31%)'],
       datasets: [
         {
-          data: [7,41,99,65],
-          backgroundColor: ['#b84b38','#d38a45','#ffd657','#82ba5c']
+          data: [0,7,41,99,65],
+          backgroundColor: ['#b84b38','#d38a45','#38a5b8','#ffd657','#82ba5c']
         }
       ]
     },

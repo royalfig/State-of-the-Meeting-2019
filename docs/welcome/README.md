@@ -11,11 +11,31 @@ footer: History of Science Society | Founded in 1924
 </div>
 <button id="tempToggle"><span class="f">°F</span> / <span class="c">°C</span></button>
 
-The History of the Science Society's 2019 annual meeting was the hottest yet, in all senses of the word. Attendees ~~witnessed~~, ~~experienced~~, survived the highest temperatures ever recorded in Utrecht, the Netherlands.
+In a word, the History of the Science Society's 2019 annual meeting was *hot*. Attendees ~~witnessed~~, ~~experienced~~, survived! the highest temperatures ever recorded in Utrecht, the Netherlands.
 
-Despite the heat, and thanks to the heroic efforts of the local organizing committe and Utrecht University volunteers as well as to the resiliency of our attendees, the meeting carried on, with anecdotal evidence and survey results showing this to be one of our most enjoyable meetings yet.
+Despite the heat, and mainly thanks to the heroic efforts of the local organizing committe and Utrecht University volunteers as well as to the resiliency of attendees, the meeting carried on, with anecdotal evidence and survey results showing this to be one of our most enjoyable meetings to date.
 
-The following *State of the Meeting* report is an attempt to provide an overview of HSS 2019. The report offers data from the meeting's [submission process](/submissions/), [demographics](/demographics/), and [satisfaction](/satisfaction/), as supplied by attendees via registration and survey feedback. The HSS Executive Committee, Council, and Executive Office use this information to organize and improve future meetings, programs, and the Society itself. Additionally, this report serves as a record of the meeting, its events, like the [book exhibit](/book-exhibit/) and [HSS 2019 Prize Winners](/prizes/), and [meeting-related grants](/grants/).
+The following *State of the Meeting* report provides an overview of HSS 2019. It supplies and visualizes data about the meeting's [submission process](/submissions/), [attendee demographics](/demographics/), [meeting-related grants](/grants/), and [meeting satisfaction](/satisfaction/). The HSS Executive Committee, Council, and Executive Office use this information to organize and improve future meetings, programs, and the Society itself. This report also serves as a record of the meeting itself, including some of its events, like the [book exhibit](/book-exhibit/) and [HSS 2019 Prize Winners](/prizes/).
+
+Below, you will find the 2019 meeting program and abstracts available for download, as well as meeting reports by the 2019 program co-chairs and the Executive Director.
+
+**Join the discussion on Twitter** [#hss19](https://twitter.com/search?q=%23hss19)
+
+**Get in touch:**
+
+<img class="list" src="/tw.svg" aria-label="Twitter"> [@hssonline](https://twitter.com/hssonline)
+
+<img class="list" src="/fb.svg" aria-label="Facebook"> [Facebook](https://www.facebook.com/HistoryOfScienceSociety)
+
+<img class="list" src="/email.svg" aria-label="Email"> [Email](mailto:info@hssonline.org?subject=State%20of%20the%20Meeting%202019)
+
+<style scoped lang="stylus">
+.list
+    display: inline-block
+    width: 1em
+    height: 1em
+    margin-left: 1em
+</style>
 
 ## Meeting Resources
 <div style="display: flex">

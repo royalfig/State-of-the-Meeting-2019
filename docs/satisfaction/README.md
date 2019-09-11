@@ -99,7 +99,7 @@ In addition to sharing scholarship, attendees come to HSS to catch up with old f
 <figcaption>Elizabeth Paris Public Engagement Lecture</figcaption>
 </figure>
 
-::: warning
+::: tip
 Looking for more photos from Utrecht 2019? [See albums from the meeting on our Facebook page](https://facebook.com/historyofsciencesociety)
 :::
 
@@ -125,20 +125,20 @@ Looking for more photos from Utrecht 2019? [See albums from the meeting on our F
 | --- | --- | --- |
 |Early Science Forum | Promote scholarly interest in scientific and technology work from antiquity through the seventeenth century | Sponsed Panel, Business Meeting |
 |Earth and Environment Forum | Promote histories of land, sea, and sky, in all manner of physical, human, and life sciences | Sponsored Panel, Business Meeting |
-|Forum for History of Human Science | Promote research, education, and scholarship in the history of human science | Sponsored Panel, Distinguished Lecture, Business Meeting |
+|[Forum for History of Human Science](http://fhhs.org/) | Promote research, education, and scholarship in the history of human science | Sponsored Panel, Distinguished Lecture, Business Meeting |
 |Forum for the History of Health, Medicine and the Life Sciences | Promote history and historians of the medical and life sciences (including nursing, traditional health practices, dentistry, veterinary medicine, public health, pharmacy, etc.) | Business Meeting |
-|Forum for the History of Science in Asia | Promote scholarship in the history of science, medicine, and technology in Asia | Sponsored Panel, Business Meeting |
+|[Forum for the History of Science in Asia](https://fhsasiahss.wordpress.com/) | Promote scholarship in the history of science, medicine, and technology in Asia | Sponsored Panel, Business Meeting |
 |Forum for the History of the Chemical Sciences | Promote history of the chemical sciences | Sponsored Panel, Business Meeting |
 |Forum for the History of the Mathematical Sciences | Promote history and historians of the mathematical sciences | Sponsored Panel |
-|Physical Science Forum | Promote scholarship in the history of the physical sciences, including but not limited to physics; earth, space, and atmospheric science; astronomy, and materials science | Distinguished Lecture, Sponsored Panel |
+|[Physical Science Forum](https://physicalsciencesforumhss.wordpress.com/) | Promote scholarship in the history of the physical sciences, including but not limited to physics; earth, space, and atmospheric science; astronomy, and materials science | Distinguished Lecture, Sponsored Panel |
 
 <hr>
 
 | Caucus | Purpose | Events |
 | --- | --- | --- |
 | Collections, Archives, Libraries, and Museums <Badge text="proposed" type="warn"/> | Provide a space for scholars in the history of collection-based institutions or efforts to mobilize collections to explore the history of science, technology, and medicine | Organizational Meeting |
-|Graduate Student and Early Career caucus | Provide resources for graduate students and early careerists | Mixer, Meet &amp; Greet, Mentorship Events, Sponsored Panel, Business Meeting, and more |
-|HSS Women’s Caucus | Focus on the role and status of women in the profession | Sponsored Panel, Women's Caucus Breakfast |
+|[Graduate Student and Early Career Caucus](https://hssgecc.wordpress.com/) | Provide resources for graduate students and early careerists | Mixer, Meet &amp; Greet, Mentorship Events, Sponsored Panel, Business Meeting, and more |
+|[HSS Women’s Caucus](http://hsswc.weebly.com/) | Focus on the role and status of women in the profession | Sponsored Panel, Women's Caucus Breakfast |
 
 ## Meeting Resources
 
@@ -147,7 +147,7 @@ Looking for more photos from Utrecht 2019? [See albums from the meeting on our F
 <noAppUse class="graph" />
 
 
-## From the Suggestion Box
+## From the Suggestion Box <Badge text="a select few" />
 
 <div class="choice-quotes">
 <div class="left">
@@ -162,9 +162,8 @@ low-middle income countries irrespective of career status." />
 skepticism. Perhaps there could be more than one to bring even more
 junior scholars into the conference." />
 <pullQuote title="Sessions with overlapping topics seem to often be scheduled against
-eachother. I know scheduling must be difficult, and some conflicts are
+each other. I know scheduling must be difficult, and some conflicts are
 inevitable, but it seems like there must be a better way!" />
-</div><div class="right">
 <pullQuote title="It is better to cancel events than 'plough ahead' in dangerous conditions.
 HSS must ensure the safety of all attendees. Perhaps events in late
 afternoon should have been held remotely. HSS must now clarify its policy
@@ -203,6 +202,7 @@ way to cut down on the social weirdness regarding rank/affiliation, it gave
 everyone a nice conversation opener about where they're currently based,
 and made it easier for independent and early career researchers to work
 out how to list their affiliations. Great move, keep doing it." />
+</div><div class="right">
 <pullQuote title="Diversity within the discipline still seems to be a fundamental issue. It
 remains extremely noticeable that so few BME researchers are involved. It
 was good to see a discussion group on LGBTQ+ issues in HSTM, but this
@@ -259,6 +259,10 @@ and start of the evening events
 -Accept more pedagogical session proposals
 -Encourage senior members to be friendlier to junior attendees (HSS still
 has a bad reputation in this regard)" />
+<pullQuote title="The Website, the electronic submission process, and the APP were all too
+complex and I did not find these user-friendly. Use another system next
+time. It was too difficult to find out information on ones own session, and
+get updates." />
 </div>
 </div>
 

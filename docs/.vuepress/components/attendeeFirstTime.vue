@@ -23,7 +23,7 @@ export default {
       },
       title: {
         display: 'true',
-        text: 'Attendee\'s First HSS Meeting'
+        text: 'First-Time Attendance'
       },
       maintainAspectRatio: false
   }
@@ -34,7 +34,6 @@ export default {
     Chart.defaults.global.defaultFontSize = 15;
     Chart.defaults.global.defaultFontColor = '#333';
     Chart.defaults.global.legend.display = false;
-
   }
 }
 

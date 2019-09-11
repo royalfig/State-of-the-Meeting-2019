@@ -30,7 +30,6 @@ top of everything else) was cold water everywhere, and a lot of it. This
 worked excellently well. I also was impressed by their ability to reschedule
 sessions spontaneously into rooms with AC. Top job!! Thank you very, very
 much!!" />
-<pullQuote title="They really did a wonderful job!" />
 <pullQuote title="They were fantastic!! They worked with unusual conditions and rose to the
 challenge-impressive!" />
 <pullQuote title="The local organizers did a fantastic job, especially in light of the changes
@@ -59,5 +58,7 @@ the hottest two days, had a good audience. The Descartes students in the
 yellow shirts were FANTASTIC. They were a key to your success, as well
 as the hard-working organizers.
 Congratulations! And thank you very much for hosting us so generously." />
+<pullQuote title="The staff and technicians on the ground were excellent! They were kind,
+knowledgeable, responsive, patient, and numerous!!" />
 </div>
 </div>
