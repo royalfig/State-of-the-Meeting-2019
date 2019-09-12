@@ -1,12 +1,10 @@
 # 📊 Demographics
 
-## 🌍 Attendee Geography
-
 ::: warning
-Graphs and charts below represent incomplete datasets.
+Graphs and charts below may represent incomplete datasets.
 :::
 
-
+## 🌍 Attendee Geography
 This map shows the distribution of our 2019 attendees. Red shows countries with the highest number of delegates, yellow the least, and white none.
 
 <div class="graph">
@@ -21,7 +19,7 @@ History of Science Society members receive reduced registration fees, subscripti
 
 <membershipAttendance2019 class="graph" />
 
-## First-Time Attendees
+## Attendance by Frequency
 <attendeeFirstTime class="graph" />
 
 ## Attendance by Gender

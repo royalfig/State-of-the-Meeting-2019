@@ -1,7 +1,3 @@
----
-footer: History of Science Society | Founded in 1924
----
-
 # 👋 Welcome
 <div id="weather-f">
 <weatherData  class="graph" />
@@ -18,24 +14,6 @@ Despite the heat, and mainly thanks to the heroic efforts of the local organizin
 The following *State of the Meeting* report provides an overview of HSS 2019. It supplies and visualizes data about the meeting's [submission process](/submissions/), [attendee demographics](/demographics/), [meeting-related grants](/grants/), and [meeting satisfaction](/satisfaction/). The HSS Executive Committee, Council, and Executive Office use this information to organize and improve future meetings, programs, and the Society itself. This report also serves as a record of the meeting itself, including some of its events, like the [book exhibit](/book-exhibit/) and [HSS 2019 Prize Winners](/prizes/).
 
 Below, you will find the 2019 meeting program and abstracts available for download, as well as meeting reports by the 2019 program co-chairs and the Executive Director.
-
-**Join the discussion on Twitter** [#hss19](https://twitter.com/search?q=%23hss19)
-
-**Get in touch:**
-
-<img class="list" src="/tw.svg" aria-label="Twitter"> [@hssonline](https://twitter.com/hssonline)
-
-<img class="list" src="/fb.svg" aria-label="Facebook"> [Facebook](https://www.facebook.com/HistoryOfScienceSociety)
-
-<img class="list" src="/email.svg" aria-label="Email"> [Email](mailto:info@hssonline.org?subject=State%20of%20the%20Meeting%202019)
-
-<style scoped lang="stylus">
-.list
-    display: inline-block
-    width: 1em
-    height: 1em
-    margin-left: 1em
-</style>
 
 ## Meeting Resources
 <div style="display: flex">
@@ -97,6 +75,10 @@ Finally, a conference outside of our usual North American confines offered many 
 **Jay Malone**<br>
 *HSS Executive Director*
 
+
+
+
+
 <script>
 
 export default {
@@ -109,7 +91,6 @@ const cSpan = document.querySelector('.c');
 
 tempToggle.addEventListener('click', function() {
     if (cGraph.classList.contains('hidden')) {
-        console.log(cGraph)
         fGraph.classList.add('hidden');
         fSpan.style.opacity = '.5';
         cGraph.classList.remove('hidden');
@@ -133,7 +114,7 @@ tempToggle.addEventListener('click', function() {
     margin-bottom: 15px
 
 button
-    background: sotm-orange
+    background: sotm-red
     border: none
     padding: 0.5em 1em
     font-size: 16px
@@ -146,4 +127,4 @@ button
     margin-left: auto
 .c
     opacity: 0.5
-</style> -->
+</style>
