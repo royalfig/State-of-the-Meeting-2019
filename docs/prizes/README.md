@@ -3,7 +3,7 @@
 
 ## HSS/NASA Fellowship
 ::: tip
-Fellowships in Aerospace History are offered annually by the National Aeronautics Space Administration (NASA) to support significant scholarly research projects in aerospace history. [Learn more](https://hssonline.org/employment/fellowship-in-the-history-of-space-science/)
+Fellowships in Aerospace History are offered annually by the National Aeronautics Space Administration (NASA) to support significant scholarly research projects in aerospace history. [Learn more about the HSS/NASA Fellowship](https://hssonline.org/employment/fellowship-in-the-history-of-space-science/)
 :::
 
 <p class="prize-winner">Claire Isabel Webb</p>
@@ -11,7 +11,7 @@ Fellowships in Aerospace History are offered annually by the National Aeronautic
 <p class="prize-winner-affiliation">Massachusets Institute of Technology</p>
 
 <img class="prize-winner-headshot" alt="Claire Webb, HSS/NASA Fellow in Aerospace History"
-sizes="(max-width: 750px) 80vw, 500px"
+sizes="(max-width: 750px) 80vw, 750px"
 srcset="
 ./webb_hnhk8g_c_scalew_200.jpg 200w,
 ./webb_hnhk8g_c_scalew_664.jpg 664w"
@@ -26,7 +26,7 @@ Claire Isabel Webb is a fifth-year Ph.D. candidate in the History, Anthropology,
 ## Reingold Prize
 
 ::: tip
-Established in 1955 by Ida and Henry Schuman of New York City to recognize an original graduate student essay on the history of science and its cultural influences. [Learn more](https://hssonline.org/about/honors/nathan-reingold-prize/)
+Established in 1955 by Ida and Henry Schuman of New York City to recognize an original graduate student essay on the history of science and its cultural influences. [Learn more about the Reingold Prize](https://hssonline.org/about/honors/nathan-reingold-prize/)
 :::
 
 <p class="prize-winner">Brad Bolman</p>
@@ -35,7 +35,7 @@ Established in 1955 by Ida and Henry Schuman of New York City to recognize an or
 
 <picture>
 <img class="prize-winner-headshot"
-sizes="(max-width: 750px) 80vw, 500px"
+sizes="(max-width: 750px) 80vw, 750px"
 srcset="
 ./Bolman_-_Headshot_-_2019_pnvdmz_c_scalew_200.jpg 200w,
 ./Bolman_-_Headshot_-_2019_pnvdmz_c_scalew_389.jpg 389w,
@@ -51,7 +51,7 @@ In “Pig Mentations: Race and Face in Radiobiology and Beyond,” Brad Bolman t
 
 <picture>
 <img alt="Bolman accepts Reingold Prize with Lightman" class="fullbleed"
-sizes="(max-width: 750px) 80vw, 500px"
+sizes="(max-width: 750px) 80vw, 750px"
 srcset="
 bolman_xs3ekd_c_scalew_200.jpg 200w,
 bolman_xs3ekd_c_scalew_335.jpg 335w,
@@ -65,7 +65,7 @@ src="bolman_xs3ekd_c_scalew_750.jpg">
 
 ## Pauly Prize
 ::: tip
-Awarded for the best first book on the history of science in the Americas and written in English. [Learn more](https://hssonline.org/about/honors/philip-j-pauly-prize/)
+Awarded for the best first book on the history of science in the Americas and written in English. [Learn more about the Pauly Prize](https://hssonline.org/about/honors/philip-j-pauly-prize/)
 :::
 
 <p class="prize-winner">Megan Raby</p>
@@ -86,13 +86,23 @@ We applaud Megan Raby’s historical analysis, and are very pleased to recognize
 	Jacob Hamblin (Chair),Christine Keiner, Conevery Bolton Valenčius
 </div>
 
-<img alt="Raby accepts Pauly Prize with Lightman" class="fullbleed" src="./raby.jpg">
+<img alt="Raby accepts Pauly Prize with Lightman" class="fullbleed"
+sizes="(max-width: 750px) 100vw, 750px"
+srcset="
+./raby_bsp3et_c_scalew_200.jpg 200w,
+./raby_bsp3et_c_scalew_324.jpg 324w,
+./raby_bsp3et_c_scalew_424.jpg 424w,
+./raby_bsp3et_c_scalew_503.jpg 503w,
+./raby_bsp3et_c_scalew_589.jpg 589w,
+./raby_bsp3et_c_scalew_674.jpg 674w,
+./raby_bsp3et_c_scalew_750.jpg 750w"
+src="./raby_bsp3et_c_scalew_750.jpg">
 
 <div class="divider"></div>
 
 ## Ronald Rainger Prize
 ::: tip
-Awarded for the best early career work on the history of the earth and environmental sciences. [Learn more](https://hssonline.org/about/honors/ronald-rainger-prize/)
+Awarded for the best early career work on the history of the earth and environmental sciences. [Learn more about the Rainger Prize](https://hssonline.org/about/honors/ronald-rainger-prize/)
 :::
 
 <p class="prize-winner">Leah Aronowsky</p>
@@ -101,7 +111,7 @@ Awarded for the best early career work on the history of the earth and environme
 
 <picture>
 <img class="prize-winner-headshot"
-sizes="(max-width: 750px) 80vw, 500px"
+sizes="(max-width: 750px) 80vw, 750px"
 srcset="
 ./Aronowsky_-_Headshot_-_2019_enzgsn_c_scalew_200.jpg 200w,
 ./Aronowsky_-_Headshot_-_2019_enzgsn_c_scalew_339.jpg 339w,
@@ -121,7 +131,7 @@ The 2019 Ronald Rainger Prize for early-career scholarship in the history of the
 
 ## Price Webster Prize
 ::: tip
-Awarded for the best article in *Isis*. [Learn more](https://hssonline.org/about/honors/pricewebster-prize/)
+Awarded for the best article in *Isis*. [Learn more about the Price/Webster Prize](https://hssonline.org/about/honors/pricewebster-prize/)
 :::
 
 <p class="prize-winner">Marta Hanson and Gianna Pomata</p>
@@ -129,7 +139,7 @@ Awarded for the best article in *Isis*. [Learn more](https://hssonline.org/about
 <p class="prize-winner-affiliation">Johns Hopkins</p>
 
 <img class="prize-winner-headshot" alt="Marta Hanson, Price/Webster Prize Winner"
-sizes="(max-width: 750px) 80vw, 500px"
+sizes="(max-width: 750px) 80vw, 750px"
 srcset="
 ./Hanson_-_Headshot_-_2019_iwbpcm_c_scalew_200.jpg 200w,
 ./Hanson_-_Headshot_-_2019_iwbpcm_c_scalew_308.jpg 308w,
@@ -137,15 +147,21 @@ srcset="
 ./Hanson_-_Headshot_-_2019_iwbpcm_c_scalew_563.jpg 563w"
 src="./Hanson_-_Headshot_-_2019_iwbpcm_c_scalew_563.jpg">
 
-
-<img class="prize-winner-headshot" alt="Gianna Pomata, Price/Webster Prize Winner" src="./Pomata - Headshot - 2019.jpg">
+<img class="prize-winner-headshot" alt="Gianna Pomata, Price/Webster Prize Winner"
+sizes="(max-width: 750px) 80vw, 750px"
+srcset="
+./Pomata_-_Headshot_-_2019_eqey91_c_scalew_200.jpg 200w,
+./Pomata_-_Headshot_-_2019_eqey91_c_scalew_314.jpg 314w,
+./Pomata_-_Headshot_-_2019_eqey91_c_scalew_411.jpg 411w,
+./Pomata_-_Headshot_-_2019_eqey91_c_scalew_583.jpg 583w"
+src="./Pomata_-_Headshot_-_2019_eqey91_c_scalew_583.jpg">
 
 “Medicinal Formulas and Experiential Knowledge in the Seventeenth-Century Epistemic Exchange between China and Europe,” *Isis* 108, 1 (2017), 1-25.
 
 Recipes should be considered an essential and nearly universal epistemic genre, Gianna Pomata and Marta Hanson contend in their erudite, methodologically ingenious, and vigorously argued essay, an exemplar of collaborative research and writing. The authors take as their premise the seldom-explored fact that recipes are among the earliest and most abiding forms of recording, transmitting, and circulating empirically-based knowledge, particularly in medicine and pharmacology, across numerous languages and traditions. Challenging scholarship on knowledge exchange dominated by accounts of chauvinistic appropriation of non-Western practices or the failures at mutual understanding, the authors’ research in original early sources of a stupendous linguistic range (evident in their translations of texts from Chinese, Latin, French, German, Spanish and Portuguese into English), points to medicinal recipes as artifacts of ongoing, relatively unprejudiced dialogues between Chinese and European scholars. By the early modern period, the written texts of most recipes were similar in layout and content. They typically began with a standard formula specifying ingredients in an itemized column, followed by a prescription offering directions for their processing, dosage, use, and modification for particular situations such as geographical differences or for individual cases (for example, according to the age, gender, or social status of the patient). Recognizing these shared characteristics allowed Hanson and Pomata to identify, through a close comparative analysis, the original 16th-century Chinese source and its likely transcriber-translator, the Jesuit Michael Boym, of the first medicinal recipes intentionally published in Latin in 1682 in order to be disseminated among missionaries and other European travelers in the East.
 
 <img alt="Hanson accepts Price/Webster Prize with Lightman" class="fullbleed"
-sizes="(max-width: 750px) 80vw, 500px"
+sizes="(max-width: 750px) 80vw, 750px"
 srcset="
 ./hanson_tz4mzv_c_scalew_200.jpg 200w,
 ./hanson_tz4mzv_c_scalew_315.jpg 315w,
@@ -167,7 +183,7 @@ But the essay is not merely aimed at authenticating Boym’s work. In their extr
 
 ## Hazen Education Prize
 ::: tip
-Awarded for excellence in teaching the history of science. [Learn more](https://hssonline.org/about/honors/joseph-h-hazen-education-prize/)
+Awarded for excellence in teaching the history of science. [Learn more about the Hazen Education Prize](https://hssonline.org/about/honors/joseph-h-hazen-education-prize/)
 :::
 
 <p class="prize-winner">Michael Osborne</p>
@@ -175,7 +191,7 @@ Awarded for excellence in teaching the history of science. [Learn more](https://
 <p class="prize-winner-affiliation">Oregon State University</p>
 
 <img class="prize-winner-headshot" alt="Michael Osborne, Hazen Prize Winner"
-sizes="(max-width: 750px) 80vw, 500px"
+sizes="(max-width: 750px) 80vw, 750px"
 srcset="
 ./Osborne_-_Headshot_-_2019_tmuoco_c_scalew_200.jpg 200w,
 ./Osborne_-_Headshot_-_2019_tmuoco_c_scalew_363.jpg 363w,
@@ -186,7 +202,17 @@ src="./Osborne_-_Headshot_-_2019_tmuoco_c_scalew_750.jpg">
 
 The 2019 Hazen Prize is awarded to Professor Mike Osborne. Throughout his long career, Dr. Osborne has made valuable contributions to history of science programs around the world, most notably at the University of California, Santa Barbara, and at Oregon State University. He has been an innovator in the classroom at both the undergraduate and graduate levels, and he has made significant educational contributions outside of the classroom on the international level. From teaching about the history of the microscope and stem cells to a bilingual (Spanish-English) class of primary school students in Goleta, California, to serving on doctoral committees or co-leading dissertations for students in Australia, Brazil, China, France, and La Réunion, he has advanced the history of science around the globe. He has helped train and place graduate students across numerous disciplines, from marine studies, to history, to public health, to religious studies, and to geography. He has served in the public sphere by giving presentations at museums; by preparing biographies of French scientists for the website of the Cité des Sciences et de l’Industrie; by founding a list serve on the theme of science and empire; by assisting doctoral students in securing NSF dissertation improvement awards; by serving as the principal investigator for community outreach events in California, the United Kingdom, and the Netherlands; and by developing pedagogical tools for educators of all levels on six continents in local languages, stressing how both social and scientific perspectives can be used to engage students in climate change studies. In short, he has embodied the History of Science Society’s mission to foster interest in the history of science, promote discussion of science’s social and cultural relations, and bring this understanding to others worldwide.
 
-<img alt="Osborne accepts Hazen Prize with Lightman" class="fullbleed" src="./osborne.jpg">
+<img alt="Osborne accepts Hazen Prize with Lightman" class="fullbleed"
+sizes="(max-width: 750px) 100vw, 750px"
+srcset="
+./osborne_yy5atx_c_scalew_200.jpg 200w,
+./osborne_yy5atx_c_scalew_322.jpg 322w,
+./osborne_yy5atx_c_scalew_421.jpg 421w,
+./osborne_yy5atx_c_scalew_505.jpg 505w,
+./osborne_yy5atx_c_scalew_592.jpg 592w,
+./osborne_yy5atx_c_scalew_675.jpg 675w,
+./osborne_yy5atx_c_scalew_750.jpg 750w"
+src="./osborne_yy5atx_c_scalew_750.jpg">
 
 <div class="committee">
     JB Shank (Chair), Richard Duschl, Jean-François Gauvin
@@ -197,7 +223,7 @@ The 2019 Hazen Prize is awarded to Professor Mike Osborne. Throughout his long c
 ## Rossiter Prize
 
 ::: tip
-Awarded for the best book on the role of women in science. [Learn more](https://hssonline.org/about/honors/the-margaret-w-rossiter-history-of-women-in-science-prize/)
+Awarded for the best book on the role of women in science. [Learn more about the Rossiter Prize](https://hssonline.org/about/honors/the-margaret-w-rossiter-history-of-women-in-science-prize/)
 :::
 
 <p class="prize-winner">Elaine Leong</p>
@@ -205,7 +231,7 @@ Awarded for the best book on the role of women in science. [Learn more](https://
 <p class="prize-winner-affiliation">University College London</p>
 
 <img class="prize-winner-headshot" alt="Elaine Leong, Rossiter Prize Winner"
-sizes="(max-width: 750px) 80vw, 500px"
+sizes="(max-width: 750px) 80vw, 750px"
 srcset="
 ./Leong_-_Headshot_-_2019_k56twz_c_scalew_200.jpg 200w,
 ./Leong_-_Headshot_-_2019_k56twz_c_scalew_337.jpg 337w,
@@ -225,7 +251,7 @@ src="./Leong_-_Headshot_-_2019_k56twz_c_scalew_750.jpg">
 Women were at the center of this enterprise of compiling, testing, and circulating recipes. They appear on every page of Leong’s work. By uncovering, in meticulous detail, the extent of this activity, Leong has shown us a new way to incorporate women into the history of science: not by recovering individual biographies but by making visible entire domains of unheralded scientific activity.
 
 <img alt="Leong accepts Rossiter Prize with Lightman" class="fullbleed"
-sizes="(max-width: 750px) 80vw, 500px"
+sizes="(max-width: 750px) 80vw, 750px"
 srcset="
 ./leong_rouzsc_c_scalew_200.jpg 200w,
 ./leong_rouzsc_c_scalew_310.jpg 310w,
@@ -245,7 +271,7 @@ src="./leong_rouzsc_c_scalew_750.jpg">
 
 ## Davis Prize
 ::: tip
-Awarded for the best book for a general audience. [Learn more](https://hssonline.org/about/honors/watson-davis-and-helen-miles-davis-prize/)
+Awarded for the best book for a general audience. [Learn more about the Davis Prize](https://hssonline.org/about/honors/watson-davis-and-helen-miles-davis-prize/)
 :::
 
 <p class="prize-winner">Michael F Robinson</p>
@@ -253,7 +279,7 @@ Awarded for the best book for a general audience. [Learn more](https://hssonline
 <p class="prize-winner-affiliation">University of Hartford</p>
 
 <img class="prize-winner-headshot" alt="Michael F Robinson, Davis Prize Winner"
-sizes="(max-width: 750px) 80vw, 500px"
+sizes="(max-width: 750px) 80vw, 750px"
 srcset="
 ./Robinson_-_Headshot_-_2019_wzyjd9_c_scalew_200.jpg 200w,
 ./Robinson_-_Headshot_-_2019_wzyjd9_c_scalew_341.jpg 341w,
@@ -269,7 +295,7 @@ The Davis Prize for 2019 goes to Michael Robinson’s <em>[The Lost White Tribe:
 Although the story is primarily told from the point of view of Europeans, using mostly British and American sources, it also points to the complex ways that Africans understood and used these highly problematic theories of human origins to frame their understandings of their neighbors as well as of their colonizers. Exploration was inevitably a culturally bound activity, with repercussions well beyond the adventures of the explorers themselves. The Lost White Tribe contributes to the current trend to expose the ideological underpinnings and uses of the exploits of imperial adventurers – whether they are traveling to the North Pole or to the interior of the African continent. In attending particularly to the scientific aspects of these expeditions, Robinson shows convincingly how the development of the human sciences was closely tied to imperial expansion and the articulation of various forms of racist discourse. The Hamitic hypothesis, in various guises, underpinned genocide – in Europe through the Nazi theory of Aryan supremacy and later in Rwanda – and The Lost White Tribe takes the story up to recent struggles over cultural appropriation in the United State, including the controversy over Kennewick man in the Pacific Northwest. Robinson has told this history, rife with resonances for our times, in a fluid and accessible style that speaks to the general reader as well as to the scholarly community.
 
 <img alt="Robinson accepts Davis Prize with Lightman" class="fullbleed"
-sizes="(max-width: 750px) 80vw, 500px"
+sizes="(max-width: 750px) 80vw, 750px"
 srcset="
 ./robinson_dhuyfz_c_scalew_200.jpg 200w,
 ./robinson_dhuyfz_c_scalew_331.jpg 331w,
@@ -286,7 +312,7 @@ src="./robinson_dhuyfz_c_scalew_750.jpg">
 
 ## Pfizer Award
 ::: tip
-Awarded for the best scholarly book. [Learn more](https://hssonline.org/about/honors/pfizer-award/)
+Awarded for the best scholarly book. [Learn more about the Pfizer Prize](https://hssonline.org/about/honors/pfizer-award/)
 :::
 
 <p class="prize-winner">Deborah Coen</p>
@@ -295,7 +321,7 @@ Awarded for the best scholarly book. [Learn more](https://hssonline.org/about/ho
 
 <picture>
 <img class="prize-winner-headshot" alt="Deborah Coen, Pfizer Prize Winner"
-sizes="(max-width: 750px) 80vw, 500px"
+sizes="(max-width: 750px) 80vw, 750px"
 srcset="
 ./Coen_-_Headshot_-_2019_joump8_c_scalew_200.jpg 200w,
 ./Coen_-_Headshot_-_2019_joump8_c_scalew_311.jpg 311w,
@@ -312,7 +338,7 @@ Climate has always been with us, but the sciences for assessing it developed par
 This is a truly atmospheric study of a century of scientific and political change. It deserves major praise, not only for embracing a longue durée view on a science dedicated to long terms. Its author also masterfully wields the tools of the history of science to engage with two concepts, central for both the history and contemporary approaches to environment: Scale and dimension. Scientists had to converge and diverge when studying the small, dynamic and physical of meteorological phenomena, moving from Aristotle’s static model to a concept of a multi-responsive dynamic interplay of forces that fed from the local into the Empire. The communication of climate news was from its inception both pushed forward and plagued by political and economic forces, divided loyalties and the inherent difficulty in defining where weather stopped and climate started. In a gripping language, Coen places local details in appropriate relation to a synthetic overview and convincingly brings to our minds that climate initially was already inextricably linked to politics.
 
 <img
-sizes="(max-width: 750px) 80vw, 500px"
+sizes="(max-width: 750px) 80vw, 750px"
 srcset="
 ./coen_mwel7g_c_scalew_200.jpg 200w,
 ./coen_mwel7g_c_scalew_335.jpg 335w,
@@ -330,7 +356,7 @@ alt="Coen accepts Davis Prize with Lightman">
 
 ## Sarton Medal
 ::: tip
-Awarded for lifetime scholarly achievement. [Learn more](https://hssonline.org/about/honors/sarton-medal/)
+Awarded for lifetime scholarly achievement. [Learn more about the Sarton Medal](https://hssonline.org/about/honors/sarton-medal/)
 :::
 
 <p class="prize-winner">M. Norton Wise</p>
@@ -387,6 +413,9 @@ src="./wise_iiibdr_c_scalew_750.jpg">
 </div>
 
 <div class="divider"></div>
+
+## Submit a Nomination
+We are now accepting nominations for our 2020 prizes and awards. Use our [online form](https://hssonline.formstack.com/forms/prize_nominations) to submit a nomination.
 
 <style lang="stylus">
 
