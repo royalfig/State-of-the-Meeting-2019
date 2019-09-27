@@ -16,11 +16,11 @@ We hosted our 2019 book exhibit in style! Publishers displayed their latest titl
         <aside v-if="value.site1 | value.site2 | value.tw | value.fb | value.insta != null" class="social">
             <p>Social Media and Resources</p>
             <div class="social-container">
-                    <a v-if=value.site1 :href="value.site1link"><img src="/blog.svg">{{ value.site1 }}</a>
-                    <a v-if=value.site2 :href="value.site2link"><img src="/blog.svg">{{ value.site2 }}</a>
-                    <a v-if=value.tw :href="value.twLink" aria-label="Twitter"><img src="/tw.svg">{{ value.tw }}</a>
-                    <a v-if=value.fb :href="value.fbLink" aria-label="Facebook"><img src="/fb.svg">{{ value.fb }}</a>
-                    <a v-if=value.insta :href="value.instaLink" aria-label="Instagram"><img src="/insta.svg">{{ value.insta }}</a>
+                    <a v-if=value.site1 :href="value.site1link"><img src="./blog.svg">{{ value.site1 }}</a>
+                    <a v-if=value.site2 :href="value.site2link"><img src="./blog.svg">{{ value.site2 }}</a>
+                    <a v-if=value.tw :href="value.twLink" aria-label="Twitter"><img src="./tw.svg">{{ value.tw }}</a>
+                    <a v-if=value.fb :href="value.fbLink" aria-label="Facebook"><img src="./fb.svg">{{ value.fb }}</a>
+                    <a v-if=value.insta :href="value.instaLink" aria-label="Instagram"><img src="./insta.svg">{{ value.insta }}</a>
             </div>
         </aside>
         <div v-if="value.featured != null" class="featured">

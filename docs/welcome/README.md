@@ -9,11 +9,13 @@
 
 In a word, the History of the Science Society's 2019 annual meeting was *hot*. Attendees ~~witnessed~~, ~~experienced~~, survived! the highest temperatures ever recorded in Utrecht, the Netherlands.
 
-Despite the heat, and mainly thanks to the heroic efforts of the local organizing committe and Utrecht University volunteers as well as to the resiliency of attendees, the meeting carried on, with anecdotal evidence and survey results showing this to be one of our most enjoyable meetings to date.
+Despite the heat, and mainly thanks to the heroic efforts of the local organizing committe, Utrecht University volunteers, and our resilient attendees, the meeting carried on, with anecdotal evidence and survey results showing this to be one of our most enjoyable meetings to date.
 
 The following *State of the Meeting* report provides an overview of HSS 2019. It supplies and visualizes data about the meeting's [submission process](/submissions/), [attendee demographics](/demographics/), [meeting-related grants](/grants/), and [meeting satisfaction](/satisfaction/). The HSS Executive Committee, Council, and Executive Office use this information to organize and improve future meetings, programs, and the Society itself. This report also serves as a record of the meeting itself, including some of its events, like the [book exhibit](/book-exhibit/) and [HSS 2019 Prize Winners](/prizes/).
 
 Below, you will find the 2019 meeting program and abstracts available for download, as well as meeting reports by the 2019 program co-chairs and the Executive Director.
+
+Join the conversation on [Twitter (#hss19)](https://twitter.com/search?q=%23hss19) or send us a message via [Twitter](https://twitter.com/hssonline), [Facebook](https://facebook.com/historyofsciencesociety), or <a href="mailto:info@hssonline.org?subject=State of the Meeting 2019">email</a>.
 
 ## Meeting Resources
 <div style="display: flex">

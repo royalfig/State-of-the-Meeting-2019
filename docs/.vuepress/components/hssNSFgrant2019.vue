@@ -8,15 +8,15 @@ export default {
   extends: customChart,
   data: () => ({
     chartdata: {
-      labels: ['Applicants (64)', 'Grantees (59)'],
+      labels: ['Amount Requested vs. Amount Requested'],
       datasets: [
         {
-          label: 'Amount Awarded',
+          label: 'Amount Requested',
           data: [31000, 22058.69],
           backgroundColor: '#38a5b8'
         },
         {
-          label: 'Amount Requested',
+          label: 'Amount Awarded',
           data: [66305.97, 40629.54],
           backgroundColor: '#b84b38'
         }
@@ -31,14 +31,7 @@ export default {
         text: 'HSS NSF Travel Grant 2019'
       },
       maintainAspectRatio: false,
-      scales: {
-            xAxes: [{
-                stacked: true
-            }],
-            yAxes: [{
-                stacked: true
-            }]
-        }
+
     }
   }),
   mounted () {

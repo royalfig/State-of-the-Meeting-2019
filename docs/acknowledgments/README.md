@@ -1,24 +1,17 @@
-# 🙏 Acknowledgments
+# 🌷 Acknowledgments
 
-Thank you
+The History of Science Society's annual meeting takes a village and then some.
 
-Attendees
+- Our attendees weathered less than ideal circumstances to keep the meeting moving forward, to put it lightly. Heat, hunger, and jet lag is a dangerous combination, but our attendees were patient, gracious, and amiable. Thank you.
+- Our program co-chairs, Christine von Oertzen and Simon Werret, had the unenviable task of trying to organize 800 exceptionally strong submissions into an interesting and coherent program. Thank you.
 
-Program Co-Chairs
+- HSS Committees, like the Commitee on Meetings and Programs ...
 
-Local Organizing Committee
+- The Local Arrangements Committee, constituted by ..., made the HSS meeting possible. They were our liason to the Utrecht University, our translators, our local organizers, and our guides to everything Dutch. Thank you.
 
-Committees
+See some of the praise from attendees for the Local Arrangements Committee and Utrecht volunteers below.
 
-EO
-
-Historians of Science of the World, Unite!
-
-## Praise for the Utrecht LAC and volunteers
-
-The following represent a handful of praise offered to the Utrecht Local Arrangements Committee and volunteers, without whom the meeting would not have been a success.
-
-Thank you!
+## Praise for the Utrecht LAC and Volunteers
 
 <div class="choice-quotes">
 <div class="left">
