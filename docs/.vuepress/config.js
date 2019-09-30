@@ -62,7 +62,8 @@
               '/book-exhibit/',
               '/prizes/',
               '/conclusion/',
-              '/acknowledgments/'
+              '/acknowledgments/',
+              '/colophon/'
           ]
       }
   }

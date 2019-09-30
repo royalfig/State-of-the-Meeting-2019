@@ -146,7 +146,6 @@ Looking for more photos from Utrecht 2019? [See albums from the meeting on our F
 <resourceEvaluation class="graph" />
 <noAppUse class="graph" />
 
-
 ## From the Suggestion Box <Badge text="a select few" />
 
 <div class="choice-quotes">

@@ -9,7 +9,7 @@ The History of Science Society's annual meeting takes a village and then some.
 
 - The Local Arrangements Committee, constituted by ..., made the HSS meeting possible. They were our liason to the Utrecht University, our translators, our local organizers, and our guides to everything Dutch. Thank you.
 
-See some of the praise from attendees for the Local Arrangements Committee and Utrecht volunteers below.
+See below for a sample of the praises from attendees for the Local Arrangements Committee and Utrecht volunteers.
 
 ## Praise for the Utrecht LAC and Volunteers
 
@@ -55,3 +55,22 @@ Congratulations! And thank you very much for hosting us so generously." />
 knowledgeable, responsive, patient, and numerous!!" />
 </div>
 </div>
+
+## ❤️ Supporters
+Thank you to our supporters!
+
+- University of Notre Dame
+- National Science Foundation
+- University of Oklahoma
+- Descartes Center for the History and Philosophy of the Sciences and the Humanities, Utrecht University
+- Faculty of Humanities, Utrecht University
+- Huygens Institute for the History of the Netherlands
+- Boerhaave Museum, Dutch National Museum for the History of Science and Medicine
+- Ammodo Foundation
+- University of Chicago Press
+- University of Chicago Press, Journals Division
+- Brent Dibner, Dibner Institute
+- Miles Davis
+- Pfizer
+- Linda Hall Library of Science, Engineering and Technology
+- Wiley
