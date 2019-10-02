@@ -11,7 +11,7 @@ export default {
       datasets: [
         {
           label: 'Applicants (64)',
-          data: [43,20,1],
+          data: [43,19,2],
           backgroundColor: '#38a5b8'
         }, {
           label: 'Grantees (57)',

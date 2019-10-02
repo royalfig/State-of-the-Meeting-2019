@@ -32,6 +32,8 @@ For attendees who are not eligible for the NSF grant&mdash;namely, non-US citize
 | --- | --- | --- | --- | --- | --- |
 | 61 | 38 | $30,980.72 | $15,246.52 | $9,160.38 | $241.06 |
 
+<hssTravelGrantEmployment class="graph" />
+
 ### Currencies Distributed in 2019
 <div class="currency-container">
 <template v-for="currency in sortedArray">
@@ -52,6 +54,87 @@ The HSS dependent care grant offers support up to $200 to assist delegates who r
 *Applicants who did not receive a grant either did not accept it or did not meet eligibility criteria.*
 
 ## Sponsor-a-Scholar Program
+
+::: tip
+**Currently, the HSS is sponsoring 11 scholars**
+:::
+
+### What Is the Sponsor-a-Scholar Program?
+
+<div class="button-group">
+<p>Language 👉</p>
+<button v-on:click="toggle" data-lang="eng">English</button>
+<button v-on:click="toggle" data-lang="ara">Arabic</button>
+<button v-on:click="toggle" data-lang="chi">Chinese</button>
+<button v-on:click="toggle" data-lang="por">Portuguese</button>
+</div>
+
+<div class="lang show" id="eng">
+
+The [Sponsor-a-Scholar Program](https://hssonline.org/membership/sponsor-a-scholar-program/) aims to help scholars who live in countries that are not party to the Convention on the Organization for the Economic Co-operation and Development (OECD) become active members of the HSS.
+
+Selected by a subcommittee of the HSS Committee on Membership, sponsored scholars receive a free electronic membership in HSS (renewable up to three years), which includes subscriptions to Isis, Osiris, and the HSTM Database, along with other benefits. In return, sponsored members are expected to help further the HSS&apos;s international outreach efforts.
+
+The HSS is continuing to welcome scholars into this program. Interested applicants should send a 2-page application letter stating experience in the history of science and their proposal to publicize HSS in their region as well as a 2-page CV to [Zuoyue Wang](mailto:zuoyuewang@gmail.com?subject=Sponsor-a-Scholar).
+
+</div>
+
+<div class="lang hide" id="ara">
+
+جمعية تاريخ العلوم تعلن فتح باب التقدم لبرنامج “دعم الباحثين.” https://hssonline.org/membership/sponsor-a-scholar-program/ يهدف البرنامج لدعم عضوية الباحثين من خارج دول منظمة التعاون الاقتصادي والتنمية في الجمعية. تقوم لجنة فرعية مشكلة من أعضاء لجنة العضوية بالاختيار من ضمن المتقدمين ، ويحصل الباحثون المدعومون على عضوية مجانية (قابلة للتجديد لمدة ثلاث سنوات) تتضمن اشتراكا في المجلات العلمية للجمعية —Isis  و  Osiris— وقاعدة بيانات تاريخ العلوم والتكنولوجيا والطب، بالإضافة لمميزات أخرى. في المقابل، يقوم الباحثون المدعومون بدعم الجهود الدولية للجمعية. على الراغبين في التقدم إرسال ما يلي:
+
+خطاب تقديم من صفحتين يتضمن عرضا لخبرات المتقدم واهتماماته في حقل تاريخ العلوم ورؤيته لكيفية الترويج للجمعية في منطقتهم الجغرافية، بالإضافة لسيرة ذاتية من صفحتين. برجاء ارسال ما سبق على البريد الالكتروني التالي:
+
+Zuoyue Wang > zywang@cpp.edu
+
+</div>
+
+<div class="lang hide" id="por">
+
+A History of Science Society (HSS) está anunciando um chamado para inscrições para seu programa Sponsor-a-Scholar. Este programa visa ajudar os acadêmicos que vivem em países que não fazem parte da Organização para a Cooperação e Desenvolvimento Econômico (OCDE) a se tornarem membros ativos da HSS.
+
+Selecionados pelo subcomitê de filiação da HSS, os acadêmicos patrocinados receberão uma filiação eletrônica gratuita da HSS (renovável em até três anos), que inclui assinaturas para Isis, Osiris e o Banco de Dados HSTM, juntamente com outros benefícios. Em troca, espera-se que os membros patrocinados cooperem ainda mais com os esforços de divulgação internacional da HSS.
+
+Os candidatos interessados devem enviar:
+
+– Carta de candidatura de 2 páginas declarando suas experiências, interesses em história da ciência e  proposta de divulgação da HSS em sua região.
+
+– CV de 2 páginas.
+
+Favor enviar os documentos acima para:
+
+Zuoyue Wang ou zuoyuewang em gmail.com.
+
+</div>
+
+<div class="lang hide" id="chi">
+
+美国科学史学会的“赞助学者”计划（https://hssonline.org/membership/sponsor-a-scholar-program/）： （美国）科学史学会(History of Science Society HSS)邀请大家申请它的“赞助学者”计划。这个计划的目的是让那些生活在非欧洲经合组织(OECD)国家的学者成为HSS的活跃成员（亚洲国家里只有日本和南韩是OECD成员）。HSS 会员委员会的一个分委员会将负责挑选工作。被选中的“赞助学者”将获得HSS免费会员资格（可延续至三年），包括电子订阅 Isis、Osiris，科学技术医学史数据库以及其它福利。而反过来HSS希望“赞助学者”能够协助它的国际化努力。有兴趣的申请者请递交两个文件：一个两页申请信，说明你在科学史方面的经历和兴趣，以及你将如何在你的地区传播HSS的信息，和一个两页简历。请用电子邮件将上述资料寄达王作跃（zywang@cpp.edu). 直接加入HSS的网址是http://press.uchicago.edu/ucp/journals/subscribe/isis.html。
+
+</div>
+
+<div class="lang hide" id="rus">
+
+Программа Общества по Истории Науки по поддержке членства в Обществе (The History of Science Society’s Sponsored A Scholar (SAS) Program)
+
+Общество по истории науки (The History of Science Society, HSS) объявляет конкурс заявок на участие в программе Sponsor-a-Scholar (https://hssonline.org/membership/sponsor-a-scholar-program/). Эта программа имеет целью покрытие расходов на членство в Обществе по истории науки (HSS) для ученых проживающих в странах, которые не являются членами OECD, и не имеющих финансовой возможности присоединиться к обществу и стать его активными членами. Поданные заявки на участие в программе будут рассмотрены комиссией по членству в Обществе. Победители получат бесплатное членство в Обществе сроком до трех лет, что включает в себя  подписку на журналы Isis, Osiris, доступ в базам данных, а также другие привилегии. В свою очередь, от финалистов ожидается активное участие в деятельности Общества по истории науки и в продвижении его международных мероприятий в регионе проживания финалиста.
+
+Для участия в конкурсе необходимо прислать следующие материалы: письмо-заявка с объяснением опыта работы в истории науки, исследовательских интересов, и Ваших предложений по распространению информации об Обществе по истории науки в Вашем регионе (не более 2 страниц); резюме (не более 2 страниц). Заявки могут быть посланы в электронном виде по ссылке: Zuoyue Wang (или на электронную почту zywang@cpp.edu). Информация о членстве в Обществе доступна по ссылке: http://press.uchicago.edu/ucp/journals/subscribe/isis.html.
+
+</div>
+
+#### OECD Countries
+
+Eligible scholars include anyone **not** based in one of the following countries
+
+<div class="countries" >
+
+<p v-for="country in countries">{{ country }}</p>
+
+</div>
+
+
+
 
 
 <script>
@@ -95,7 +178,42 @@ export default {
                 name: 'BRL (Brazilian real)',
                 img: 'https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/200px-Flag_of_Brazil.svg.png'
                 }
-            ]
+            ],
+            countries: ['Australia',
+'Austria',
+'Belgium',
+'Canada',
+'Chile',
+'Czech Republic',
+'Denmark',
+'Estonia',
+'Finland',
+'France',
+'Germany',
+'Greece',
+'Hungary',
+'Iceland',
+'Ireland',
+'Israel',
+'Italy',
+'Japan',
+'South Korea',
+'Latvia',
+'Luxembourg',
+'Mexico',
+'Netherlands',
+'New Zealand',
+'Norway',
+'Poland',
+'Portugal',
+'Slovakia',
+'Slovenia',
+'Spain',
+'Sweden',
+'Switzerland',
+'Turkey',
+'United Kingdom',
+'United States',]
     }
 },
 computed: {
@@ -109,6 +227,28 @@ computed: {
       }
 
       return this.currencies.sort(compare);
+    }
+},
+methods: {
+    toggle(event) {
+        const shown = document.querySelectorAll('.lang');
+        let currentLang = event.target.dataset.lang;
+
+        shown.forEach(el => {
+            const currentDiv = document.getElementById(currentLang)
+
+
+            if (el.id === currentLang) {
+                console.log(el.id === currentLang)
+                currentDiv.classList.add('show')
+                currentDiv.classList.remove('hide')
+            } else {
+            el.classList.add('hide')
+            el.classList.remove('show')
+            }
+
+        })
+
     }
 }
 }
@@ -127,5 +267,43 @@ computed: {
     margin: .75em
 .currency-img
     width: 100%
+.button-group
+    display: flex
+    justify-content: center
+    margin: 1em 0;
 
+    p
+        margin-right: 1em
+        font-size: 115%
+        font-weight: 700
+
+    button
+        background: sotm-red
+        border: none
+        padding: 1em 2em
+        color: white
+        font-weight: 600
+        cursor: pointer
+
+        margin: .25em
+        &:hover
+            background: lightness(sotm-red, 40%)
+
+.hide
+    display: none
+
+.show
+    display: block
+    height: 400px
+    overflow: auto
+    margin-bottom: .5em
+
+.countries
+    display: flex
+    flex-wrap: wrap
+    align-items: center
+    p
+        padding: .5em .75em
+        margin: .5em
+        border: 1px solid sotm-blue
 </style>
