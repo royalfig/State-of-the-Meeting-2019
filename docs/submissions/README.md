@@ -6,6 +6,10 @@
 
 <totalSubmissions class="graph"/>
 
+::: warning
+Graphs and charts below may represent incomplete datasets.
+:::
+
 ## Acceptance and Rejection Rates
 
 <p class="graph-header">2019</p>
@@ -34,11 +38,9 @@
 
 ## Submission Categories
 
-"Submission Categories" refers to the topics, chronologies, and geographies self-selected by submitting authors. Topics, in particular, remain a contentious ... topic, as we try to balance the need to keep options manageable with the need to ensure authors' work is fairly categorized and easy to find by attendees.
+&ldquo;Submission Categories&rdquo; refers to the topics, chronologies, and geographies self-selected by submitting authors. Topics, in particular, remain a contentious ... topic, as we try to balance the need to keep options manageable with the need to ensure authors' work is fairly categorized and easy to find by attendees.
 
-This year, the categories were modeled on the *Isis* Cumulative Bibliography. More...
-
-Have thoughts on how we could improve our submission categories? Let us know.
+This year, the categories were modeled on those found in the *Isis* Cumulative Bibliography.
 
 ### 📁 Topic
 
@@ -97,6 +99,8 @@ University of Cambridge  | Harvard University |
 | Independent Scholar | University of Cambridge |
 | Harvard University | Max Planck Institute for the History of Science |
 | Utrecht University | University of Wisconsin-Madison |
+
+<joinTheConvo />
 
 <style lang="stylus">
 .graph-header

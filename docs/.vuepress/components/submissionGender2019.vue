@@ -8,11 +8,11 @@ export default {
   data: () => ({
 
     chartdata: {
-      labels: ['Male','Female','No response','Prefer not to answer','Gender non-conforming','Female, Gender non-conforming, Two Spirit','Female, Gender non-conforming','Gender non-conforming, Non-Binary','A gender not listed here, Prefer not to answer'],
+      labels: ['Male','Female','No response','Prefer not to answer','Gender non-conforming','Multiple options'],
       datasets: [
         {
-          data: [302, 275, 216, 25, 4, 1, 1, 1, 1],
-          backgroundColor: ['#38a5b8','#b84b38','#d38a45','#ffd657','#82ba5c','#945cba','#3865b8','#b83865','#ff8257']
+          data: [302, 275, 216, 25, 4, 4],
+          backgroundColor: ['#38a5b8','#b84b38','#d38a45','#ffd657','#82ba5c','#945cba']
         }
       ]
     },

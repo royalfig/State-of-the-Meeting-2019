@@ -30,7 +30,7 @@ For attendees who are not eligible for the NSF grant&mdash;namely, non-US citize
 
 | Applicants | Grantees | Amount Requested | Amount Granted | Amount Distributed | Average Award |
 | --- | --- | --- | --- | --- | --- |
-| 61 | 38 | $30,980.72 | $15,246.52 | $9,160.38 | $241.06 |
+| 60 | 52 | $34,692.28 | $15,246.52 | $12,262.46 | $235.82 |
 
 <hssTravelGrantEmployment class="graph" />
 
@@ -177,6 +177,9 @@ export default {
                 }, {
                 name: 'BRL (Brazilian real)',
                 img: 'https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/200px-Flag_of_Brazil.svg.png'
+                }, {
+                name: 'CHF (Swiss franc)',
+                img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/170px-Flag_of_Switzerland.svg.png'
                 }
             ],
             countries: ['Australia',
@@ -264,7 +267,7 @@ methods: {
 .currency
     height: 150px
     max-width: 100px
-    margin: .75em
+    margin: 1em
 .currency-img
     width: 100%
 .button-group

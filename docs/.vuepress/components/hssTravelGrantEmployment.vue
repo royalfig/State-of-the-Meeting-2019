@@ -11,11 +11,11 @@ export default {
       datasets: [
         {
           label: 'Applicants (60)',
-          data: [32,22,6],
+          data: [33,21,6],
           backgroundColor: '#38a5b8'
         }, {
-          label: 'Grantees (48)',
-          data: [28,16,4],
+          label: 'Grantees (52)',
+          data: [29,19,4],
           backgroundColor: '#ffd657'
         }
       ]

@@ -13,11 +13,11 @@ export default {
         {
           label: '2019',
           data: [66,13,150,27,233,13,123,10,47,142,2],
-          backgroundColor: '#d38a45'
+          backgroundColor: '#38a5b8'
         }, {
           label: '2018',
           data: [45,5,181,18,159,12,84,18,80,181,3],
-          backgroundColor: '#ffd657'
+          backgroundColor: '#b84b38'
         }
       ]
     },
