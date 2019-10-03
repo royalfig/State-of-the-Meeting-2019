@@ -509,8 +509,6 @@ export default {
             line-height: 1
             margin: .25em 0
             padding: .5em
-
-            /* background sotm-orange */
             border-radius: 8px
             color sotm-black
 
