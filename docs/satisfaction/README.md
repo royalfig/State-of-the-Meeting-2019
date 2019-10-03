@@ -11,14 +11,12 @@
 #### The Good 👏👏👏 <Badge text="a select few" />
 
 <div class="choice-quotes">
-<div class="left">
 <pullQuote title="The program was fantastic, and Utrecht was a wonderful venue. I really liked not being in a conference hotel."/>
 <pullQuote title="how all participants banded together to beat the heat - very collegial, and an overall absence of heat-related short tempers; I attribute this to the excellent organization of the conference"/>
 <pullQuote title="Just a great academic and social experience, with excellent research, good social opportunities (those evening receptions with plenaries really help), and a pleasant academic environment (despite the heat)"/>
 <pullQuote title="The setting. Utrecht was beautiful. The university buildings were old and charming, and refreshing compared to the often corporate feel of the hotels the conference usually takes place in. I also thought it was really well-organised and the heatwave was dealt with well under the circumstances. ... There were other really nice touches, like the flavoured water being offered. I really enjoyed myself."/>
 <pullQuote title="The feeling of camaraderie among colleagues, the space where the sessions were held, the awards ceremony, the Lectures. The city. The attention of the yellow shirts. My own participation."/>
 <pullQuote title="The sessions and program throughout the days - the local administration in Utrecht was also fantastically nice and helpful."/>
-</div><div class="right">
 <pullQuote title="So many things! The relaxed atmosphere (maybe the heat had something to do with it?), learning more about European and other international work, the university setting, the great care taken by all to ensure that we would not have heatstroke!"/>
 <pullQuote title="It was my first time at HSS and I enjoyed exchanging ideas with a different crowd! No one on my panel knew one another beforehand, and I think we will stay in touch."/>
 <pullQuote title="The organization of the conference -- online and off -- was fantastic. I really appreciated the work to connect everybody, and the huge effort for accessibility. This made everything collegial and wonderful!"/>
@@ -39,18 +37,14 @@ beautifully-collegial conference!" />
 been to. The volunteers were happy, helpful and always impeccably
 organised. The app was very clear and easy to use." />
 </div>
-</div>
 
 
 #### The Bad 😧 <Badge text="all of it" />
 
 <div class="choice-quotes">
-<div class="left">
 <pullQuote title="Academic quality low overall, but there were many exceptions"/>
 <pullQuote title="Mostly the inhumane heat without AC! Also, the poor administrative arrangement is another drawback"/>
-</div><div class="right">
 <pullQuote title="Clearly the organizers could do nothing regarding the extreme weather but contingency plans could have been made. A non air conditioned venue is a problem (for comfort and concentration etc.) even at 85/90, which is not unheard of in Utrecht in July. In 100 it's dangerous. Future conferences must make every effort possible to include everybody, including those with health challenges. Where AC was unavailable, panels held in the afternoon probably should have been cancelled."/>
-</div>
 </div>
 
 ## Why attend HSS?
@@ -85,17 +79,71 @@ In addition to sharing scholarship, attendees come to HSS to catch up with old f
 <hr>
 
 <figure class="figure">
-<img alt="Janskerk, venue of the plenary sessions" src="./plenary.jpg">
+<img alt="Janskerk, venue of the plenary session"
+sizes="(max-width: 1000px) 100vw, 1000px"
+srcset="
+./plenary_o3sdxw_c_scalew_200.jpg 200w,
+./plenary_o3sdxw_c_scalew_308.jpg 308w,
+./plenary_o3sdxw_c_scalew_397.jpg 397w,
+./plenary_o3sdxw_c_scalew_474.jpg 474w,
+./plenary_o3sdxw_c_scalew_545.jpg 545w,
+./plenary_o3sdxw_c_scalew_611.jpg 611w,
+./plenary_o3sdxw_c_scalew_668.jpg 668w,
+./plenary_o3sdxw_c_scalew_736.jpg 736w,
+./plenary_o3sdxw_c_scalew_790.jpg 790w,
+./plenary_o3sdxw_c_scalew_846.jpg 846w,
+./plenary_o3sdxw_c_scalew_896.jpg 896w,
+./plenary_o3sdxw_c_scalew_950.jpg 950w,
+./plenary_o3sdxw_c_scalew_999.jpg 999w,
+./plenary_o3sdxw_c_scalew_1000.jpg 1000w"
+src="./plenary_o3sdxw_c_scalew_1000.jpg">
 <figcaption>HSS Plenary Session and Opening Reception</figcaption>
 </figure>
 
 <figure class="figure">
-<img alt="Domkerk, venue of the distinguished lecture" src="./prize.jpg">
+<img
+sizes="(max-width: 1000px) 100vw, 1000px"
+srcset="
+./prize_ilttrs_c_scalew_200.jpg 200w,
+./prize_ilttrs_c_scalew_312.jpg 312w,
+./prize_ilttrs_c_scalew_402.jpg 402w,
+./prize_ilttrs_c_scalew_479.jpg 479w,
+./prize_ilttrs_c_scalew_550.jpg 550w,
+./prize_ilttrs_c_scalew_609.jpg 609w,
+./prize_ilttrs_c_scalew_673.jpg 673w,
+./prize_ilttrs_c_scalew_729.jpg 729w,
+./prize_ilttrs_c_scalew_784.jpg 784w,
+./prize_ilttrs_c_scalew_835.jpg 835w,
+./prize_ilttrs_c_scalew_886.jpg 886w,
+./prize_ilttrs_c_scalew_935.jpg 935w,
+./prize_ilttrs_c_scalew_980.jpg 980w,
+./prize_ilttrs_c_scalew_998.jpg 998w,
+./prize_ilttrs_c_scalew_1000.jpg 1000w"
+src="./prize_ilttrs_c_scalew_1000.jpg">
 <figcaption>HSS Distinguished Lecture and Prize Reception</figcaption>
 </figure>
 
 <figure class="figure">
-<img alt="Railway museum, venue of the Paris lecture" src="./paris.jpg">
+<img
+sizes="(max-width: 1000px) 100vw, 1000px"
+srcset="
+./paris_tpikp5_c_scalew_200.jpg 200w,
+./paris_tpikp5_c_scalew_314.jpg 314w,
+./paris_tpikp5_c_scalew_404.jpg 404w,
+./paris_tpikp5_c_scalew_484.jpg 484w,
+./paris_tpikp5_c_scalew_559.jpg 559w,
+./paris_tpikp5_c_scalew_621.jpg 621w,
+./paris_tpikp5_c_scalew_687.jpg 687w,
+./paris_tpikp5_c_scalew_741.jpg 741w,
+./paris_tpikp5_c_scalew_797.jpg 797w,
+./paris_tpikp5_c_scalew_845.jpg 845w,
+./paris_tpikp5_c_scalew_895.jpg 895w,
+./paris_tpikp5_c_scalew_948.jpg 948w,
+./paris_tpikp5_c_scalew_996.jpg 996w,
+./paris_tpikp5_c_scalew_999.jpg 999w,
+./paris_tpikp5_c_scalew_1000.jpg 1000w"
+src="./paris_tpikp5_c_scalew_1000.jpg"
+alt="Railway museum, venue of the Paris lecture">
 <figcaption>Elizabeth Paris Public Engagement Lecture</figcaption>
 </figure>
 
@@ -149,7 +197,6 @@ Looking for more photos from Utrecht 2019? [See albums from the meeting on our F
 ## From the Suggestion Box <Badge text="a select few" />
 
 <div class="choice-quotes">
-<div class="left">
 <pullQuote title="HSS has a major diversity problem: both ethnic and nationalistic. The
 meeting is overwhelmingly attended by Europeans and North Americans.
 This is partly because of the lack of financial support afforded to scholars
@@ -157,12 +204,6 @@ based in low income countries and partly due to the arduous and
 extortionate process of applying for visas. I would strongly recommend
 providing financial support for visa costs and subsidising travel from
 low-middle income countries irrespective of career status." />
-<pullQuote title="The Flashtalks session actually worked really well, despite my initial
-skepticism. Perhaps there could be more than one to bring even more
-junior scholars into the conference." />
-<pullQuote title="Sessions with overlapping topics seem to often be scheduled against
-each other. I know scheduling must be difficult, and some conflicts are
-inevitable, but it seems like there must be a better way!" />
 <pullQuote title="It is better to cancel events than 'plough ahead' in dangerous conditions.
 HSS must ensure the safety of all attendees. Perhaps events in late
 afternoon should have been held remotely. HSS must now clarify its policy
@@ -173,6 +214,12 @@ attitudes, if implicitly accepted as the policy of HSS, become a form of
 discrimination against those unable to attend in extreme conditions.
 It's now time for an official statement from HSS on precisely what its health
 and safety policy is." />
+<pullQuote title="The Flashtalks session actually worked really well, despite my initial
+skepticism. Perhaps there could be more than one to bring even more
+junior scholars into the conference." />
+<pullQuote title="Sessions with overlapping topics seem to often be scheduled against
+each other. I know scheduling must be difficult, and some conflicts are
+inevitable, but it seems like there must be a better way!" />
 <pullQuote title="Perhaps have it at 2 or 3 locations at once, on different continents, so that
 less people have to fly. I think with technology, it can still feel like one
 conference. E.g. if a keynote is in North America, than people in Europe
@@ -201,7 +248,6 @@ way to cut down on the social weirdness regarding rank/affiliation, it gave
 everyone a nice conversation opener about where they're currently based,
 and made it easier for independent and early career researchers to work
 out how to list their affiliations. Great move, keep doing it." />
-</div><div class="right">
 <pullQuote title="Diversity within the discipline still seems to be a fundamental issue. It
 remains extremely noticeable that so few BME researchers are involved. It
 was good to see a discussion group on LGBTQ+ issues in HSTM, but this
@@ -214,15 +260,6 @@ very well saying we want to engage more with history of science
 scholarship from the global south, but if we don't then go to those talks and
 actually do the engaging, it's really not great. There's not one easy solution
 to this, but I wanted to raise it explicitly." />
-<pullQuote title="There is a real inequity between organised sessions and those put together
-by the organisers from submitted papers. With a few exceptions, the latter
-were poorly attended. It is very demoralising to give a paper to four people.
-It is also a waste of scholarly resources, and creates a two-tier system.
-Please could HSS think about how to value non-organised sessions. For
-example, we talked in the chemistry group about publicising chemistry
-papers even in non-organised sessions; it might also be worth HSS
-nominating rapporteurs to go to non-organised sessions so that the Society
-is making sure that people's work is heard by senior colleagues." />
 <pullQuote title="There is a real inequity between organised sessions and those put together
 by the organisers from submitted papers. With a few exceptions, the latter
 were poorly attended. It is very demoralising to give a paper to four people.
@@ -263,9 +300,5 @@ complex and I did not find these user-friendly. Use another system next
 time. It was too difficult to find out information on ones own session, and
 get updates." />
 </div>
-</div>
 
-
-<style lang="stylus">
-
-</style>
+<joinTheConvo />

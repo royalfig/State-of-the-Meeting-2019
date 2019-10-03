@@ -8,7 +8,7 @@ Utrecht was an experiment, a test case for whether or not HSS should schedule fu
 **Jay Malone**<br>
 *HSS Executive Director*
 
-## See You in NOLA
+## 🎺 See You in NOLA
 
 HSS 2020 will occur from 7 to 11 October 2020 in New Orleans, Lousiana. Follow the HSS on [Twitter](https://twitter.com/hssonline) and [Facebook](https://facebook.com/historyofsciencesociety) for updates about the meeting and the announcement of the Call for Papers. We'll also post updates to the [HSS website](https://hssonline.org).
 
@@ -39,6 +39,8 @@ srcset="
 src="./New_Orleans_2020_1_bfujef_c_scalew_2800.jpg"
 alt="HSS 2020 in New Orleans, LA from 7 to 11 Oct 2020">
 </div>
+
+<joinTheConvo />
 
 <style scoped lang="stylus">
 

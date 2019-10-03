@@ -1,5 +1,5 @@
   module.exports = {
-      base: '/stateofthemeeting2019/',
+      base: '/report/',
       title: 'History of Science Society',
       description: 'State of the Meeting 2019',
       head: [

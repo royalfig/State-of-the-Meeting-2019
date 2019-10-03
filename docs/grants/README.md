@@ -3,9 +3,38 @@
 The History of Science Society offers several grants to defer the cost of membership or attending the meeting, which are administed by the Executive Office. These grants are vital to encouraging ... This year, the HSS was able to offer grants to 100% of applicants. Grant information and statistics provided below.
 
 ## NSF Travel Grant
+
+
+::: warning
+The HSS is currently in the process of distributing funds to 2019 grantees
+:::
+
 The National Science Foundation grant [(#1656205)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1656205&HistoricalAwards=false) is intended to help defray travel and registration costs to attend academic meetings. Expenses covered by the grant include transportation to and from the meeting and registration fees. Eligible grantees include graduate students, recent PhDs (received in the last five years), and independent scholars who are participating in the meeting (e.g., presenting a paper, Society governance, etc.) and who are US citizens or enrolled at US institutions.
 
+### Grantee Data
 <nsfEmployment class="graph" />
+
+<nsfTeaching class="graph" />
+
+<nsfRace class="graph" />
+
+<nsfGender class="graph" />
+
+<nsfEssential class="graph" />
+
+### Grantee Feedback
+
+<div class="choice-quotes">
+
+<pullQuote title="After working outside of academia as an independent historian, it is wonderful to be engaging in a scholarly community for the first time." />
+<pullQuote title="This has been my first non-natural science academic conference, and it has been absolutely exciting to find other research that aligns and expands on what I have been struggling to address within my own field. The large number and diversity of lectures allowed for real networking opportunities with presenters, and other attendees who engaged in the Q&As. Special thanks to the moderators who kept time so well, to allow for sufficient discussion!" />
+<pullQuote title="Thank you so much for the assistance -- it made my participation possible"/>
+<pullQuote title="It was a very useful conference and the panel feedback will help me to revise my scholarship and prepare it for publication"/>
+<pullQuote title="I wasn't planning on attending because finances were incredibly tight this summer, but once I received notification of the grant, I ensured I would get the best out of this meeting"/>
+<pullQuote title="As an independent scholar the opportunity to engage with other scholars is an essential part of both intellectual growth and visibility. The NSF travel grants make this possible and brings to established scholars the voice and insight of those outside of the academy."/>
+<pullQuote title="Financial support for travel to Utrecht gave me a rare and valuable opportunity to discuss my research with a group of European scholars who are experts on my sources."/>
+<pullQuote title="The NSF travel grant has been a vital resource for establishing and maintaining important professional relationships that are essential for establishing myself as an early career scholar in the history of science. I have benefited both directly and indirectly in my research, teaching, and professional engagement from conference participation supported over the years and in the present by the NSF grant, leading to new collaborations, research projects, pedagogical approaches, and contributions to the field."/>
+</div>
 
 ### 9-Societies Travel Grant
 ::: tip
@@ -133,6 +162,7 @@ Eligible scholars include anyone **not** based in one of the following countries
 
 </div>
 
+<joinTheConvo />
 
 
 
@@ -273,10 +303,11 @@ methods: {
 .button-group
     display: flex
     justify-content: center
-    margin: 1em 0;
+    margin: 2em 0 0;
+    flex-wrap: wrap
 
     p
-        margin-right: 1em
+        margin: 0 1em 0 0
         font-size: 115%
         font-weight: 700
 
@@ -297,7 +328,7 @@ methods: {
 
 .show
     display: block
-    height: 400px
+    height: 350px
     overflow: auto
     margin-bottom: .5em
 
@@ -309,4 +340,6 @@ methods: {
         padding: .5em .75em
         margin: .5em
         border: 1px solid sotm-blue
+        flex: 15%
+        text-align: center
 </style>

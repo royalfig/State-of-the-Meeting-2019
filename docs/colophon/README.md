@@ -28,11 +28,11 @@ The reason for using a system font stack is performance, since it obviates the n
 
 The History of Science Society recently launched [digital.hss](https://digital.hssonline.org). It showcases digital resources and projects that may be useful for historians of science. If you have a resource or project to contribute, contact [Kate Sheppard](mailto:sheppardka@mst.edu?topic=digital.hss) or [Ryan Feigenbaum](mailto:ryan@hssonline.org?topic=digital.hss).
 
+A recent initative of [digital.hss](https://digital.hssonline.org) is the [HSS Twitterdex](https://digital.hssonline.org/twitterdex), a crowd-sourced directory of 191+ history of science Twitterstorians. The site is a great resource if you're looking for historians of science to follow on Twitter. You can search through the list by typing your query into the search box. For example, searching &ldquo;biology&rdquo; will show anyone who has listed &ldquo;biology&rdquo; in their bio.
 
+Not yet on the Twitterdex? It's also a great place to share your research. Anyone can join by completing the [online form](https://hssonline.formstack.com/forms/twitterdex).
 
-A recent initative of [digital.hss](https://digital.hssonline.org) is the [HSS Twitterdex](https://digital.hssonline.org/twitterdex), a crowd-sourced directory of 191+ history of science Twitterstorians. The site is a great resource if you're looking for historian of science to follow on Twitter. You can search through the list. For example, searching &ldquo;biology&rdquo; will show anyone who has listed &ldquo;biology&rdquo; in their bio.
-
-Not yet on the Twitterdex? Anyone can join by completing the [online form](https://hssonline.formstack.com/forms/twitterdex).
+<joinTheConvo />
 
 <style scoped lang="stylus">
 .float

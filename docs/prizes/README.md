@@ -417,17 +417,20 @@ src="./wise_iiibdr_c_scalew_750.jpg">
 ## Submit a Nomination
 We are now accepting nominations for our 2020 prizes and awards. Use our [online form](https://hssonline.formstack.com/forms/prize_nominations) to submit a nomination.
 
+
+<joinTheConvo />
+
 <style lang="stylus">
 
 .divider
     text-align: center;
-    height: 1em;
+    height: .25em;
     margin: 35px 0 60px
     padding: 0
     width: 100%
 
     background-color: gray
-    border-radius: 4px
+    border-radius: 2px
     font-size: 1em;
     line-height: 1;
     opacity: .25

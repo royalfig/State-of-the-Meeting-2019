@@ -13,7 +13,7 @@ We hosted our 2019 book exhibit in style! Publishers displayed their latest titl
         <img :src="value.img" alt="">
         <a :href="value.web" class="exhibitor">{{ value.pub }}</a>
         </div>
-        <aside v-if="value.site1 | value.site2 | value.tw | value.fb | value.insta != null" class="social">
+        <aside v-if="value.site1 || value.site2 || value.tw || value.fb || value.insta != null" class="social">
             <p>Social Media and Resources</p>
             <div class="social-container">
                     <a v-if=value.site1 :href="value.site1link"><img src="./blog.svg">{{ value.site1 }}</a>
@@ -46,6 +46,8 @@ We hosted our 2019 book exhibit in style! Publishers displayed their latest titl
 <bookExhibitAttendance class="graph half" />
 <publisherMeeting class="graph half" />
 <buyABook class="graph half" />
+
+<joinTheConvo />
 
 <script>
 export default {
@@ -418,14 +420,14 @@ export default {
     site1link: 'https://www.wiley.com/network/',
     site2: null,
     site2link: null,
-    featured: 'https://www.wileydigitalarchives.com/nyas',
-    featuredimg: 'https://www.wileydigitalarchives.com/nyas-archives/images/Puerto-Rico-Survey.jpg',
-    featured2: 'https://www.wileydigitalarchives.com/rai',
-    featured2img: 'https://www.wileydigitalarchives.com/rai-archives/images/Arthur-Bernard-Deacon.jpg',
-    featured3: 'https://www.wileydigitalarchives.com/rcp',
-    featured3img: 'https://www.wileydigitalarchives.com/rcp-archives/images/CFA003.jpg',
-    featured4: 'https://www.wileydigitalarchives.com/rgs',
-    featured4img: 'https://www.wileydigitalarchives.com/data6/images/S0024855.jpg'
+    featured: null,
+    featuredimg: null,
+    featured2: null,
+    featured2img: null,
+    featured3: null,
+    featured3img: null,
+    featured4: null,
+    featured4img: null,
 }, {
     pub: 'Yale University Press',
     img: 'https://dryfta-assets.s3-accelerate.amazonaws.com/assets/hss2019/organizations/1557254748Yale-Logo-2019-05.jpg',

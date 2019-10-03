@@ -14,9 +14,9 @@ See below for a sample of the praises from attendees for the Local Arrangements 
 ## Praise for the Utrecht LAC and Volunteers
 
 <div class="choice-quotes">
-<div class="left">
-<pullQuote title="Very pleasant venue, good signage, friendly and knowledgeable student
-assistants." />
+<pullQuote title="The local organizers did a fantastic job, especially in light of the changes
+that needed to be made as a result of the unusual temperatures. I think this
+was the best-ever HSS meeting I've attended." />
 <pullQuote title="I mostly want to praise them for the incredibly fantastic job. They
 immediately understood that the one thing that was urgently needed (on
 top of everything else) was cold water everywhere, and a lot of it. This
@@ -25,15 +25,13 @@ sessions spontaneously into rooms with AC. Top job!! Thank you very, very
 much!!" />
 <pullQuote title="They were fantastic!! They worked with unusual conditions and rose to the
 challenge-impressive!" />
-<pullQuote title="The local organizers did a fantastic job, especially in light of the changes
-that needed to be made as a result of the unusual temperatures. I think this
-was the best-ever HSS meeting I've attended." />
+<pullQuote title="Very pleasant venue, good signage, friendly and knowledgeable student
+assistants." />
 <pullQuote title="I think they did a heroic job in unprecedented climatic conditions. I really
 appreciated the water (including the 'real' fruity water), the reusable drink
 flask, the efficiency of registration etc., the resources of the institution as a
 whole. I know this is not a suggestion, but I would like to express it anyway,
 since it was one of the best HSS meetings I have attended!" />
-</div><div class="right">
 <pullQuote title="The student assistants were uniformly awesome -- super helpful and
 friendly and doing a great job. Thanks!" />
 <pullQuote title="A big thank you for the extremely smooth organisation!
@@ -54,7 +52,6 @@ Congratulations! And thank you very much for hosting us so generously." />
 <pullQuote title="The staff and technicians on the ground were excellent! They were kind,
 knowledgeable, responsive, patient, and numerous!!" />
 </div>
-</div>
 
 ## ❤️ Supporters
 Thank you to our supporters!
@@ -74,3 +71,5 @@ Thank you to our supporters!
 - Pfizer
 - Linda Hall Library of Science, Engineering and Technology
 - Wiley
+
+<joinTheConvo />
