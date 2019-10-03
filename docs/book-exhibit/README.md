@@ -532,7 +532,6 @@ export default {
             margin-bottom: 1em
             &:hover
                 filter: saturate(150%)
-
 </style>
 
 
