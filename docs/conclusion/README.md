@@ -1,3 +1,8 @@
+---
+image: /meta.jpg
+tags: ['history of science','history of science society','conclusion']
+description: 'Report conclusion for the History of Science Society 2019 annual meeting'
+---
 # 🖋️ Conclusion
 
 Utrecht was an experiment, a test case for whether or not HSS should schedule future conferences outside of North America. The results suggest that yes, HSS should again venture outside the confines of a single continent. Though we learned dozens of lessons, I will try to summarize the ones of highest priority:

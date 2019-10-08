@@ -1,3 +1,9 @@
+---
+image: /meta.jpg
+tags: ['history of science','history of science society','submission','data','statistics']
+description: 'Submission data for the History of Science Society 2019 annual meeting'
+---
+
 # 🗂️ Submission Data
 
 ::: tip

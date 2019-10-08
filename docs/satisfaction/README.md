@@ -1,3 +1,8 @@
+---
+image: /meta.jpg
+tags: ['history of science','history of science society','satisfaction','data']
+description: 'Meeting Satisfaction for the History of Science Society 2019 annual meeting'
+---
 # 😀 Meeting Satisfaction
 ::: tip
 **Highlights:** 🔥 Despite record breaking tempeartures, attendees overwhelmingly enjoyed our 2019 annual meeting in Utrecht, with over 64% of those surveyed giving the meeting the highest rating of 'Very Good'!

@@ -1,3 +1,9 @@
+---
+image: /meta.jpg
+tags: ['history of science','history of science society','book','book exhibit']
+description: 'Book exhibit for the History of Science Society 2019 annual meeting'
+---
+
 # 📚 Book Exhibit
 
 ## 2019 Exhibitors

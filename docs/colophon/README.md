@@ -1,3 +1,8 @@
+---
+image: /meta.jpg
+tags: ['history of science','history of science society','colophon','bts']
+description: 'Description of the technologies behind the State of the Meeting report'
+---
 # ℹ️ Colophon
 
 ## How This Site Was Built

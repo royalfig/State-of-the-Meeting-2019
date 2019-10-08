@@ -1,3 +1,9 @@
+---
+image: /meta.jpg
+tags: ['history of science','history of science society','meeting','academic conference','abstracts','demographics']
+description: 'Demographic data for the History of Science Society 2019 annual meeting'
+---
+
 # 📊 Demographics
 
 ::: warning
@@ -45,6 +51,6 @@ History of Science Society members receive reduced registration fees, subscripti
 ## Attendance by Age
 <attendeeAge class="graph" />
 
-
+<joinTheConvo />
 
 

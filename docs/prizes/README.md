@@ -1,3 +1,8 @@
+---
+image: /meta.jpg
+tags: ['history of science','history of science society','prize winners','medals','awards']
+description: 'History of Science Society 2019 Prize Winners'
+---
 # 🏆 Prize Winners
 <p>The History of Science Society's 2019 prize and award winners.</p>
 

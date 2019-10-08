@@ -1,3 +1,8 @@
+---
+image: /meta.jpg
+tags: ['history of science','history of science society','grants','nsf']
+description: 'Grant information for the History of Science Society 2019 annual meeting'
+---
 # ✈️ Grants
 
 The History of Science Society offers several grants to defer the cost of membership or attending the meeting, which are administed by the Executive Office. These grants are vital to encouraging ... This year, the HSS was able to offer grants to 100% of applicants. Grant information and statistics provided below.
