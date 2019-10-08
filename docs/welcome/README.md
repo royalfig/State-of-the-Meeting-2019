@@ -1,3 +1,8 @@
+---
+image: /meta.jpg
+tags: ['history of science','history of science society','welcome','report']
+description: 'Welcome to the History of Science Society 2019 State of the Meeting Report, a data-rich record of the annual meeting in Utrecht, the Netherlands'
+---
 # 👋 Welcome
 In a word, the History of the Science Society&apos;s 2019 annual meeting was *hot*. Attendees ~~witnessed~~, ~~experienced~~, survived! the highest temperatures ever recorded in Utrecht, the Netherlands.
 

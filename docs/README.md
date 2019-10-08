@@ -13,5 +13,6 @@ features:
 footer: History of Science Society | Founded in 1924
 image: /meta.jpg
 tags: ['history of science','history of science society','meeting','academic conference','abstracts','demographics','report']
+description: 'Welcome to the History of Science Society 2019 State of the Meeting Report, a data-rich record of the annual meeting in Utrecht, the Netherlands'
 ---
 
