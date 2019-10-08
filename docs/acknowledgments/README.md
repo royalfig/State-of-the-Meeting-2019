@@ -1,13 +1,17 @@
+---
+image: /meta.jpg
+tags: ['history of science','history of science society','thanks','Acknowledgments']
+description: 'Acknowledgments for the History of Science Society 2019 annual meeting'
+---
 # 🌷 Acknowledgments
 
-The History of Science Society's annual meeting takes a village and then some.
+The History of Science Society&apos;s annual meeting takes a village and then some.
 
-- Our attendees weathered less than ideal circumstances to keep the meeting moving forward, to put it lightly. Heat, hunger, and jet lag is a dangerous combination, but our attendees were patient, gracious, and amiable. Thank you.
-- Our program co-chairs, Christine von Oertzen and Simon Werret, had the unenviable task of trying to organize 800 exceptionally strong submissions into an interesting and coherent program. Thank you.
+- Thank you to our attendees who weathered less than ideal circumstances to keep the meeting moving forward, to put it lightly. Heat, hunger, and jet lag is a dangerous combination, but attendees were patient, gracious, and amiable.
 
-- HSS Committees, like the Commitee on Meetings and Programs ...
+- Thank you to our program co-chairs, Christine von Oertzen and Simon Werret, who had the unenviable task of trying to organize 800 exceptionally strong submissions into an interesting and coherent program.
 
-- The Local Arrangements Committee, constituted by ..., made the HSS meeting possible. They were our liason to the Utrecht University, our translators, our local organizers, and our guides to everything Dutch. Thank you.
+- Thank you to the Local Arrangements Committee, constituted by Ariane den Daas, Annemarijn Douwes, David Baneke, Bert Theunissen, and Odette Janssen, who made the HSS meeting possible. They were our liason to the Utrecht University, our translators, our local organizers, and our guides to everything Dutch.
 
 See below for a sample of the praises from attendees for the Local Arrangements Committee and Utrecht volunteers.
 
