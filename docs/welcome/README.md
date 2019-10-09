@@ -24,8 +24,8 @@ Below, you will find the 2019 meeting program and abstracts available for downlo
 
 ## Meeting Resources
 <div style="display: flex">
-<a href="https://hssonline.org/wp-content/uploads/2019/09/Program-History-of-Science-Society-Utrecht-2019-Archive.pdf" class="meeting-resource" alt="2019 meeting program"><figure><img src="./program.svg"><figcaption>Download the 2019 Program (PDF)</figcaption></figure></a>
-<a href="https://hssonline.org/wp-content/uploads/2019/09/Abstract-Book-Utrecht-2019-2019-07-11.pdf" class="meeting-resource" alt="2019 abstract book"><figure><img src="./abstract.svg"><figcaption>Download the 2019 Abstract Book (PDF)</figcaption></figure></a>
+<a href="https://hssonline.org/wp-content/uploads/2019/09/Program-History-of-Science-Society-Utrecht-2019-Archive.pdf" class="meeting-resource"><figure><img src="./program.svg" alt="2019 meeting program"><figcaption>Download the 2019 Program (PDF)</figcaption></figure></a>
+<a href="https://hssonline.org/wp-content/uploads/2019/09/Abstract-Book-Utrecht-2019-2019-07-11.pdf" class="meeting-resource" ><figure><img src="./abstract.svg" alt="2019 abstract book"><figcaption>Download the 2019 Abstract Book (PDF)</figcaption></figure></a>
 </div>
 
 <style scoped lang="stylus">
@@ -156,6 +156,7 @@ button
     clear: both
     display: block
     margin-left: auto
+    color: sotm-white
 .c
     opacity: 0.5
 </style>
