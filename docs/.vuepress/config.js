@@ -71,8 +71,8 @@
               '/colophon/'
           ]
       },
-      plugins: {
-          'seo': {
+      plugins: [
+          'seo', {
               siteTitle: (_, $site) => $site.title,
               title: $page => $page.title,
               description: $page => $page.frontmatter.description,
@@ -83,6 +83,12 @@
               url: (_, $site, path) => ($site.themeConfig.domain || '') + path,
               image: ($page, $site) => $page.frontmatter.image && (($site.themeConfig.domain || '') + $page.frontmatter.image),
               publishedAt: $page => $page.frontmatter.date && new Date($page.frontmatter.date)
-          }
-      }
+          },
+          '@vuepress/back-to-top',
+          '@vuepress/google-analytics',
+          {
+              'ga': 'UA-5101015-2'
+          },
+          '@vuepress/nprogress'
+      ]
   }

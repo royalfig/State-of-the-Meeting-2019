@@ -20,6 +20,9 @@
     "vue2-leaflet": "^2.2.1"
   },
   "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.0.0-rc.1",
+    "@vuepress/plugin-google-analytics": "^1.2.0",
+    "@vuepress/plugin-nprogress": "^1.0.0-rc.1",
     "dotenv": "^8.1.0",
     "eslint": "^6.2.2",
     "eslint-plugin-vue": "^5.2.3",

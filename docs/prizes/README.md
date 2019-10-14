@@ -16,7 +16,7 @@ Fellowships in Aerospace History are offered annually by the National Aeronautic
 <p class="prize-winner-affiliation">Massachusets Institute of Technology</p>
 
 <img class="prize-winner-headshot" alt="Claire Webb, HSS/NASA Fellow in Aerospace History"
-sizes="(max-width: 750px) 80vw, 750px"
+sizes="(max-width: 750px) 80vw, 500px"
 srcset="
 ./webb_hnhk8g_c_scalew_200.jpg 200w,
 ./webb_hnhk8g_c_scalew_664.jpg 664w"
@@ -40,7 +40,7 @@ Established in 1955 by Ida and Henry Schuman of New York City to recognize an or
 
 <picture>
 <img class="prize-winner-headshot"
-sizes="(max-width: 750px) 80vw, 750px"
+sizes="(max-width: 750px) 80vw, 500px"
 srcset="
 ./Bolman_-_Headshot_-_2019_pnvdmz_c_scalew_200.jpg 200w,
 ./Bolman_-_Headshot_-_2019_pnvdmz_c_scalew_389.jpg 389w,
@@ -56,14 +56,14 @@ In “Pig Mentations: Race and Face in Radiobiology and Beyond,” Brad Bolman t
 
 <picture>
 <img alt="Bolman accepts Reingold Prize with Lightman" class="fullbleed"
-sizes="(max-width: 750px) 80vw, 750px"
+sizes="(max-width: 750px) 80vw, 500px"
 srcset="
-bolman_xs3ekd_c_scalew_200.jpg 200w,
-bolman_xs3ekd_c_scalew_335.jpg 335w,
-bolman_xs3ekd_c_scalew_441.jpg 441w,
-bolman_xs3ekd_c_scalew_533.jpg 533w,
-bolman_xs3ekd_c_scalew_750.jpg 750w"
-src="bolman_xs3ekd_c_scalew_750.jpg">
+./bolman_xs3ekd_c_scalew_200.jpg 200w,
+./bolman_xs3ekd_c_scalew_335.jpg 335w,
+./bolman_xs3ekd_c_scalew_441.jpg 441w,
+./bolman_xs3ekd_c_scalew_533.jpg 533w,
+./bolman_xs3ekd_c_scalew_750.jpg 750w"
+src="./bolman_xs3ekd_c_scalew_750.jpg">
 </picture>
 
 <div class="divider"></div>
@@ -116,7 +116,7 @@ Awarded for the best early career work on the history of the earth and environme
 
 <picture>
 <img class="prize-winner-headshot"
-sizes="(max-width: 750px) 80vw, 750px"
+sizes="(max-width: 750px) 80vw, 500px"
 srcset="
 ./Aronowsky_-_Headshot_-_2019_enzgsn_c_scalew_200.jpg 200w,
 ./Aronowsky_-_Headshot_-_2019_enzgsn_c_scalew_339.jpg 339w,
@@ -144,7 +144,7 @@ Awarded for the best article in *Isis*. [Learn more about the Price/Webster Priz
 <p class="prize-winner-affiliation">Johns Hopkins</p>
 
 <img class="prize-winner-headshot" alt="Marta Hanson, Price/Webster Prize Winner"
-sizes="(max-width: 750px) 80vw, 750px"
+sizes="(max-width: 750px) 80vw, 500px"
 srcset="
 ./Hanson_-_Headshot_-_2019_iwbpcm_c_scalew_200.jpg 200w,
 ./Hanson_-_Headshot_-_2019_iwbpcm_c_scalew_308.jpg 308w,
@@ -153,7 +153,7 @@ srcset="
 src="./Hanson_-_Headshot_-_2019_iwbpcm_c_scalew_563.jpg">
 
 <img class="prize-winner-headshot" alt="Gianna Pomata, Price/Webster Prize Winner"
-sizes="(max-width: 750px) 80vw, 750px"
+sizes="(max-width: 750px) 80vw, 500px"
 srcset="
 ./Pomata_-_Headshot_-_2019_eqey91_c_scalew_200.jpg 200w,
 ./Pomata_-_Headshot_-_2019_eqey91_c_scalew_314.jpg 314w,
@@ -196,7 +196,7 @@ Awarded for excellence in teaching the history of science. [Learn more about the
 <p class="prize-winner-affiliation">Oregon State University</p>
 
 <img class="prize-winner-headshot" alt="Michael Osborne, Hazen Prize Winner"
-sizes="(max-width: 750px) 80vw, 750px"
+sizes="(max-width: 750px) 80vw, 500px"
 srcset="
 ./Osborne_-_Headshot_-_2019_tmuoco_c_scalew_200.jpg 200w,
 ./Osborne_-_Headshot_-_2019_tmuoco_c_scalew_363.jpg 363w,
@@ -236,7 +236,7 @@ Awarded for the best book on the role of women in science. [Learn more about the
 <p class="prize-winner-affiliation">University College London</p>
 
 <img class="prize-winner-headshot" alt="Elaine Leong, Rossiter Prize Winner"
-sizes="(max-width: 750px) 80vw, 750px"
+sizes="(max-width: 750px) 80vw, 500px"
 srcset="
 ./Leong_-_Headshot_-_2019_k56twz_c_scalew_200.jpg 200w,
 ./Leong_-_Headshot_-_2019_k56twz_c_scalew_337.jpg 337w,
@@ -284,7 +284,7 @@ Awarded for the best book for a general audience. [Learn more about the Davis Pr
 <p class="prize-winner-affiliation">University of Hartford</p>
 
 <img class="prize-winner-headshot" alt="Michael F Robinson, Davis Prize Winner"
-sizes="(max-width: 750px) 80vw, 750px"
+sizes="(max-width: 750px) 80vw, 500px"
 srcset="
 ./Robinson_-_Headshot_-_2019_wzyjd9_c_scalew_200.jpg 200w,
 ./Robinson_-_Headshot_-_2019_wzyjd9_c_scalew_341.jpg 341w,
@@ -326,7 +326,7 @@ Awarded for the best scholarly book. [Learn more about the Pfizer Prize](https:/
 
 <picture>
 <img class="prize-winner-headshot" alt="Deborah Coen, Pfizer Prize Winner"
-sizes="(max-width: 750px) 80vw, 750px"
+sizes="(max-width: 750px) 80vw, 500px"
 srcset="
 ./Coen_-_Headshot_-_2019_joump8_c_scalew_200.jpg 200w,
 ./Coen_-_Headshot_-_2019_joump8_c_scalew_311.jpg 311w,
