@@ -6,7 +6,7 @@
     "doc": "docs"
   },
   "dependencies": {
-    "apexcharts": "^3.8.5",
+    "apexcharts": "^3.24.0",
     "chart.js": "^2.8.0",
     "leaflet": "^1.5.1",
     "vue-apexcharts": "^1.4.0",
