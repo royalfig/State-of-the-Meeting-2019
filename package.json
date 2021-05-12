@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "apexcharts": "^3.8.5",
-    "chart.js": "^2.8.0",
+    "chart.js": "^2.9.4",
     "leaflet": "^1.5.1",
     "vue-apexcharts": "^1.4.0",
     "vue-chartist": "^2.2.1",
